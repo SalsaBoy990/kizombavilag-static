@@ -85,7 +85,7 @@
               postDate: config.site.dateFormatted[iterator],
               commentsEnabled: config.site.postdata[iterator].comments_enabled,
               pathsToPosts: pathsToPosts,
-              archive: './../../../a_korabbi_cikkek.html'
+              archive: './../../../az_osszes_cikk.html'
             }))
           })
           .then((layoutContent) => {

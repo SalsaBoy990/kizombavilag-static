@@ -7,7 +7,7 @@
     </li>
   <% } %>
     <li>
-      <a href="<%= archive %>">Ugrás a korábbi cikkekhez</a>
+      <a href="<%= archive %>">Az összes cikkem listája</a>
     </li>
   </ul>
 
@@ -16,6 +16,6 @@
     <% for (var i = site.postdata.length - 1, j = 0; i >= 0; i--) { %>
     <option value="<%= pathsToPosts[j++] %>"><%= site.postdata[i].title %></option>
     <% } %>
-    <option value="<%= archive %>">Ugrás a korábbi cikkekhez</option>
+    <option value="<%= archive %>">Az összes cikkem listája</option>
   </select>
 </header>
