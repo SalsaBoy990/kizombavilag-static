@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="hu">
+<%- include('../partials/head-post.ejs') %>
+<body>
+  <div class="flex-container">
+        
+    <div class="site-header">
+    <%- include('../partials/header.ejs') %>
+    </div>
+
+    <div class="wrapper">
+            
+      <div class="post-content">
+        <article>
+          <h1 class="post-title"><%= headerTitle %></h1>
+          <p class="post-date"><%= postDate %></p>
+
+          <%- body %>
+        </article>
+        <br />
+        <%- include('../partials/disqus.ejs') %>
+      </div>
+      <%- include('../partials/footer.ejs') %>
+    </div>
+
+  </div>
+</body>
+</html>

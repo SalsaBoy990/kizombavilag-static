@@ -1,0 +1,499 @@
+@charset "UTF-8";
+/* "KIZOMBAVILÁG" THEME CREATED BY ANDRÁS GULÁCSI (TVISZTANDRIS), 2018-01-06 */
+
+
+
+/* ++++++++++++++++ 
+  SET BASICS
+   ++++++++++++++++ 
+*/
+
+
+
+html {
+  font-size: 20px;
+}
+
+body {
+  height:100%;
+  width:100%;
+  font: 400 1rem/1.63 "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: left;
+  color:#333;
+  background:#f8f8f8;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote,
+pre, hr, dl, dd, ol, ul, figure {
+  margin:0;
+  padding:0
+}
+
+blockquote, pre, ul, ol, dl, figure, .highlight {
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-bottom: .7rem;
+  text-indent: 2em;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: "Oswald", 'Arial', "Helvetica Neue", Helvetica, sans-serif;
+  margin-top: 2rem;
+  margin-bottom: .9rem;
+  padding-left: 2rem;
+  padding-right: 1rem;
+  line-height: 1.3;
+  color: #554000;
+}
+
+h1 {
+  line-height: 1.3;
+  font-family: "Oswald", 'Arial', "Helvetica Neue", Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: underline;
+  background: #FFEAAA;
+  color: #554000;
+}a:hover {
+  transition: .35s;
+  background: #554000;
+  color: #FFEAAA;
+}
+
+ul, ol {
+  margin-left: 4rem;
+  margin-right: 2rem;
+}
+
+li > ul, li > ol {
+  margin-bottom: 0;
+}
+
+
+figcaption {
+  display: block;
+  margin: 0;
+  padding: 0 0 1rem 0;
+  font-style: italic;
+  text-align: center;
+  font-size: .85rem;
+  color: #806515;
+}figcaption a{
+  font-size: .85rem;
+}
+
+
+iframe { 
+  -webkit-box-shadow: 1px 1px 2px 2px #ccc;
+  -moz-box-shadow: 1px 1px 2px 2px #ccc;
+  box-shadow: 1px 1px 1px 1px #ccc;
+  display: block;
+  width: 97.5%;
+  margin: auto;
+  margin-bottom: 0.5rem;
+  margin-top: 2rem;
+  padding: 0;
+}
+
+.vimeo-video {
+  width: 640px;
+  height: 320px;
+}
+
+img {
+  -webkit-box-shadow: 1px 1px 2px 2px #ccc;
+  -moz-box-shadow: 1px 1px 2px 2px #ccc;
+  box-shadow: 1px 1px 1px 1px #ccc;
+
+  display: block;
+  height: auto;
+  width: 97.5%;
+  margin: auto;
+  padding: 0;
+  text-align: center;
+}
+
+/* Form styles */
+form {
+  display: block;
+  padding: 0;
+  margin: 0rem auto;
+  text-align: center;
+}
+
+select {
+  font: inherit;
+  font-size: .9rem;
+  color: #8F78AD;
+  background: #1C053A;
+  /*padding: 0.2em 0.4em;*/
+  border: 1px solid #8F78AD;
+  overflow: wrap;
+}
+
+option {
+  padding: 0.4em 0;
+  /* wrap text in compatible browsers */
+  -moz-white-space:pre-wrap; 
+  -o-white-space:pre-wrap; 
+  white-space:pre-wrap; 
+}
+
+button {
+  font: inherit;
+  font-size: .9rem;
+  cursor: pointer;
+  padding: 0.2em 0.4em;
+  border: 1px solid #aaa;
+  background-color: #e9f1ff;
+  color: #1C053A;
+}
+
+.result {
+  text-indent: 0;
+  padding-bottom: 1rem;
+  text-align: center;
+  margin: 0 0 1rem 0;
+}
+
+video-margin-top {
+  margin-top: 2rem;
+}
+
+.user-interface {
+  border: 1px solid #ccc;
+  background: #eee;
+  width: 97.5%;
+  margin: 0 auto .5rem auto;
+  text-align: center;
+}
+
+
+
+/* ++++++++++++++++ 
+  SET BASIC CLASSES
+   ++++++++++++++++ 
+*/
+
+.footer {
+  margin-top: 2rem;
+  font-size: .7rem;
+  color: #111;
+  text-align: center;
+  background: #AAA039;
+  
+
+}.footer p {
+  text-indent: 0;
+  padding: .5rem 0;
+  margin: 0;
+}
+
+.archive {
+  margin-top: .5rem;
+  text-indent: 0;
+  font-size: .85rem;
+}
+
+.archive-date {
+  padding-right: 0rem;
+  font-size: 0.75rem;
+  color: #555;
+}
+
+.disqus {
+  margin: 0 1rem;
+}
+
+.disqus iframe {
+  box-shadow: none;
+}
+
+
+
+/* ++++++++++++++++ 
+  SET STYLING OF PAGE SUB-PARTS
+   ++++++++++++++++ 
+*/
+
+
+
+.flex-container {
+  display: block;
+}
+
+
+.site-header {
+  flex: 1;
+  line-height: 3.5rem;
+  background: #1C053A;
+}
+
+
+.wrapper {
+  flex: 3;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 1rem;
+  background: #AAA039;
+}
+
+
+.post-content {
+  padding-top: 2rem;
+  margin: 1.5rem 3rem 0rem 3rem;
+  background: #f8f8f8;
+  border-bottom: 1px solid #888;
+  -webkit-box-shadow: 0 -1px 0 rgba(0,0,0,0.12), 0 0 2px rgba(0,0,0,0.12), 0 2px 4px rgba(0,0,0,0.24);  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    0 -1px 0 rgba(0,0,0,0.12), 0 0 2px rgba(0,0,0,0.12), 0 2px 4px rgba(0,0,0,0.24);  /* Firefox 3.5 - 3.6 */
+  box-shadow:         0 -1px 0 rgba(0,0,0,0.12), 0 0 2px rgba(0,0,0,0.12), 0 2px 4px rgba(0,0,0,0.24);  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+  border-radius: 5px;
+}.post-content p {
+  padding: 0 2rem;
+}
+
+.right-p {
+  font-size: .85rem;
+  text-align: right;
+  font-weight: 700;
+}
+
+.post-title {
+  font-size: 2.5rem;
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: 8px;
+  margin-left: 8px;
+  border-right: 1.5rem solid #f8f8f8;
+  border-left: 1.5rem solid #FFEAAA;
+  border-radius: 2px;
+  color: #554000;
+  box-shadow: 8px 0 0 #fff, -8px 0 0 #806515;
+  text-align: right;
+}
+
+.post-date {
+  margin-top: .5rem;
+  padding-right: 2rem;
+  font-size: 0.75rem;
+  text-indent: 0;
+  text-align: right;
+  color: #806515;
+}
+
+.literature {
+  font-size: .75rem;
+}
+
+.cover {
+  /*padding: 1.25% 0;*/
+  margin-bottom: 0.5rem;
+  -webkit-filter: sepia(25%); /* Safari */
+  filter: sepia(25%);
+  width: 60%
+}
+
+.normal {
+  /*padding: 1.25% 0;*/
+  width: 65%;
+  margin-bottom: 0.5rem;
+}
+
+
+.site-header header nav {
+  padding-right: 1.5rem;
+}
+
+.site-header a{
+  color: #8F78AD;
+  padding: 0;
+  font-size: .7rem;
+  text-decoration: none;
+  font-weight: 700;
+  text-decoration: none;
+  background: none;
+}.site-header a:hover{
+  transition: 0.35s;
+  color: #b60f84;
+}/*.site-header a:active{
+  transition: 0.1s;
+  color: #b60f84;
+}*/
+
+.site-header header ul li {
+  padding: .5rem 1rem;
+  line-height: 1.2;
+  margin: 0;
+  border-bottom: 1px solid #8F78AD;
+  text-align: center;
+}
+
+.navbar {
+  margin-top: 2rem;
+  display: block;
+  text-align: left;
+  list-style-type: none;
+  margin-left: 0;
+  width: 100%;
+}
+
+.site-title {
+  padding-top: 1rem;
+  text-align: center;
+}
+.site-header .site-title a {
+  font-size: 1.5rem;
+  color: #8080B3;
+  font-weight: 800;
+  text-decoration: none;
+}.site-header .site-title a:hover {
+  transition: 0.35s;
+  color: #b60f84;
+}.site-header .site-title a:active{
+  transition: 0.1s;
+  color: #b60f84;
+}
+
+.icon {
+  background: none;
+}.icon:hover {
+  -webkit-filter: contrast(2);
+  filter: contrast(2);
+  background: none;
+}
+
+.pr1 {
+  padding-right: 0.5rem;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+/* ++++++++++++++++ 
+  SET MEDIA QUERYIES FOR RESPONSIVE DESIGN
+   ++++++++++++++++ 
+*/
+
+
+
+/* ACTIVATES THE FLEX-BOX MODEL FOR LARGER SCREENS */
+@media only screen and (min-width: 769px) {
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .select-menu {
+    display: none;
+  }
+  .select-menu select {
+    overflow: wrap;
+    overflow-wrap: break-word;
+  }
+
+}
+
+@media only screen and (max-width: 768px) {
+  .post-content {
+    margin: 0;
+    padding-bottom: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  .wrapper {
+    padding-top: 0rem;
+  }
+
+  .select-menu {
+    display: flex;
+    width: 100%;
+    margin-top: 1rem;
+    overflow:hidden;
+  }.select-menu option {
+    margin: 0 1rem;
+    overflow:hidden; 
+  }
+
+  .navbar {
+    display: none;
+  }
+}
+
+
+/* REDUCES FONT-SIZES, PADDINGS, AND MARGINS FOR SMALL SCREENS */
+@media only screen and (max-width: 600px) {
+  html {
+    font-size: 18px;
+  }
+
+  .vimeo-video {
+    width: 512px;
+    height: 256px;
+  }
+
+  .cover, .normal {
+    width: 75%;
+  }
+
+  ul, ol {
+    margin-left: 2rem;
+    margin-right: 1rem;
+  }
+
+  h2, h3, h4, h5, h6 {
+    padding-left: 1rem;
+  }
+
+  .site-header header ul li {
+    padding: .5rem 0;
+  }
+
+  .navbar {
+    margin-top: 1rem;
+  }
+
+  .post-content {
+    margin: 0;
+    border-radius: 0;
+  }.post-content p {
+    padding: 0 1rem;
+  }
+
+  .wrapper {
+      padding-top: 0rem;
+  }
+}
+
+@media only screen and (max-width: 510px) {
+  .vimeo-video {
+    width: 400px;
+    height: 200px;
+  }
+}
+
+
+/* REDUCES FONT-SIZES FOR MINIMAL SCREEN WIDTHS */
+@media only screen and (max-width: 370px) {
+  html {
+    font-size: 16px;
+  }
+
+  .vimeo-video {
+    width: 320px;
+    height: 180px;
+  }
+
+  .cover, .normal {
+    width: 90%;
+  }
+}

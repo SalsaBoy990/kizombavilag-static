@@ -1,0 +1,21 @@
+<header>
+  <h1 class="site-title"><a href="/" title="Ugrás a főoldalra">Kizombavilág</a></h1> 
+  <ul class="navbar">
+  <% for (var i = site.postdata.length - 1, j = 0; i >= 0; i--) { %>
+    <li>
+      <a href="<%= pathsToPosts[j++] %>"><%= site.postdata[i].title %></a>
+    </li>
+  <% } %>
+    <li>
+      <a href="<%= archive %>">Ugrás a korábbi cikkekhez</a>
+    </li>
+  </ul>
+
+  <select class="select-menu" id="select-menu">
+    <option value="/">Válassz a menüből!</option>
+    <% for (var i = site.postdata.length - 1, j = 0; i >= 0; i--) { %>
+    <option value="<%= pathsToPosts[j++] %>"><%= site.postdata[i].title %></option>
+    <% } %>
+    <option value="<%= archive %>">Ugrás a korábbi cikkekhez</option>
+  </select>
+</header>

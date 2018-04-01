@@ -1,0 +1,5 @@
+__drafts/
+node_modules/
+database/
+package-lock.json
+public/

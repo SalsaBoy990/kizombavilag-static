@@ -1,0 +1,35 @@
+{
+  "name": "static-site-express",
+  "version": "1.0.0",
+  "description": "A simple Node.js based static site generator that uses EJS",
+  "main": "./scripts/build.js",
+  "scripts": {
+    "build": "node ./scripts/buildPosts.js && node ./scripts/buildPages.js",
+    "serve": "node ./scripts/serve.js",
+    "build-serve": "node ./scripts/buildAll.js && node ./scripts/serve.js",
+    "table": "node ./database/mysql_table_tool.js",
+    "db": "node ./database/mysql_db_tool.js"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "ejs",
+    "mysql",
+    "static-site",
+    "static site generator",
+    "static files"
+  ],
+  "author": "András Gulácsi",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "fs-extra": "^5.0.0",
+    "mysql": "^2.15.0",
+    "readline-sync": "^1.4.9",
+    "serve-favicon": "^2.4.5"
+  },
+  "devDependencies": {
+    "standard": "^11.0.0"
+  }
+}

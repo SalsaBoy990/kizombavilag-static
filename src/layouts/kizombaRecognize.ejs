@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="hu">
+<%- include('../partials/head.ejs') %>
+<body>
+  <div class="flex-container">
+    <div class="site-header">
+    <%- include('../partials/header') %>
+    </div>
+
+    <div class="wrapper">
+
+      <div class="post-content">
+        <article>
+          <h1 class="post-title"><%= title %></h1>
+
+          <p class="post-date"><%= date %>, szerző: <span class="author"><%= author %></span></p>
+
+          <!-- post body comes here -->
+          <% for (var i = 0; i < postBody.length; i++) {%>
+          <p><%- postBody[i] %></p>
+          <% } %>
+              
+          <div class="app-container">
+
+            <% for (var i = 0; i < songList.length; i++) {%>
+            <iframe sandbox="allow-scripts allow-same-origin" class="video-margin-top" width="560" height="315" src="<%= songList[i].url%>" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            <div class="user-interface">
+              <figcaption><%= songList[i].title %></figcaption>
+
+              <form action="#">
+                <label for="select">Mi a zene stílusa?</label>
+                <select id="answer<%= i %>" required>
+                  <option value="nincsValasz">Válassz!</option>
+                  <option value="szemba">Szemba</option>
+                  <option value="kizomba">Kizomba</option>
+                  <option value="ghetto zouk">Ghetto zouk</option>
+                  <option value="tarraxinha">Tarraxinha</option>
+                </select>
+                <button id="button<%= i %>" data-max="<%= max %>" type="submit" data-index="<%= i %>" data-ans="answer<%= i %>" data-sol="solution<%= i %>" data-some='<%= JSON.stringify(songList) %>'>Megoldás</button>
+              </form>
+
+              <p class="result" id="solution<%= i %>"></p>
+
+            </div>
+            <% } %>
+
+          </div>
+        </article>
+        
+        <script type = "text/javascript" src="/javascripts/answerChecker.js"></script>
+        <br />
+
+      </div>
+      <%- include('../partials/footer') %>
+    </div>
+
+  </div>
+</body>
+</html>
