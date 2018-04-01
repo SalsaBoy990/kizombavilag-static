@@ -75,7 +75,7 @@ module.exports = {
     facebook: 'kizombavilag',
     mailchimp: 'http://eepurl.com/dgDU-9',
     year: new Date().getFullYear(),
-    ogImage: '/assets/images/ennuel_hakima.jpg',
+    ogImage: 'https://d33wubrfki0l68.cloudfront.net/8ac16ad7f2c4e980a0c085ad597db063ff52ff1c/d2048/assets/images/ennuel_hakima.jpg',
     postdata,
     dateFormatted: dateFormatted
   }
