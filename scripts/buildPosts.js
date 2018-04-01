@@ -82,9 +82,7 @@
               postId: postId,
               headerTitle: config.site.postdata[iterator].title,
               postTitle: config.site.title + ': ' + config.site.postdata[iterator].title,
-              postDescription: config.site.postdata[iterator].description,
               postDate: config.site.dateFormatted[iterator],
-              postImage: './../../../assets/images/ennuel_hakima.jpg',
               commentsEnabled: config.site.postdata[iterator].comments_enabled,
               pathsToPosts: pathsToPosts,
               archive: './../../../a_korabbi_cikkek.html'

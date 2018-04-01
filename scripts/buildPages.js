@@ -45,9 +45,8 @@
                   body: pageContents,
                   canonicalUrl: config.site.url,
                   description: config.site.quote,
-                  image: 'assets/images/ennuel_hakima.jpg',
                   pathsToPosts: pathsToPosts,
-                  archive: 'a_korabbi_cikkek.html'
+                  archive: 'az_osszes_cikk.html'
                 }))
               case 'a_korabbi_cikkek.ejs':
                 return ejsRenderFile(`${srcPath}/layouts/archive.ejs`, Object.assign({}, config, {
@@ -55,9 +54,8 @@
                   body: pageContents,
                   canonicalUrl: config.site.url + '/a_korabbi_cikkek',
                   description: 'A Kizombavilág Portálon megjelent korábbi cikkek listája',
-                  image: 'assets/images/ennuel_hakima.jpg',
                   pathsToPosts: pathsToPosts,
-                  archive: 'a_korabbi_cikkek.html'
+                  archive: 'az_osszes_cikk.html'
                 }))
               default:
                 return ejsRenderFile(`${srcPath}/layouts/not-found.ejs`, Object.assign({}, config, {
@@ -65,7 +63,6 @@
                   body: pageContents,
                   canonicalUrl: config.site.url + '/' + fileData.name,
                   description: 'Biztos, hogy helyes ez a cím? Mert itt nem található semmilyen cikk.',
-                  image: 'assets/images/ennuel_hakima.jpg',
                   pathsToPosts: pathsToPosts,
                   archive: 'a_korabbi_cikkek.html'
                 }))
