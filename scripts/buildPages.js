@@ -48,12 +48,12 @@
                   pathsToPosts: pathsToPosts,
                   archive: 'az_osszes_cikk.html'
                 }))
-              case 'a_korabbi_cikkek.ejs':
+              case 'az_osszes_cikk.ejs':
                 return ejsRenderFile(`${srcPath}/layouts/archive.ejs`, Object.assign({}, config, {
-                  title: 'A korábbi cikkek / ' + config.site.title,
+                  title: 'Az összes cikkem / ' + config.site.title,
                   body: pageContents,
-                  canonicalUrl: config.site.url + '/a_korabbi_cikkek',
-                  description: 'A Kizombavilág Portálon megjelent korábbi cikkek listája',
+                  canonicalUrl: config.site.url + '/az_osszes_cikk',
+                  description: 'A Kizombavilág Portálon megjelent összes cikk listája',
                   pathsToPosts: pathsToPosts,
                   archive: 'az_osszes_cikk.html'
                 }))
@@ -64,7 +64,7 @@
                   canonicalUrl: config.site.url + '/' + fileData.name,
                   description: 'Biztos, hogy helyes ez a cím? Mert itt nem található semmilyen cikk.',
                   pathsToPosts: pathsToPosts,
-                  archive: 'a_korabbi_cikkek.html'
+                  archive: 'az_osszes_cikk.html'
                 }))
             }
           })

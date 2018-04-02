@@ -67,11 +67,11 @@ for (let i = 0; i < postdata.length; i++) {
 
 module.exports = {
   site: {
-    url: 'https://www.kizombavilag.hu/',
+    url: 'https://www.kizombavilag.com',
     title: 'Kizombavilág Információs Portál',
     author: 'Gulácsi András',
     description: 'A Kizombavilág információs portál összegyűjti és rendszerezi a kizombával kapcsolatos ismereteket, amelyek az interneten nagyon szétszórtan lelhetők fel.',
-    email: 'info@kizombavilag.hu',
+    email: 'guland@protonmail.com',
     facebook: 'kizombavilag',
     mailchimp: 'http://eepurl.com/dgDU-9',
     year: new Date().getFullYear(),
