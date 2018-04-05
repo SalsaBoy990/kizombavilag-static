@@ -1,4 +1,4 @@
-/* global top, self, alert, dataLayer */
+/* global top, self, alert */
 'use strict'
 if (top.location.href !== self.location.href) {
   top.location.href = self.location.href
@@ -12,7 +12,7 @@ window.onload = function () {
       if (this.value) {
         window.location.href = this.value
       }
-    });
+    })
   } else {
     select.attachEvent('onchange', function () {
       if (this.value) {
@@ -21,12 +21,3 @@ window.onload = function () {
     })
   }
 }
-
-/* Google Analytics tracking */
-window.dataLayer = window.dataLayer || []
-function gtag () {
-  dataLayer.push(arguments)
-}
-gtag('js', new Date())
-
-gtag('config', 'UA-111942600-1')
