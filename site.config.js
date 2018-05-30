@@ -1,65 +1,75 @@
-const postdata = require('./src/data/postdata.json')
+const postData = require('./src/data/postdata.json')
+const domesticEventsData = require('./src/data/domestic_events.json')
+const eventsAbroadData = require('./src/data/events_abroad.json')
 
-let dateFormatted = []
+let postDateFormatted = []
+let domesticEventsDateFormatted = []
+let eventsAbroadDateFormatted = []
 let dateParts = []
 
-for (let i = 0; i < postdata.length; i++) {
-  // split date string by the '-' delimiter into an array
-  dateParts = postdata[i].date.split('-')
-  // console.log(dateParts)
+dateFormatter(postData, postDateFormatted)
+dateFormatter(domesticEventsData, domesticEventsDateFormatted)
+dateFormatter(eventsAbroadData, eventsAbroadDateFormatted)
 
-  // replace month number with month name
-  let month = dateParts[1]
-  switch (month) {
-    case '01':
-      dateFormatted.push(dateParts[0] + '. január ' + dateParts[2] + '.')
-      break
+function dateFormatter (data, dateFormatted) {
+  for (let i = 0; i < data.length; i++) {
+    // split date string by the '-' delimiter into an array
+    dateParts = data[i].datum.split('-')
+    // console.log(dateParts)
 
-    case '02':
-      dateFormatted.push(dateParts[0] + '. február ' + dateParts[2] + '.')
-      break
+    // replace month number with month name
+    let month = dateParts[1]
+    switch (month) {
+      case '01':
+        dateFormatted.push('jan.')
+        break
 
-    case '03':
-      dateFormatted.push(dateParts[0] + '. március ' + dateParts[2] + '.')
-      break
+      case '02':
+        dateFormatted.push('feb.')
+        break
 
-    case '04':
-      dateFormatted.push(dateParts[0] + '. április ' + dateParts[2] + '.')
-      break
+      case '03':
+        dateFormatted.push('márc.')
+        break
 
-    case '05':
-      dateFormatted.push(dateParts[0] + '. május ' + dateParts[2] + '.')
-      break
+      case '04':
+        dateFormatted.push('ápr.')
+        break
 
-    case '06':
-      dateFormatted.push(dateParts[0] + '. június ' + dateParts[2] + '.')
-      break
+      case '05':
+        dateFormatted.push('máj.')
+        break
 
-    case '07':
-      dateFormatted.push(dateParts[0] + '. július ' + dateParts[2] + '.')
-      break
+      case '06':
+        dateFormatted.push('jún.')
+        break
 
-    case '08':
-      dateFormatted.push(dateParts[0] + '. augusztus ' + dateParts[2] + '.')
-      break
+      case '07':
+        dateFormatted.push('júl.')
+        break
 
-    case '09':
-      dateFormatted.push(dateParts[0] + '. szeptember ' + dateParts[2] + '.')
-      break
+      case '08':
+        dateFormatted.push('aug.')
+        break
 
-    case '10':
-      dateFormatted.push(dateParts[0] + '. október ' + dateParts[2] + '.')
-      break
+      case '09':
+        dateFormatted.push('szept.')
+        break
 
-    case '11':
-      dateFormatted.push(dateParts[0] + '. november ' + dateParts[2] + '.')
-      break
+      case '10':
+        dateFormatted.push('okt.')
+        break
 
-    case '12':
-      dateFormatted.push(dateParts[0] + '. december ' + dateParts[2] + '.')
-      break
+      case '11':
+        dateFormatted.push('nov.')
+        break
 
-    default: break
+      case '12':
+        dateFormatted.push('dec.')
+        break
+
+      default: break
+    }
   }
 }
 
@@ -67,16 +77,22 @@ for (let i = 0; i < postdata.length; i++) {
 
 module.exports = {
   site: {
-    url: 'https://www.kizombavilag.com',
+    url: '' /* 'https://www.kizombavilag.com' */,
     title: 'Kizombavilág Információs Portál',
     author: 'Gulácsi András',
-    description: 'A Kizombavilág információs portál összegyűjti és rendszerezi a kizombával kapcsolatos ismereteket, amelyek az interneten nagyon szétszórtan lelhetők fel.',
+    description: 'A hazai információs portál a kizomba/semba iránt érdeklődők számára, hiteles, angolai forrásokból.',
+    slogan: 'A kizomba sokkal több egy táncnál!',
     email: 'guland@protonmail.com',
+    mobile: '+36/20/442-7225',
     facebook: 'kizombavilag',
     mailchimp: 'http://eepurl.com/dgDU-9',
     year: new Date().getFullYear(),
     ogImage: 'https://d33wubrfki0l68.cloudfront.net/1ca3910179ace8d8741c302757f445b29dd9a834/74398/assets/images/dancers.jpg',
-    postdata,
-    dateFormatted: dateFormatted
+    postData,
+    postDateFormatted: postDateFormatted,
+    domesticEventsData,
+    domesticEventsDateFormatted: domesticEventsDateFormatted,
+    eventsAbroadData,
+    eventsAbroadDateFormatted: eventsAbroadDateFormatted
   }
 }

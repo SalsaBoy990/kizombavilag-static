@@ -4,6 +4,8 @@
   "description": "A simple Node.js based static site generator that uses EJS",
   "main": "./scripts/build.js",
   "scripts": {
+    "build-pages": "node ./scripts/buildPages.js",
+    "build-posts": "node ./scripts/buildPosts.js",
     "build": "node ./scripts/buildPosts.js && node ./scripts/buildPages.js",
     "serve": "node ./scripts/serve.js",
     "build-serve": "node ./scripts/buildAll.js && node ./scripts/serve.js",

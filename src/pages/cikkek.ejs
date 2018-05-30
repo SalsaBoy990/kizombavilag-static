@@ -1,0 +1,21 @@
+<div class="align-center mx-auto" style="max-width: 560px;">
+  <h1 class="align-left mb2">Cikkek</h1>
+
+  <% for (var i = 0; i < site.postData.length; i++) { %>
+  <div class="shadow2 p0 mb3 bg-white">
+    <div class="clearfix pb1">
+      <div class="left mthalf mlhalf mrhalf bg-white border-full-light border-edge" style="width: 60px; background: #feffff">
+        <p class="m0 small-smallest gray uppercase"><%= site.postData[i].datum.split('-')[0] %>.</p>
+        <p class="m0 small-smallest bold uppercase"><%= site.postDateFormatted[i] %></p>
+        <p class="m0 medium bold uppercase"><%= site.postData[i].datum.split('-')[2] %>.</p>
+      </div>
+    
+      <div class="align-left pthalf" style="min-width: 100px">
+        <a href="<%= pathsToPosts[i] %>">
+          <p class="m0 pr1" style="margin-left: 4rem"><%= site.postData[i].cim %></p>
+        </a>
+      </div>
+    </div>
+  </div>
+  <% } %>
+</div>

@@ -33,7 +33,7 @@
         fse.mkdirs(destPath)
           .then(() => {
             // render page
-            return ejsRenderFile(`${srcPath}/pages/${file}`, Object.assign({}, config, { pathsToPosts: pathsToPosts, title: '404 A keresett oldal nem található!' }))
+            return ejsRenderFile(`${srcPath}/pages/${file}`, Object.assign({}, config, { pathsToPosts: pathsToPosts , title: '404: A keresett oldal nem található!' }))
           })
           .then((pageContents) => {
             let name = fileData.base
@@ -44,27 +44,49 @@
                   title: config.site.title,
                   body: pageContents,
                   canonicalUrl: config.site.url,
-                  description: config.site.quote,
-                  pathsToPosts: pathsToPosts,
-                  archive: 'az_osszes_cikk.html'
+                  description: config.site.description
                 }))
-              case 'az_osszes_cikk.ejs':
-                return ejsRenderFile(`${srcPath}/layouts/archive.ejs`, Object.assign({}, config, {
-                  title: 'Az összes cikkem / ' + config.site.title,
+              case 'esemenyek.ejs':
+                return ejsRenderFile(`${srcPath}/layouts/events.ejs`, Object.assign({}, config, {
+                  title: 'Eseményajánló / ' + config.site.title,
                   body: pageContents,
-                  canonicalUrl: config.site.url + '/az_osszes_cikk',
-                  description: 'A Kizombavilág Portálon megjelent összes cikk listája',
-                  pathsToPosts: pathsToPosts,
-                  archive: 'az_osszes_cikk.html'
+                  canonicalUrl: config.site.url + '/esemenyek',
+                  description: ''
+                }))
+              case 'zenek.ejs':
+                return ejsRenderFile(`${srcPath}/layouts/music.ejs`, Object.assign({}, config, {
+                  title: 'Zeneajánlók / ' + config.site.title,
+                  body: pageContents,
+                  canonicalUrl: config.site.url + '/zenek',
+                  description: ''
+                }))
+              case 'tancos-videok.ejs':
+                return ejsRenderFile(`${srcPath}/layouts/dancers.ejs`, Object.assign({}, config, {
+                  title: 'Táncos videók / ' + config.site.title,
+                  body: pageContents,
+                  canonicalUrl: config.site.url + '/tancos-videok',
+                  description: ''
+                }))
+              case 'oktato-videok.ejs':
+                return ejsRenderFile(`${srcPath}/layouts/education.ejs`, Object.assign({}, config, {
+                  title: 'Oktató videók / ' + config.site.title,
+                  body: pageContents,
+                  canonicalUrl: config.site.url + '/oktato-videok',
+                  description: ''
+                }))
+              case 'cikkek.ejs':
+                return ejsRenderFile(`${srcPath}/layouts/articles.ejs`, Object.assign({}, config, {
+                  title: 'Cikkek / ' + config.site.title,
+                  body: pageContents,
+                  canonicalUrl: config.site.url + '/cikkek',
+                  pathsToPosts: pathsToPosts
                 }))
               default:
-                return ejsRenderFile(`${srcPath}/layouts/not-found.ejs`, Object.assign({}, config, {
-                  title: '404 A keresett oldal nem található',
+                return ejsRenderFile(`${srcPath}/layouts/home.ejs`, Object.assign({}, config, {
+                  title: '404: A keresett oldal nem található',
                   body: pageContents,
                   canonicalUrl: config.site.url + '/' + fileData.name,
-                  description: 'Biztos, hogy helyes ez a cím? Mert itt nem található semmilyen cikk.',
-                  pathsToPosts: pathsToPosts,
-                  archive: 'az_osszes_cikk.html'
+                  description: 'Biztos, hogy helyes ez a cím? Mert itt nem található semmilyen cikk.'
                 }))
             }
           })

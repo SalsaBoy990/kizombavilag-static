@@ -1,21 +1,32 @@
-<header>
-  <h1 class="site-title"><a href="/" title="Ugrás a főoldalra">Kizombavilág</a></h1> 
-  <ul class="navbar">
-  <% for (var i = site.postdata.length - 1, j = 0; i >= 0; i--) { %>
-    <li>
-      <a href="<%= pathsToPosts[j++] %>"><%= site.postdata[i].title %></a>
-    </li>
-  <% } %>
-    <li>
-      <a href="<%= archive %>">Az összes cikkem listája</a>
-    </li>
-  </ul>
+<header id="#top" class="height-180">
+  <div class="inline clearfix">
+    <img class="ml1 mrhalf logo left unselectable" src="assets/images/aolarge_logo.gif">
+    <div class="left">
+      <h1 class="bigger white title align-left">Kizombavilág</h1>
+      <p class="light white smallest align-left"><i><%= site.slogan %></i></p>
+    </div>
+    <nav class="desktop-menu right mr1 mthalf txt-shadow">
+      <a href="/esemenyek.html" class="align-left small-smallest bold white no-underline pt1 pbhalf mrhalf">
+        <span class="align-left">Eseményajánló</span>
+      </a>
 
-  <select class="select-menu" id="select-menu">
-    <option value="/">Válassz a menüből!</option>
-    <% for (var i = site.postdata.length - 1, j = 0; i >= 0; i--) { %>
-    <option value="<%= pathsToPosts[j++] %>"><%= site.postdata[i].title %></option>
-    <% } %>
-    <option value="<%= archive %>">Az összes cikkem listája</option>
-  </select>
+      <a href="/tancos-videok.html" class="align-left small-smallest bold white no-underline pt1 pbhalf mrhalf">
+        <span class="align-left">Táncos videók</span>
+      </a>
+
+      <a href="/zenek.html" class="small-smallest bold white no-underline pt1 pbhalf mrhalf">
+        <span class="align-left">Igényes zenék</span>
+      </a>
+
+      <a href="/oktato-videok.html" class="small-smallest bold white no-underline pt1 pbhalf mrhalf">
+        <span class="align-left">Oktató  videók</span>
+      </a>
+      
+      <a href="/cikkek.html" class="small-smallest bold white no-underline pt1 pbhalf mrhalf">
+        <span class="align-left">Hasznos cikkek<span>
+      </a>
+    </nav>
+  </div>
 </header>
+
+

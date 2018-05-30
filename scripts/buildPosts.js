@@ -32,15 +32,15 @@
     console.log('Successfully copied assets folder!')
   }
 
-  const postdata = config.site.postdata
+  const postData = config.site.postData
 
   // Store the paths to the blogposts for the links in the index page
   let pathsToPosts = []
   let parts
 
   // the postdata is in descending order already (newest post first)
-  for (let i = postdata.length - 1; i >= 0; i--) {
-    parts = postdata[i].path.split('-')
+  for (let i = 0; i < postData.length; i++) {
+    parts = postData[i].link.split('-')
 
     // year/month/day/title.html
     // store the post links for the index page
@@ -64,9 +64,9 @@
         postUrl += (fileData.name.split('-').join('/') + '.html')
 
         // generate post id for the post, and the disqus system
-        let postId = fileData.name.split('-')
+        /* let postId = fileData.name.split('-')
         postId.length = postId.length - 1
-        postId = postId.join('')
+        postId = postId.join('') */
 
         const destPath = path.join(distPath, fileData.dir)
 
@@ -76,16 +76,13 @@
             return ejsRenderFile(`${srcPath}/posts/${file}`, Object.assign({}, config))
           })
           .then((pageContents) => {
-            return ejsRenderFile(`${srcPath}/layouts/blogpost.ejs`, Object.assign({}, config, {
+            return ejsRenderFile(`${srcPath}/layouts/single-article.ejs`, Object.assign({}, config, {
               body: pageContents,
               postUrl: postUrl,
-              postId: postId,
-              headerTitle: config.site.postdata[iterator].title,
-              postTitle: config.site.title + ': ' + config.site.postdata[iterator].title,
-              postDate: config.site.dateFormatted[iterator],
-              commentsEnabled: config.site.postdata[iterator].comments_enabled,
-              pathsToPosts: pathsToPosts,
-              archive: './../../../az_osszes_cikk.html'
+              headerTitle: config.site.postData[iterator].cim,
+              postTitle: config.site.title + ': ' + config.site.postData[iterator].cim,
+              postDate: config.site.postDateFormatted[iterator],
+              pathsToPosts: pathsToPosts
             }))
           })
           .then((layoutContent) => {
