@@ -9,7 +9,7 @@
     "build": "node ./scripts/buildPosts.js && node ./scripts/buildPages.js",
     "serve": "node ./scripts/serve.js",
     "build-serve": "node ./scripts/buildAll.js && node ./scripts/serve.js",
-    "table": "node ./database/mysql_table_tool.js",
+    "table": "node ./database/sql_kizombavilag.js",
     "db": "node ./database/mysql_db_tool.js"
   },
   "keywords": [
