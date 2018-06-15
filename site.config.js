@@ -78,6 +78,7 @@ function dateFormatter (data, dateFormatted) {
 module.exports = {
   site: {
     url: '' /* 'https://www.kizombavilag.com' */,
+    shortTitle: 'Kizombavilág',
     title: 'Kizombavilág Információs Portál',
     author: 'Gulácsi András',
     description: 'A hazai információs portál a kizomba/semba iránt érdeklődők számára, hiteles, angolai forrásokból.',

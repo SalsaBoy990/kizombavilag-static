@@ -2,12 +2,16 @@
 <html lang="hu">
 <%- include('../partials/head.ejs') %>
 <body>
-  <div class="sm-col-12 md-col-12 lg-col-12 col-12 mx-auto align-center dancers-bg unselectable border-bottom-gray">
+  <div class="col-12 mx-auto align-center dancers-bg unselectable border-bottom-gray">
   <%- include('../partials/header.ejs') %>
   </div>
 
-  <div class="sm-col-12 md-col-12 lg-col-7 col-8 mt1 pl1 pr1 mx-auto align-center"> 
+  <div class="sm-col-12 md-col-12 lg-col-12 col-12 mt1 mx-auto pl1 pr1 align-center"> 
   <%- body %>
+  </div>
+
+  <div class="col-12 align-left"> 
+  <%- include('../partials/about.ejs') %>
   <%- include('../partials/footer-home.ejs') %>
   </div>
 </body>

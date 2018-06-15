@@ -1,5 +1,5 @@
 <div class="align-center mx-auto" style="max-width: 560px;">
-  <h1 class="align-left mb2">Eseményajánló</h1>
+  <h1 class="align-left mb2">Események</h1>
 
   <h2 class="small gray align-left">Aktuális hazai események</h2>
   <% for (var i = 0; i < site.domesticEventsData.length; i++) { %>
@@ -29,7 +29,7 @@
 
   <h2 class="small gray align-left mt4">Aktuális külföldi események</h2>
   <% for (var i = 0; i < site.eventsAbroadData.length; i++) { %>
-  <div class="border-full shadow2 p0">
+  <div class="border-full shadow2 p0 mb3">
     <a href="<%= site.eventsAbroadData[i].link %>">
       <img class="center-align mx-auto mt0 mbhalf event-photo" src="<%= site.eventsAbroadData[i].kep %>" alt="Az esemény borítóképe" class="event-photo"/>
     </a>
