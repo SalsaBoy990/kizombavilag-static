@@ -4,22 +4,22 @@
       
     <h2 class="small gray align-left">Aktuális hazai események</h2>
     <% for (var i = 0; i < site.domesticEventsData.length; i++) { %>
-    <div class="border-full shadow2 p0 mb2">
+    <div class="border-full shadow2 p0 mb2 bg-light-gray">
       <a href="<%= site.domesticEventsData[i].link %>">
         <img class="center-align mx-auto mt0 mbhalf event-photo" src="<%= site.domesticEventsData[i].kep %>" alt="Az esemény borítóképe" class="event-photo"/>
       </a>
       <div class="clearfix pbhalf">
-        <div class="left mlhalf mrhalf bg-white border-full-light border-edge" style="width: 60px">
+        <div class="left mlhalf mrhalf bg-white border-full-light border-edge border-r3" style="width: 60px">
           <p class="m0 small-smallest gray uppercase"><%= site.domesticEventsData[i].datum.split('-')[0] %>.</p>
-          <p class="m0 small-smallest bold uppercase"><%= site.domesticEventsDateFormatted[i] %></p>
-          <p class="m0 medium bold uppercase"><%= site.domesticEventsData[i].datum.split('-')[2] %>.</p>
+          <p class="m0 small-smallest bold"><%= site.domesticEventsDateFormatted[i] %></p>
+          <p class="m0 medium dark-gray bold-800"><%= site.domesticEventsData[i].datum.split('-')[2] %>.</p>
         </div>
           
         <div class="align-left" style="min-width: 100px">
           <a href="<%= site.domesticEventsData[i].link %>">
             <p class="m0 bold-800 pr1" style="margin-left: 4rem"><%= site.domesticEventsData[i].cim %></p>
           </a>
-          <p class="m0 pl1 pr1 small-smallest dark-gray" style="margin-left: 3rem"><%= site.domesticEventsData[i].szervezo %></p> 
+          <p class="m0 pl1 pr1 pbhalf small-smallest dark-gray" style="margin-left: 3rem"><%= site.domesticEventsData[i].szervezo %></p>
           <p class="m0 pthalf pl1 pr1 small-smallest italic" style="margin-left: 3rem"><i class="far fa-clock"></i> <%= site.domesticEventsData[i].idopont %></p>
           <p class="m0 pl1 pr1 smallest italic" style="margin-left: 3rem"><i class="fas fa-map-marker-alt"></i> <%= site.domesticEventsData[i].helyszin %></p>
         </div>
@@ -45,7 +45,7 @@
           <a href="<%= site.eventsAbroadData[i].link %>">
             <p class="m0 bold-800 pr1" style="margin-left: 4rem"><%= site.eventsAbroadData[i].cim %></p>
           </a>
-          <p class="m0 pl1 pr1 small-smallest dark-gray" style="margin-left: 3rem"><%= site.eventsAbroadData[i].szervezo %></p> 
+          <p class="m0 pl1 pr1 pbhalf small-smallest dark-gray" style="margin-left: 3rem"><%= site.eventsAbroadData[i].szervezo %></p> 
           <p class="m0 pthalf pl1 pr1 small-smallest italic" style="margin-left: 3rem"><i class="far fa-clock"></i> <%= site.eventsAbroadData[i].idopont %></p>
           <p class="m0 pl1 pr1 smallest italic" style="margin-left: 3rem"><i class="fas fa-map-marker-alt"></i> <%= site.eventsAbroadData[i].helyszin %></p>
         </div>

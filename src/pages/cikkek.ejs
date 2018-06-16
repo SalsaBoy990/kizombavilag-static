@@ -2,20 +2,23 @@
   <h1 class="align-left mb2">Cikkek</h1>
 
   <% for (var i = 0; i < site.postData.length; i++) { %>
-  <div class="shadow2 p0 mb2 bg-white">
-    <div class="clearfix pb1">
-      <div class="left mthalf mlhalf mrhalf bg-white border-full-light border-edge" style="width: 60px; background: #feffff">
-        <p class="m0 small-smallest gray uppercase"><%= site.postData[i].datum.split('-')[0] %>.</p>
-        <p class="m0 small-smallest bold uppercase"><%= site.postDateFormatted[i] %></p>
-        <p class="m0 medium bold uppercase"><%= site.postData[i].datum.split('-')[2] %>.</p>
-      </div>
-    
-      <div class="align-left pthalf" style="min-width: 100px">
-        <a href="<%= pathsToPosts[i] %>">
-          <p class="m0 pr1" style="margin-left: 4rem"><%= site.postData[i].cim %></p>
-        </a>
+  <section>
+    <div class="shadow2 p0 mb2 bg-light border-r3">
+      <div class="clearfix pb1">
+        <div class="left mthalf mlhalf mrhalf border-full-light border-edge bg-light-gray" style="width: 60px;">
+          <p class="m0 small-smallest gray uppercase"><%= site.postData[i].datum.split('-')[0] %>.</p>
+          <p class="m0 small-smallest bold"><%= site.postDateFormatted[i] %></p>
+          <p class="m0 medium dark-gray bold-800"><%= site.postData[i].datum.split('-')[2] %>.</p>
+        </div>
+      
+        <div class="align-left pthalf" style="min-width: 100px">
+          <h2 class="medium m0 pr1 pl1 dark-gray-link" style="margin-left: 3rem;"><a href="<%= pathsToPosts[i] %>"><%= site.postData[i].cim %></a></h2>
+
+          <a href="<%= pathsToPosts[i] %>" class="pull-right mr1 mt1 btn btn-primary shadow2">Tovább olvasom &raquo;</a>
+        </div>
       </div>
     </div>
-  </div>
+  </section>
+  <hr>
   <% } %>
 </div>
