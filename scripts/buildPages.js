@@ -33,7 +33,7 @@
         fse.mkdirs(destPath)
           .then(() => {
             // render page
-            return ejsRenderFile(`${srcPath}/pages/${file}`, Object.assign({}, config, { pathsToPosts: pathsToPosts , title: '404: A keresett oldal nem található!' }))
+            return ejsRenderFile(`${srcPath}/pages/${file}`, Object.assign({}, config, { pathsToPosts: pathsToPosts, title: '404: A keresett oldal nem található!' }))
           })
           .then((pageContents) => {
             let name = fileData.base
