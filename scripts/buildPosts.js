@@ -51,6 +51,7 @@
 
   // Iterator to fill the metas in the head with metadata
   let iterator = 0
+  let last = postData.length - 1
 
   // Build the blogposts
   // cwd: current working directory
@@ -80,13 +81,14 @@
               body: pageContents,
               postUrl: postUrl,
               headerTitle: config.site.postData[iterator].cim,
-              postTitle: config.site.title + ': ' + config.site.postData[iterator].cim,
+              postTitle: config.site.title + ': ' + config.site.postData[last].cim,
               postDate: config.site.postDateFormatted[iterator],
               pathsToPosts: pathsToPosts
             }))
           })
           .then((layoutContent) => {
             iterator++
+            last--
             // to store parts of the filename
             let parts = []
 
