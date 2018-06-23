@@ -678,7 +678,7 @@ blockquote {
 }
 
 .bg-white {
-    background: #FCFFFD
+    background: #fff
 }
 
 .light-gray {
@@ -939,6 +939,10 @@ iframe {
 
 .border-top {
     border-top: 1px solid #ccc
+}
+
+.border-all {
+    border: 1px solid #ccc
 }
 
 .txt-shadow {
