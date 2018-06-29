@@ -73,7 +73,7 @@ function dateFormatter (data, dateFormatted) {
 // I inserted some dummy text
 module.exports = {
   site: {
-    url: '' /* 'https://www.kizombavilag.com' */,
+    url: 'https://www.kizombavilag.com' /* 'https://www.kizombavilag.com' */,
     shortTitle: `Kizombavilág`,
     title: 'Kizombavilág Információs Portál',
     image: 'https://d33wubrfki0l68.cloudfront.net/assets/images/0f63a4219f54d8f702b65de27ac7f0a48a94494a/dancers_sepia.jpg',
