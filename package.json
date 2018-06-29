@@ -1,37 +1,55 @@
 {
   "name": "static-site-express",
-  "version": "1.0.0",
-  "description": "A simple Node.js based static site generator that uses EJS",
-  "main": "./scripts/build.js",
+  "version": "3.2.2",
+  "description": "A simple Node.js based static site generator that uses EJS and Markdown",
+  "main": "./lib/build.js",
   "scripts": {
-    "build-pages": "node ./scripts/buildPages.js",
-    "build-posts": "node ./scripts/buildPosts.js",
-    "build": "node ./scripts/buildPosts.js && node ./scripts/buildPages.js",
-    "serve": "node ./scripts/serve.js",
-    "build-serve": "node ./scripts/buildAll.js && node ./scripts/serve.js",
-    "table": "node ./database/sql_kizombavilag.js",
-    "db": "node ./database/mysql_db_tool.js"
+    "build": "node ./lib/build.js",
+    "watch": "nodemon --watch ./src --watch site.config.js ./lib/build.js -e *",
+    "serve": "node ./lib/serve.js",
+    "heroku": "node ./lib/build.js && node ./lib/serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalsaBoy990/static-site-express.git"
   },
   "keywords": [
     "Node.js",
     "Express",
     "ejs",
-    "mysql",
+    "markdown",
     "static-site",
     "static site generator",
-    "static files"
+    "static files",
+    "netlify",
+    "heroku"
   ],
   "author": "András Gulácsi",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^2.5.8",
-    "express": "^4.16.3",
+    "chalk": "^2.4.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "front-matter": "^2.3.0",
     "fs-extra": "^5.0.0",
-    "mysql": "^2.15.0",
-    "readline-sync": "^1.4.9",
+    "helmet": "^3.12.1",
+    "helmet-csp": "^2.7.0",
+    "highlightjs": "^9.10.0",
+    "markdown-it": "^8.4.1",
+    "markdown-it-attrs": "^2.2.0",
+    "markdown-it-highlightjs": "^3.0.0",
+    "markdown-it-implicit-figures": "^0.9.0",
+    "markdown-it-multimd-table": "^3.1.2",
+    "markdown-it-sub": "^1.0.0",
+    "markdown-it-sup": "^1.0.0",
+    "nodemon": "^1.17.5",
     "serve-favicon": "^2.4.5"
   },
   "devDependencies": {
-    "standard": "^11.0.0"
-  }
+    "standard": "^11.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/SalsaBoy990/static-site-express/issues"
+  },
+  "homepage": "https://github.com/SalsaBoy990/static-site-express#readme"
 }

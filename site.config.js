@@ -1,13 +1,10 @@
-const postData = require('./src/data/postdata.json')
 const domesticEventsData = require('./src/data/domestic_events.json')
 const eventsAbroadData = require('./src/data/events_abroad.json')
 
-let postDateFormatted = []
 let domesticEventsDateFormatted = []
 let eventsAbroadDateFormatted = []
 let dateParts = []
 
-dateFormatter(postData, postDateFormatted)
 dateFormatter(domesticEventsData, domesticEventsDateFormatted)
 dateFormatter(eventsAbroadData, eventsAbroadDateFormatted)
 
@@ -73,24 +70,21 @@ function dateFormatter (data, dateFormatted) {
   }
 }
 
-// console.log(dateFormatted)
-
+// I inserted some dummy text
 module.exports = {
   site: {
     url: '' /* 'https://www.kizombavilag.com' */,
-    shortTitle: 'Kizombavilág',
+    shortTitle: `Kizombavilág`,
     title: 'Kizombavilág Információs Portál',
+    image: 'https://d33wubrfki0l68.cloudfront.net/assets/images/0f63a4219f54d8f702b65de27ac7f0a48a94494a/dancers_sepia.jpg',
     author: 'Gulácsi András',
+    quote: 'A kizomba sokkal több egy táncnál!',
     description: 'A hazai információs portál a kizomba/semba iránt érdeklődők számára, hiteles, angolai forrásokból.',
-    slogan: 'A kizomba sokkal több egy táncnál!',
     email: 'guland@protonmail.com',
     mobile: '+36/20/442-7225',
     facebook: 'kizombavilag',
     mailchimp: 'http://eepurl.com/dgDU-9',
-    year: new Date().getFullYear(),
-    ogImage: 'https://d33wubrfki0l68.cloudfront.net/assets/images/0f63a4219f54d8f702b65de27ac7f0a48a94494a/dancers_sepia.jpg',
-    postData,
-    postDateFormatted: postDateFormatted,
+    currentYear: new Date().getFullYear(),
     domesticEventsData,
     domesticEventsDateFormatted: domesticEventsDateFormatted,
     eventsAbroadData,

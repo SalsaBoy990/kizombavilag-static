@@ -6,15 +6,15 @@
         <div class="pull-left">
           <h3 class="gray"><%= site.title %></h3>
       
-          <ul class="plhalf pbhalf no-bullets">
-            <li class="smallest"><i class="fas fa-map-marker-alt fa-sm prquarter" style="padding-left: .2rem;"></i>6729 Szeged, Bori M. u. 20.</li>
-            <li class="smallest"><i class="fas fa-phone fa-sm prquarter"></i><%= site.mobile %></li>
-            <li class="smallest"><a href="mailto:<%= site.email %>"><i class="fas fa-envelope fa-sm prquarter"></i><%= site.email %></a></li>
+          <ul class="plhalf pbhalf no-bullets-lh15">
+            <li class="smallest"><i class="glyphicon glyphicon-map-marker prquarter pl-02"></i> 6729 Szeged, Bori M. u. 20.</li>
+            <li class="smallest"><i class="glyphicon glyphicon-earphone prquarter pl-02"></i> <%= site.mobile %></li>
+            <li class="smallest"><a href="mailto:<%= site.email %>"><i class="glyphicon glyphicon-envelope prquarter"></i> <%= site.email %></a></li>
           </ul>
         </div>
 
         <div class="pull-right ml2">
-          <img class="logo unselectable mt2" src="assets/images/logo.gif">
+          <img class="logo unselectable mt2" src="/assets/images/logo.gif">
           <p class="mb1 mthalf small-smallest condensed gray">Minden jog fenntartva<br> &copy; <%= site.author %>, <%= site.year %></p>
         </div>
       </footer>
