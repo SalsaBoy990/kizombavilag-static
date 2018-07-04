@@ -17,5 +17,15 @@
     "helyszin" :"Budapest Kizomba Connection - BKC, Budapest",
     "link":"https://www.facebook.com/events/1078373045633011/",
     "kep":"/assets/images/hazai/bkc2018.jpg"
+  },
+
+  {
+    "cim": "BKC BEACH PARTY - Official Monday Afterparty",
+    "datum": "2018-09-03",
+    "szervezo": "Budapest Kizomba Connection - BKC",
+    "idopont": "2018. szeptember 3., 14:00 – 23:00",
+    "helyszin" :"Lupa Tó, Budakalász",
+    "link":"https://www.facebook.com/events/517900785292351/",
+    "kep":"/assets/images/hazai/lupa_to_bkc.jpg"
   }
 ]
