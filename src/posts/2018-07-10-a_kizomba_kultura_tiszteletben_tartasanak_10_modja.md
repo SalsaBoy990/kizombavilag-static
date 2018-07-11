@@ -28,6 +28,8 @@ Vitathatóan, egyetlen PALOP ország sem szenvedett annyit a függetlenség utá
 
 Mostanában nagyon felkapott dolog a kizomba világában, hogy az emberek a kultúra tiszteletben tartását hangsúlyozzák. Nemrégiben megkérdezték tőlünk (University of Kizomba), hogy nekünk, angolaiaknak mit is jelent ez pontosan?
 
+Talán egyszerűbb, ha pontokba szedjük, hogy az amatőr kizombások milyen módokon mutathatják ki az angolai kultúra mélyebb megértését és megbecsülését a kizombát terén:
+
 1. Ilyen természetű vitákban erősen ajánljuk, kerüld el az efféle kijelentéseket, hogy: *„Mi ebben a nagy dolog? Ez csak egy tánc. Tegyél túl rajta!”* Ellenkező esetben, ha így teszel, akkor az angolaiak az érezhetik, hogy akarattal hagyod figyelmen kívül a fent taglalt történelmi hátteret.
 
 2. Próbálj meg a lehető legtöbbet megtanulni az ország történelméről és arról, hogyan kötődik lényegében a semba és a kizomba megszületéséhez. Ha így teszel, akkor közvetett módon együttérzést mutatsz az elmúlt évek gyászával kapcsolatban.
