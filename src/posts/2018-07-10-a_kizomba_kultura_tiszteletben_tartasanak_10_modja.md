@@ -28,7 +28,7 @@ Vitathatóan, egyetlen PALOP ország sem szenvedett annyit a függetlenség utá
 
 Mostanában nagyon felkapott dolog a kizomba világában, hogy az emberek a kultúra tiszteletben tartását hangsúlyozzák. Nemrégiben megkérdezték tőlünk (University of Kizomba), hogy nekünk, angolaiaknak mit is jelent ez pontosan?
 
-Talán egyszerűbb, ha pontokba szedjük, hogy az amatőr kizombások milyen módokon mutathatják ki az angolai kultúra mélyebb megértését és megbecsülését a kizombát terén:
+Talán egyszerűbb, ha pontokba szedjük, hogy az amatőr kizombások milyen módokon mutathatják ki az angolai kultúra mélyebb megértését és megbecsülését a kizomba terén:
 
 1. Ilyen természetű vitákban erősen ajánljuk, kerüld el az efféle kijelentéseket, hogy: *„Mi ebben a nagy dolog? Ez csak egy tánc. Tegyél túl rajta!”* Ellenkező esetben, ha így teszel, akkor az angolaiak azt érezhetik, hogy akarattal hagyod figyelmen kívül a fent taglalt történelmi hátteret.
 
@@ -42,7 +42,7 @@ Talán egyszerűbb, ha pontokba szedjük, hogy az amatőr kizombások milyen mó
 
 6. Ha tisztában vagy azzal, hogy sem kizombát, sem pedig sembát nem tanítasz (mindez rendben van), akkor ne reklámozd akként az óráidat és a bemutatóidat! Ezzel elkerülöd azt, hogy opportunistának, vagy még rosszabb, imposztornak bélyegezzenek.
 
-7. Ha egy támogató vagy és kizárólag csak urbankiz irányultságú fesztiválokat/összejöveteleket szervezel, akkor ne áruld azokat kizomba eseményekként a (naiv) tömegek számára! Napjainkban egyre tisztábbá válik, hogy ezek két különálló táncot képeznek, amik teljesen elértő élményt nyújtanak a táncparketten. Ugyanez érvényes a DJ-kre: légy hű ahhoz, ami vagy és az emberek annak megfelelően fogják tisztelni a mesterségedet! A nap végére úgy tűnik, hogy elegendő piac van mindkét tábor esetén.
+7. Ha egy támogató vagy és kizárólag csak urbankiz irányultságú fesztiválokat/összejöveteleket szervezel, akkor ne áruld azokat kizomba eseményekként a (naiv) tömegek számára! Napjainkban egyre tisztábbá válik, hogy ezek két különálló táncot képeznek, amik teljesen eltérő élményt nyújtanak a táncparketten. Ugyanez érvényes a DJ-kre: légy hű ahhoz, ami vagy és az emberek annak megfelelően fogják tisztelni a mesterségedet! A nap végére úgy tűnik, hogy elegendő piac van mindkét tábor esetén.
 
 8. A szavak eredete idővel gyakran felhígul. Számos példa van arra, hogy az afrikai kultúra egyes elemeinek a nevei a fordítás során végül elvesztek, miután az Atlanti-óceánon túli diaszpórába „exportálták” azokat. A kimbundu nyelv „Kizomba” szavának gazdag és sajátos jelentése van, amit az angolaiak meg szeretnének őrizni mialatt a tánc meghódítja a világot. Éppen ezért kerüld el a „kiz” vagy „kizz” rövidítések használatát és az azzal való visszaélést pusztán csak kényelemből és/vagy üzleti okokból!
 
@@ -56,7 +56,7 @@ Bizonyos kizomba eseményeken tett megfigyeléseink szerint a listát tovább b�
 
 **Számunkra a kizomba nem csak egy platform arra, hogy összegyűljünk a barátokkal és előrukkoljunk az új cipőnkkel/külső megjelenésünkkel, hanem mindezeken felül a társadalmi gyűlések egyik mozgatórugója, egy ürügy arra, hogy együnk és igyunk, s csupán néhány órára is, de megfeledkezzünk az életünk nehézségeiről és hányattatásairól. Ezért minden egyes alkalommal, amikor a táncparkettre lépsz, ragadd meg a tánc lényegét; neked megadatott a lehetőség, hogy tanúja légy és megbecsülj egy mély történelmet!**
 
-Azt szokták mondani, hogy ha az élet citrommal kínál, csinálj limonádét! Nos, kezdj el a kizombára mint a limonádéban található barnacukorra tekinteni, és az élmény teljesen más lesz. Sokkal jobb.
+Azt szokták mondani, hogy ha az élet citrommal kínál, csinálj limonádét! Nos, kezdj el a kizombára mint a limonádéban található barnacukorra tekinteni, és az élmény teljesen más lesz. Sokkal jobb!
 
 ## Felhasznált forrás{.medium}
 
