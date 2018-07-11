@@ -7,7 +7,7 @@ topic: "kizomba kultúra"
 
 Nem várható el attól, aki még sohasem járt Angolában – vagy nem tud semmit annak zavaros múltjáról – hogy teljesen felfoghassa, hogy hogyan szolgálta mindig is a táncolás, az éneklés és az összejövetelek az angolai nép kollektív kiteljesedését. Ahogyan azt Achille Mbembe, egy nagy tiszteletben álló kameruni filozófus és politológus szavakba öntötte:
 
-> „A zene képes a szellemet és az anyagot egyesíteni. Bizony Afrikában a zene mindig is az élet eltörölhetetlenségének ünneplése volt a hosszú, életellenes történelemben. Ez a műfaj történelmileg, a lehető legkísértőbb módon fejezte ki nem csupán a létezésnek, hanem a létezés örömeinek háborgó vágyát, amit a halál előtti élvezetek gyakorlásának lehetne nevezni.”
+> „A zene képes a szellemet és az anyagot egyesíteni. Bizony Afrikában a zene mindig is az élet eltörölhetetlenségének ünneplése volt a hosszú, életellenes történelemben. Ez a műfaj történelmileg, a lehető legkísértőbb módon fejezte ki nem csupán a létezésnek, hanem a létezés örömeinek háborgó vágyát, amit a halál előtti élvezetek gyakorlásának lehetne nevezni.”{.citation}
 
 
 ## Egy rövid történelemlecke
