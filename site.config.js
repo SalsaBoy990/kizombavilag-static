@@ -1,10 +1,10 @@
 // I inserted some dummy text
 module.exports = {
   site: {
-    url: 'https://www.kizombavilag.com/',
+    url: 'https://www.kizombavilag.com',
     title: `Kizombavilág`,
-    image: 'https://d33wubrfki0l68.cloudfront.net/f2fa5a75dc79f3c1c5e872b7ce49e3257f2ac454/8e8bb/assets/images/profile.jpg',
-    defaultImage: 'https://www.gulacsiandras.blog/assets/images/maura_mazambi.jpg',
+    image: 'https://www.kizombavilag.hu/assets/images/maura_mazambi.jpg',
+    defaultImage: 'https://www.kizombavilag.hu/assets/images/maura_mazambi.jpg',
     author: 'Kizombavilág Információs Portál',
     quote: 'Kizombavilág - A magyar kizomba és semba magazin',
     description: 'A hazai információs portál a kizomba/semba iránt érdeklődők számára, hiteles, angolai forrásokból.',
