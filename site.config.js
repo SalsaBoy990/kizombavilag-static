@@ -3,8 +3,8 @@ module.exports = {
   site: {
     url: 'https://www.kizombavilag.com',
     title: `Kizombavilág`,
-    image: 'https://www.kizombavilag.hu/assets/images/maura_mazambi.jpg',
-    defaultImage: 'https://www.kizombavilag.hu/assets/images/maura_mazambi.jpg',
+    image: 'https://d33wubrfki0l68.cloudfront.net/assets/images/24f49d6b5c4202478167013941cfbecd2d2443a2/maura_mazambi.jpg',
+    defaultImage: 'https://d33wubrfki0l68.cloudfront.net/assets/images/24f49d6b5c4202478167013941cfbecd2d2443a2/maura_mazambi.jpg',
     author: 'Kizombavilág Információs Portál',
     quote: 'Kizombavilág - A magyar kizomba és semba magazin',
     description: 'A hazai információs portál a kizomba/semba iránt érdeklődők számára, hiteles, angolai forrásokból.',
