@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <%- include partials/head-post %>
+<body>
+  <%- include partials/header-post %>
+  <main>
+    <div>
+      <div class="container p1 bg-white">
+        <div class="row">
+          <div id="article" class="mt2 mb0 p1 col-sm-10 col-sm-offset-1"> 
+          <%- include partials/post-title %>
+          <%- body %>
+          <%- include partials/share %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <%- include partials/footer %>
+  <%- include partials/bootstrap %>
+  <%- include partials/tracking %>
+</body>
+</html>

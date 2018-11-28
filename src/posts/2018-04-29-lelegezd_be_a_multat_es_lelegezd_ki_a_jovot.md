@@ -1,8 +1,11 @@
 ---
-title: "Lélegezd be a múltat és lélegezd ki a jövőt! (University of Kizomba)"
-date: "2018-04-29"
-excerpt: "...a semba valódi lényegéhez hűnek maradni az egyetlen módja annak, hogy az angolaiak megóvják a táncot és fenntartsák annak létezését a mai gyors globalizáció és az ellenőrizhetetlen közösségi média korszakában."
-topic: "semba tánc"
+title: Lélegezd be a múltat és lélegezd ki a jövőt!
+author: University of Kizomba
+date: '2018-04-29'
+excerpt: >-
+  ...a semba valódi lényegéhez hűnek maradni az egyetlen módja annak, hogy az angolaiak megóvják a táncot és fenntartsák annak létezését a mai gyors globalizáció és az ellenőrizhetetlen közösségi média korszakában.
+topic: tánc
+coverImage: lelegezd_be_a_multat.jpg
 ---
 
 Egyike a legszebb dolgoknak a fiatal és életvidám semba táncosok nemzedékét felnőni látni napjaink Angolájában.
@@ -15,16 +18,15 @@ Hasonlítsd össze a lenti két videót, és remélhetőleg érteni fogod, hogy 
 
 **Mindenesetre, a semba valódi lényegéhez hűnek maradni az egyetlen módja annak, hogy az angolaiak megóvják a táncot és fenntartsák annak létezését a mai gyors globalizáció és az ellenőrizhetetlen közösségi média korszakában.**
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="center-align mx-auto mthalf shadow2" width="560" height="315" src="https://www.youtube.com/embed/yM-o5_pueqI?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<figcaption>Nelson Lima és Teresa Freitas a Kizomba Na Rua-n, Luandában</figcaption>
+## Nelson Lima és Teresa Freitas a Kizomba Na Rua-n, Luandában
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="center-align mx-auto mthalf shadow2" width="560" height="315" src="https://www.youtube.com/embed/l4_NdzPLXDw?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<figcaption>Mr. & Mrs. António Rosa semba tánca</figcaption>
+@[youtube](yM-o5_pueqI)
 
-## Felhasznált forrás{.medium}
 
-* University of Kizomba (2017). [Inhale the past! Exhale the future](https://www.facebook.com/angolan/posts/10154343557447706){.underline}
+## Mr. & Mrs. António Rosa semba tánca{.mt3}
+
+@[youtube](l4_NdzPLXDw)
+
+## Felhasznált forrás
+
+* University of Kizomba (2017). [Inhale the past! Exhale the future](https://www.facebook.com/angolan/posts/10154343557447706)

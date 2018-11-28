@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Kizombavil\u00e1g",
+    "short_name": "Kizombavil\u00e1g",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -9,5 +9,7 @@
         }
     ],
     "theme_color": "#ffffff",
-    "background_color": "#ffffff"
+    "background_color": "#ffffff",
+    "start_url": "https://www.kizombavilag.com",
+    "display": "standalone"
 }

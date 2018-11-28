@@ -1,11 +1,14 @@
 ---
-title: "A kizomba nem csak egy tánc, hanem valami sokkal erőteljesebb!"
-date: "2018-05-01"
-excerpt: "A kizomba nem csak egy tánc, hanem valami sokkal erőteljesebb. A kizomba nem csak az érintkezésről szól, hanem a szüleiddel, a családoddal, a barátokkal való kötelékekről vagy egy másik emberi lénnyel való új kötelék létesítéséről."
-topic: "kizomba kultúra"
+title: A kizomba nem csak egy tánc, hanem valami sokkal erőteljesebb!
+author: Eddy Vents
+date: '2018-05-01'
+excerpt: >-
+  A kizomba nem csak egy tánc, hanem valami sokkal erőteljesebb. A kizomba nem csak az érintkezésről szól, hanem a szüleiddel, a családoddal, a barátokkal való kötelékekről vagy egy másik emberi lénnyel való új kötelék létesítéséről.
+topic: kultúra
+coverImage: a_kizomba_sokkal_tobb_egy_tancnal.jpg
 ---
 
-[Eddy Vents](https://www.facebook.com/eddy.vents/){.underline} Facebook bejegyzésének fordítása. Rövid biográfia: Eddy Vents kizomba táncos, Bissau-Guineai származású, de Lisszabonban nőtt fel, 2014-ben az Év Kizomba Tanárának választották Európában.
+[Eddy Vents](https://www.facebook.com/eddy.vents/)  Facebook bejegyzésének fordítása. Rövid biográfia: Eddy Vents kizomba táncos, Bissau-Guineai származású, de Lisszabonban nőtt fel, 2014-ben az Év Kizomba Tanárának választották Európában.
 
 Az afrikai kultúrából (beleértve az angolait) jövő legerőteljesebb dolgok egyike a családi kötelék, sokféle ok miatt, de különösképpen a kötődésen keresztül, amit a zenén és a táncon keresztül osztunk meg egymással.
 
@@ -25,9 +28,9 @@ Nem értik azok, akik hozzáadják a saját táncukat, hogy milyen önző ez? Va
 
 **A kizomba nem csak egy tánc, hanem valami sokkal erőteljesebb. A kizomba nem csak az érintkezésről szól, hanem a szüleiddel, a családoddal, a barátokkal való kötelékekről vagy egy másik emberi lénnyel való új kötelék létesítéséről.**
 
-<img class="center-align mx-auto mthalf shadow2" src="/assets/images/cikkek/a_kizomba_sokkal_tobb_egy tancnal.jpg" alt="Egy férfi a lányával táncol a homokos tengerparton" />
-<figcaption>A kizomba sokkal több egy táncnál</figcaption>
+![Egy férfi a lányával táncol a homokos tengerparton](/assets/images/articles/a_kizomba_sokkal_tobb_egy_tancnal.jpg)
 
-## Felhasznált forrás{.medium}
 
-* Eddy Vents (2017). [Kizomba is not just a dance but something much more powerful](https://www.facebook.com/eddy.vents/photos/a.363256553868817.1073741828.304920769702396/736668299860972/?type=3){.underline}.
+## Felhasznált forrás
+
+* Eddy Vents (2017). [Kizomba is not just a dance but something much more powerful.](https://www.facebook.com/eddy.vents/photos/a.363256553868817.1073741828.304920769702396/736668299860972/?type=3)

@@ -1,8 +1,11 @@
 ---
-title: "A kizomba kultúra tiszteletben tartásának 10 módja"
-date: "2018-07-10"
-excerpt: "Számunkra a kizomba nem csak egy platform arra, hogy összegyűljünk a barátokkal és előrukkoljunk az új cipőnkkel/külső megjelenésünkkel, hanem mindezeken felül a társadalmi gyűlések egyik mozgatórugója, egy ürügy arra, hogy együnk és igyunk, s csupán néhány órára is, de megfeledkezzünk az életünk nehézségeiről és hányattatásairól. Ezért minden egyes alkalommal, amikor a táncparkettre lépsz, ragadd meg a tánc lényegét; neked megadatott a lehetőség, hogy tanúja légy és megbecsülj egy mély történelmet!"
-topic: "kizomba kultúra"
+title: A kizomba kultúra tiszteletben tartásának 10 módja
+author: University of Kizomba
+date: '2018-07-10'
+excerpt: >-
+  Számunkra a kizomba nem csak egy platform arra, hogy összegyűljünk a barátokkal és előrukkoljunk az új cipőnkkel/külső megjelenésünkkel, hanem mindezeken felül a társadalmi gyűlések egyik mozgatórugója, egy ürügy arra, hogy együnk és igyunk, s csupán néhány órára is, de megfeledkezzünk az életünk nehézségeiről és hányattatásairól. Ezért minden egyes alkalommal, amikor a táncparkettre lépsz, ragadd meg a tánc lényegét; neked megadatott a lehetőség, hogy tanúja légy és megbecsülj egy mély történelmet!
+topic: kultúra
+coverImage: lady_diana_es_lizete.jpg
 ---
 
 Nem várható el attól, aki még sohasem járt Angolában – vagy nem tud semmit annak zavaros múltjáról – hogy teljesen felfoghassa, hogy hogyan szolgálta mindig is a táncolás, az éneklés és az összejövetelek az angolai nép kollektív kiteljesedését. Ahogyan azt Achille Mbembe, egy nagy tiszteletben álló kameruni filozófus és politológus szavakba öntötte:
@@ -14,7 +17,7 @@ Nem várható el attól, aki még sohasem járt Angolában – vagy nem tud semm
 
 Diana hercegnő legelhíresültebb képeinek egyike, amikor egy 13 éves angolai lány, Lizete, mellett ül, aki egy taposóakna miatt veszítette el a bal lábát, amikor a boltba igyekezett az édesanyjával az akkori háború sújtotta tartományban, a dél-angolai Huambo-ban. Amikor Lady Di 1997-ben Angolába látogatott, Lizete már 3 éve várt egy művégtagra.
 
-![Diana hercegnő és Lizete.](/assets/images/cikkek/lady_diana_es_lizete.jpg)
+![Diana hercegnő és Lizete.](/assets/images/articles/lady_diana_es_lizete.jpg)
 
 Addig a bizonyos pontig számítva, Angola gyakorlatilag ismeretlen volt az átlag nyugati ember számára; érhető módon, mivel a háború, az éhínség és halál egyedüli képeit párosították az országgal az 1970-es évek közepe óta.
 
@@ -58,6 +61,6 @@ Bizonyos kizomba eseményeken tett megfigyeléseink szerint a listát tovább b�
 
 Azt szokták mondani, hogy ha az élet citrommal kínál, csinálj limonádét! Nos, kezdj el a kizombára mint a limonádéban található barnacukorra tekinteni, és az élmény teljesen más lesz. Sokkal jobb!
 
-## Felhasznált forrás{.medium}
+## Felhasznált forrás
 
-* University of Kizomba (2017). [10 ways to honor the kizomba culture](https://www.facebook.com/University.of.Kizomba/photos/rpp.279808345694332/533698636971967/?type=3&theater){.underline}.
+* University of Kizomba (2017). [10 ways to honor the kizomba culture.](https://www.facebook.com/University.of.Kizomba/photos/rpp.279808345694332/533698636971967/?type=3&theater)

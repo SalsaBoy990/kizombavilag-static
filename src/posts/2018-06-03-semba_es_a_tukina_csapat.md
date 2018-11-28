@@ -1,8 +1,11 @@
 ---
-title: "Semba – a Tukina csapat interpretálásában (Budapest Kizomba Connection - BKC)"
-date: "2018-06-03"
-excerpt: "Semba… Angola egyik (talán A) legtehetségesebb új csapata, a TUKINA interpretálásában. :) Tukina kimbundu nyelven azt jelenti „gyerünk táncolni”."
-topic: "Tukina Semba"
+title: Semba – a Tukina csapat interpretálásában
+author: Budapest Kizomba Connection - BKC
+date: '2018-06-03'
+excerpt: >-
+  Semba… Angola egyik (talán A) legtehetségesebb új csapata, a TUKINA interpretálásában. :) Tukina kimbundu nyelven azt jelenti „gyerünk táncolni”."
+topic: tánc
+coverImage: tukina.jpg
 ---
 
 Semba… Angola egyik (talán A) legtehetségesebb új csapata, a TUKINA interpretálásában. :) Tukina kimbundu nyelven azt jelenti „gyerünk táncolni”.
@@ -11,11 +14,9 @@ Persze, a semba nem feltétlenül kell, hogy ennyire pörgős és akrobatikus le
 
 Reméljük hamarosan Európában is elcsíphetjük a „Tukinákat” és tanulhatunk tőlük/táncolhatunk velük! :) Nem a BKC csapatán fog múlni, ez egészen biztos… ;)
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="center-align mx-auto mthalf shadow2" width="560" height="315" src="https://www.youtube.com/embed/cKrv6-gHCcA?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<figcaption>A Tukina csapat Angolában</figcaption>
+@[youtube](cKrv6-gHCcA)
 
-## Felhasznált forrás{.medium}
 
-[Budapest Kizomba Connection - BKC (2018)](https://www.facebook.com/events/226053237977336/permalink/226997537882906/){.underline}.
+## Felhasznált forrás
+
+[Budapest Kizomba Connection - BKC (2018).](https://www.facebook.com/events/226053237977336/permalink/226997537882906/)

@@ -1,8 +1,11 @@
 ---
-title: "Kizomba Evolúció (Eddy Vents)"
-date: "2018-06-24"
-excerpt: "Az utóbbi 6 évben a kizomba tánc sokat formálódott, elég csak az úgynevezett „tradícionalisták” (Sic!) YouTube videóit megnézni 2010-2016 között. Mivel a semba tánc social sembából semba show-vá alakult át, ezért napjainkban a legtöbben csak a semba show-t ismerik sembaként. Ennek közvetlen hatása volt a mai kizombára (nem a kizomba fúzióra vagy az urbankiz-re) sokkal technikaibbá téve azt"
-topic: "kizomba evolúció"
+title: Kizomba Evolúció
+author: Eddy Vents
+date: '2018-06-24'
+excerpt: >-
+  Az utóbbi 6 évben a kizomba tánc sokat formálódott, elég csak az úgynevezett „tradícionalisták” (Sic!) YouTube videóit megnézni 2010-2016 között. Mivel a semba tánc social sembából semba show-vá alakult át, ezért napjainkban a legtöbben csak a semba show-t ismerik sembaként. Ennek közvetlen hatása volt a mai kizombára (nem a kizomba fúzióra vagy az urbankiz-re) sokkal technikaibbá téve azt
+topic: tánc
+coverImage: semba_tricks.jpg
 ---
 
 A cikk nem azt állítja, hogy az urban-t (urbankiz) vagy a fúziót (kizomba fusion) nem szabadna táncolni, hanem hogy ezek nem a kizomba evolúciójának eredményei. Lehet, hogy inspirálhatta ezeket a kizomba, de mindegyikük különálló táncot képez. A hazai kizomba szférában is helyén kellene nevezni a dolgokat, és az urbankiz-t nem kizomba néven árusítani.
@@ -45,6 +48,6 @@ Az evolúció elkerülhetetlen. A tudás elérhető. A bölcsesség és a megér
 Mivel mindkét zene poliritmikus, így lehetővé teszi a táncosok számára, hogy megváltoztassák az érzésüket a táncparketten, miközben fenntartva a semba alapokat, ami megtartja e gyönyörű tánc eredetiségét.
 
 
-### Felhasznált forrás{.medium}
+## Felhasznált forrás
 
-* Eddy Vents (2016). [Kizomba Evolution](https://eddyvents.com/2016/11/15/the-real-evolution-of-kizomba-happened/){.underline}.
+* Eddy Vents (2016). [Kizomba Evolution.](https://eddyvents.com/2016/11/15/the-real-evolution-of-kizomba-happened/)

@@ -1,8 +1,11 @@
 ---
-title: "Az igazság a sembáról és a kizombáról (Eddy Vents)"
-date: "2018-06-23"
-excerpt: "A semba keltette életre a kizombát, egy hasonlóképpen gyönyörű és remek táncot. A kizombában nincsenek szexuális mozdulatok és nem a bunda (fenék) mozgása áll a középpontban (ellentétben a tarraxinhával, ami a kizombától egy különálló tánc)!"
-topic: "kizomba tánc"
+title: Az igazság a sembáról és a kizombáról
+author: Eddy Vents
+date: '2018-06-23'
+excerpt: >-
+  A semba keltette életre a kizombát, egy hasonlóképpen gyönyörű és remek táncot. A kizombában nincsenek szexuális mozdulatok és nem a bunda (fenék) mozgása áll a középpontban (ellentétben a tarraxinhával).
+topic: tánc
+coverImage: bruxo_bruxa.jpg
 ---
 
 A semba egy történelmi jelentőségű közösségi tánc egy kulturálisan gazdag afrikai országból, Angolából, amit nemzedékről-nemzedékre továbbadnak. A semba tánc szépsége a hagyományos lábmunkában, a tartásban és a kötődésben rejlik.
@@ -19,14 +22,11 @@ Attól még nem leszel semba táncos, ha egy dal alatt megcsinálsz 3000 trükk�
 
 Teljesen nyilvánvaló, hogy a semba nemzedékről-nemzedékre fejlődik, de a gyökereit és az alapjait megőrzik. Minden egyes nemzedék technikája magasabb szintre fejlődik. Ez az evolúció.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="center-align mx-auto mthalf shadow2" width="560" height="315" src="https://www.youtube.com/embed/OJIANxJYCpw?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+@[youtube](OJIANxJYCpw)
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="center-align mx-auto mthalf shadow2" width="560" height="315" src="https://www.youtube.com/embed/TPb_O-1ARbc?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+@[youtube](TPb_O-1ARbc)
 
-## Felhasznált forrás{.medium}
 
-* Eddy Vents (2017). [The Truth About Semba & Kizomba](https://eddyvents.com/2017/08/02/the-evolution-of-semba-kizomba/){.underline}.
+## Felhasznált forrás
+
+* Eddy Vents (2017). [The Truth About Semba & Kizomba.](https://eddyvents.com/2017/08/02/the-evolution-of-semba-kizomba/)

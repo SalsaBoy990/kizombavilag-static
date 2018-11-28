@@ -1,8 +1,11 @@
 ---
-title: "Az esélytelen, aki elvitte a műsort (University of Kizomba)"
-date: "2018-05-14"
-excerpt: "Gyakran annyira felemészt bennünket az információözön, amit a gondos tervezésű közösségi alkalmazások zúdítanak ránk, hogy az a téves benyomásunk lehet, hogy mindent látunk és minden egyes embert ismerünk. Ennek következményeként nem meglepő, hogy az emberek a Nyugaton (angolaiak és nem angolaiak) élő híres táncosok és instruktorok szavát és munkáját tekintik szentírásnak és annak mércéjeként, hogy mi számít jó kizombának és sembának."
-topic: "Angolai Nemzeti Kizomba/Semba Bajnokság"
+title: Az esélytelen, aki elvitte a műsort
+author: University of Kizomba
+date: '2018-05-14'
+excerpt: >- 
+  Gyakran annyira felemészt bennünket az információözön, amit a gondos tervezésű közösségi alkalmazások zúdítanak ránk, hogy az a téves benyomásunk lehet, hogy mindent látunk és minden egyes embert ismerünk. Ennek következményeként nem meglepő, hogy az emberek a Nyugaton (angolaiak és nem angolaiak) élő híres táncosok és instruktorok szavát és munkáját tekintik szentírásnak és annak mércéjeként, hogy mi számít jó kizombának és sembának.
+topic: tánc
+coverImage: eselytelen_aki_elvitte_a_showt.jpg
 ---
 
 A közösségi média, a Facebook különösképp, rengeteg kizomba instruktornak és táncosnak széles körű ismertséget hozott világszerte.
@@ -17,11 +20,9 @@ Nézd meg hogyan táncolt (4:41-től kezdődik a videóban)!
 
 **A lényeg: nem mindegyik nagyszerű angolai táncos/instruktor van fent a Facebook-on, aki pedig fent van, nem szükségszerűen jó. Gyere Angolába és láss túl a nagy felhajtáson!**
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="center-align mx-auto mthalf shadow2" width="560" height="315" src="https://www.youtube.com/embed/OBeTnnUpllw?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<figcaption>Az esélytelen, aki elvitte a műsort</figcaption>
+@[youtube](OBeTnnUpllw)
 
-## Felhasznált forrás{.medium}
 
-* University of Kizomba (2018). [The underdog who stole the show](https://www.facebook.com/University.of.Kizomba/videos/637149583293538/){.underline}.
+## Felhasznált forrás
+
+* University of Kizomba (2018). [The underdog who stole the show.](https://www.facebook.com/University.of.Kizomba/videos/637149583293538/)

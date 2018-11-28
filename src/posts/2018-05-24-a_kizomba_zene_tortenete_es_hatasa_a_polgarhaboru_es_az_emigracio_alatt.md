@@ -1,13 +1,16 @@
 ---
-title: "A kizomba zene története és hatása az angolai polgárháború és a luzofón (portugál nyelvű) afrikaiak Portugáliába való kivándorlása alatt"
-date: "2018-05-24"
-excerpt: "Értened kell, hogy a kizomba mit képvisel az angolaiak számára! A kizomba az angolaiak életének legjobb és a legrosszabb pillanatait jelöli. Ha oktató vagy és a kizombát a neved mellé teszed, akkor az angolaiakat képviseled, így a te felelősséged azt elmondani, hogy miről szól a kizomba."
-topic: "kizomba zene"
+title: A kizomba zene története és hatása az angolai polgárháború és a luzofón afrikaiak Portugáliába való kivándorlása alatt
+author: Tania Mendonca
+date: '2018-05-24'
+excerpt: >-
+  Értened kell, hogy a kizomba mit képvisel az angolaiak számára! A kizomba az angolaiak életének legjobb és a legrosszabb pillanatait jelöli. Ha oktató vagy és a kizombát a neved mellé teszed, akkor az angolaiakat képviseled, így a te felelősséged azt elmondani, hogy miről szól a kizomba.
+topic: kultúra
+coverImage: mwangole_lisbon.jpg
 ---
 
 Az ok, amiért az angolaiak és a PALOP országbeliek (PALOP: egykori portugál gyarmatok: Angola, Bissau-Guinea, Mozambik, São Tomé és Príncipe, Zöld-foki Köztársaság (Cape Verde)) olyan erősen védelmezik a kizombát.
 
-[Tania Mendonça](https://www.facebook.com/tania.mendonca.work){.underline} videója alapján összeállítva. Rövid biográfia: Tania az angolai Benguela tengerparti városában született. Gyerekkorában, a polgárháború alatt, a szülei Portugáliába küldték egy másik családhoz, így ott nőtt fel. 9 éves volt, mikor elveszítette az édesapját. Életének minden része a tánc és a zene körül forgott. Tania kizomba instruktor és jelenleg Angliában él.
+[Tania Mendonça](https://www.facebook.com/tania.mendonca.work) videója alapján összeállítva. Rövid biográfia: Tania az angolai Benguela tengerparti városában született. Gyerekkorában, a polgárháború alatt, a szülei Portugáliába küldték egy másik családhoz, így ott nőtt fel. 9 éves volt, mikor elveszítette az édesapját. Életének minden része a tánc és a zene körül forgott. Tania kizomba instruktor és jelenleg Angliában él.
 
 Tania nem ért egyet azzal az elmélettel, mely szerint minden ami kizomba a zoukból ered, ugyanis a kizomba tánc már azelőtt is létezett, legalábbis Angolában, hogy a zouk zene meghódította volna Afrikát. Az viszont igaz, hogy a zouk nagy befolyást gyakorolt az akkori kizomba nemzedékre.
 
@@ -33,11 +36,14 @@ A házibulikban az angolaiak a családtagjaikkal is táncolni szoktak: a fiúk a
 
 Értened kell, hogy a kizomba mit képvisel az angolaiak számára! A kizomba az angolaiak életének legjobb és a legrosszabb pillanatait jelöli. **Ha oktató vagy és a kizombát a neved mellé teszed, akkor az angolaiakat képviseled, így a te felelősséged azt elmondani, hogy miről szól a kizomba.**
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="center-align mx-auto mthalf shadow2" width="560" height="315" src="https://www.youtube.com/embed/d5tZBNPLE10?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<figcaption>Cesaria Evora & Bonga - Sodade</figcaption>
 
-## Felhasznált forrás{.medium}
+## Cesaria Evora & Bonga - Sodade
 
-* Tania Mendonça (2016). [Kizomba - How it all started](https://www.youtube.com/watch?v=10UtJW2Rkl8){.underline}.
+@[youtube](d5tZBNPLE10)
+
+
+Luzofón = portugál nyelvű
+
+## Felhasznált forrás
+
+* Tania Mendonça (2016). [Kizomba - How it all started.](https://www.youtube.com/watch?v=10UtJW2Rkl8)

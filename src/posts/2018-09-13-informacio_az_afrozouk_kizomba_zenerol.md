@@ -1,8 +1,11 @@
 ---
-title: "Információ az afrozouk / kizomba zenéről (Eddy Vents)"
-date: "2018-09-13"
-excerpt: "A cikkben az alábbi zenei stílusokról lesz szó (sorrendben): kompa, zouk, zouk-love, semba, coladeira, gumbe, kizomba, ghetto-zouk és tarraxinha. A DJ-k számára is különösen ajánlott a cikk részletes tanulmányozása, ha a felsorolt stílusok közül valamelyiket nem ismeri! Ismerd meg a zenéket, amikre táncolsz!"
-topic: "kompa, zouk, zouk-love, semba, coladeira, gumbe, kizomba zene, ghetto-zouk, tarraxinha"
+title: Információ az afrozouk/kizomba zenéről
+author: Eddy Vents
+date: '2018-09-13'
+excerpt: >-
+  A cikkben az alábbi zenei stílusokról lesz szó (sorrendben): kompa, zouk, zouk-love, semba, coladeira, gumbe, kizomba, ghetto-zouk és tarraxinha. A DJ-k számára is különösen ajánlott a cikk részletes tanulmányozása, ha a felsorolt stílusok közül valamelyiket nem ismeri! Ismerd meg a zenéket, amikre táncolsz!
+topic: zene
+coverImage: banda_maravilha.jpg
 ---
 
 ## Bevezetés: szóbeli hagyományok
@@ -22,10 +25,10 @@ A stílus a Conjunto International zenekar Nemours Jean-Batiste általi 1955-ös
 (Haiti a Dominikai Köztársasággal szomszédos, gyakorlatilag egy nagy szigeten osztoznak a Karib-tengeren, így a földrajzi közelség miatt nem meglepő a kubai és a dominikai köztársasági hatás a kompában.)
 
 ### KOMPA mintadalok
-* [Skah Shah - Haiti](https://www.youtube.com/watch?v=SY5ukYOkZg8){.underline}
-* [Michel (Sweet Mickey) Martelly - I Don't Care](https://www.youtube.com/watch?v=eONSeWzvHGw){.underline}
-* [Coupe Cloue - Mon compè ti bom](https://www.youtube.com/watch?v=0LpU28yAekY){.underline}
-* [Tabou-Combo - Tu as volé](https://www.youtube.com/watch?v=LC3MoJzTxzU){.underline}
+* [Skah Shah - Haiti](https://www.youtube.com/watch?v=SY5ukYOkZg8)
+* [Michel (Sweet Mickey) Martelly - I Don't Care](https://www.youtube.com/watch?v=eONSeWzvHGw)
+* [Coupe Cloue - Mon compè ti bom](https://www.youtube.com/watch?v=0LpU28yAekY)
+* [Tabou-Combo - Tu as volé](https://www.youtube.com/watch?v=LC3MoJzTxzU)
 
 
 
@@ -38,18 +41,19 @@ A sikerein felbuzdulva, a Kassav zenekar földrajzilag nem korlátolta be a turn
 
 ### ZOUK mintadalok
 
-* [Kassav - Zouk La Se Sel Medikaman Nou Ni](https://www.youtube.com/watch?v=iYivaguAu4s){.underline}
-* [Experience 7 - Goudjoua](https://www.youtube.com/watch?v=ZBhdyq77tRc){.underline}
-* [Zouk Machine - Sove Lanmou](https://www.youtube.com/watch?v=6gOU8iRnZ6M){.underline}
+* [Kassav - Zouk La Se Sel Medikaman Nou Ni](https://www.youtube.com/watch?v=iYivaguAu4s)
+* [Experience 7 - Goudjoua](https://www.youtube.com/watch?v=ZBhdyq77tRc)
+* [Zouk Machine - Sove Lanmou](https://www.youtube.com/watch?v=6gOU8iRnZ6M)
+
 
 
 ## A ZOUK-LOVE zene bemutatása
 A zouk-love stílus szintén a Kassav zenekar vezetőjének a kezdeményezésére jött létre 1984/85 körül, a zouk zene lelassításán és romantikusabb témájú dalszövegekhez való forduláson keresztül. Zeneileg nagyon hasonló a zouk-hoz, de elhagyta a gyors ütemet és a karneváli hangzást, valamint az ének is lágyabb és romantikusabb. Ezt is franciául / francia kreolul éneklik.
 
 ### ZOUK-LOVE mintadalok
-* [Jean-Michel Rotin - Lé Ou Lov](https://www.youtube.com/watch?v=6o-h_JObqRQ){.underline}
-* [Ludo – Sensuelle](https://www.youtube.com/watch?v=4fFrESLk9pw){.underline}
-* [Nichols – Tocam](https://www.youtube.com/watch?v=4eksTaqiX7M){.underline}
+* [Jean-Michel Rotin - Lé Ou Lov](https://www.youtube.com/watch?v=6o-h_JObqRQ)
+* [Ludo – Sensuelle](https://www.youtube.com/watch?v=4fFrESLk9pw)
+* [Nichols – Tocam](https://www.youtube.com/watch?v=4eksTaqiX7M)
 
 
 ## A SEMBA zene bemutatása
@@ -64,9 +68,9 @@ A semba témája gyakran egy a hétköznapi élettel, a közösségi eseményekk
 A semba számos Angolából származó zenei stílus elődje, így a kizombájé, a kuduro-jé (vagy kuduru), amit a techno/house angolai változatának lehetne tekinteni.
 
 ### SEMBA mintadalok
-* [Bonga feat. Lura - Mulemba Xangola](https://www.youtube.com/watch?v=fhwVekYE4-I){.underline}
-* [Bangão - Dioguito](https://www.youtube.com/watch?v=Bx7DE4nXc9U){.underline}
-* [Carlos Burity - Ojala Yeya](https://www.youtube.com/watch?v=guTKkqwDB9s){.underline}
+* [Bonga feat. Lura - Mulemba Xangola](https://www.youtube.com/watch?v=fhwVekYE4-I)
+* [Bangão - Dioguito](https://www.youtube.com/watch?v=Bx7DE4nXc9U)
+* [Carlos Burity - Ojala Yeya](https://www.youtube.com/watch?v=guTKkqwDB9s)
 
 
 ## A COLADEIRA zene bemutatása
@@ -84,18 +88,20 @@ A zenei felépítés terén a coladeira lassan kezdte elhagyni azon jellemvonás
 A Cape Verde-i zenében erős a kompa befolyása. Az 1960-80-as évek alatt az olyan haiti zenészek és együttesek, mint a Claudette & Ti Pierre, a Tabou Combo, és különösképpen Gesner Henry alias Coupe Cloue, valamit a dominikai (nem a Dominikai Köztársaság) Exile One nagy népszerűségnek örvendtek Afrikában. Az Exile One volt a legelső, ami a cadence vagy compas zenét a Zöld-foki szigetekre vitte. A Cape Verde-i zenészek az USA-ban és Franciaországban ki voltak téve a compas és a zouk zene hatásának. Ezen felül a Francia-Antillákról származó Kassav együttes és más onnan származó zenészek, kiknek a zouk volt a fő zenéjük, több alkalommal is turnéztak a szigeteken. Ma, a Cape Verde-i zenészek új nemzedékének zenéje enyhén kompa jellegű a haiti-i és a zouk zenéhez hasonlóan. Jó példa ezekre Tito Paris „Dança mami Criola” 1994-es lemeze. Ez a CD olyan dalokat tartalmaz, amelyek közel állnak a haiti-i Tabou Combo, a Caribbean Sextet, az Exile One, a Tropicana és a francia-antilláki Kassav zenéihez.
 
 ### COLADEIRA mintadalok
-* [Bana - Mexe Mexe](https://www.youtube.com/watch?v=kIYCdg0Nds0){.underline}
-* [Cesaria Evora - Nho Antone Escaderode](https://www.youtube.com/watch?v=XGj77k9OBf4){.underline}
-* [Tito Paris - Dança ma mi criola](https://www.youtube.com/watch?v=XCeLjMjZSHo){.underline}
+* [Bana - Mexe Mexe](https://www.youtube.com/watch?v=kIYCdg0Nds0)
+* [Cesaria Evora - Nho Antone Escaderode](https://www.youtube.com/watch?v=XGj77k9OBf4)
+* [Tito Paris - Dança ma mi criola](https://www.youtube.com/watch?v=XCeLjMjZSHo)
+
 
 
 ## A GUMBE zene bemutatása
 A gumbe, szintén goombay vagy gumbay egy nyugat-afrikai zenei stílus, ami olyan országokban található meg mint Sierra Leone és Bissau-Guinea (Eddy Vents szülőföldje). Az igazi gumbe számos Bissau-guinea-i népi hagyomány ötvözete. A gumbe elsősorban vokális és ütőhangszeres zene, ami a gyarmati idők óta a nemzeti gondolattal társult. Az 1980-as évek végén a „Zouk Béton”-nak nevezett gyors tempójú zouk stílus (a Francia-Antillákról származó zene, amit a Kassav zenekar népszerűsített a 80-as években) befolyásolta a gumbét.
 
 ### GUMBE mintadalok
-* [Tabanka Djazz – Brincadera D’Aós](https://www.youtube.com/watch?v=ZjNxAMpk9Gg){.underline}
-* [Néné Tuty - Aleluia](https://www.youtube.com/watch?v=8IAmWHpQoKc){.underline}
-* [Rui Sangara - Disgraciado](https://www.youtube.com/watch?v=jEoFfMkSE6M){.underline}
+* [Tabanka Djazz – Brincadera D’Aós](https://www.youtube.com/watch?v=ZjNxAMpk9Gg)
+* [Néné Tuty - Aleluia](https://www.youtube.com/watch?v=8IAmWHpQoKc)
+* [Rui Sangara - Disgraciado](https://www.youtube.com/watch?v=jEoFfMkSE6M)
+
 
 
 ## A KIZOMBA zene bemutatása
@@ -122,12 +128,12 @@ A kizomba dalokat nagyon sokszor együttesek készítik, ahol tisztán hallhatod
 A kizomba bulit, partit jelent, ami egyben az eseményt és a helyet írja le, ahol az emberek összegyűltek táncolni és mulatni, és a régi időkben általában sembát játszani és táncolni.
 
 ### KIZOMBA mintadalok
-* [Eduardo Paim - Sao Saudades](https://www.youtube.com/watch?v=1QaLXuRTslw){.underline}
-* [Paulo Flores - Coisas da Terra](https://www.youtube.com/watch?v=HwWLco6Ri4M){.underline}
-* [Ruca Van-Dunem - Manhã de Domingo](https://www.youtube.com/watch?v=VuVQ0nsSJZQ){.underline}
-* [Matias Damasio - Juro Por Tudo](https://www.youtube.com/watch?v=U0qhh4SApJk){.underline}
-* [Kyaku Kyadaff - Entre Sete Sete Rosa](https://www.youtube.com/watch?v=i2rRxg6a1OY){.underline}
-* [Yola Semedo - Lá No Fundo](https://www.youtube.com/watch?v=RG-2liMTMwk){.underline}
+* [Eduardo Paim - Sao Saudades](https://www.youtube.com/watch?v=1QaLXuRTslw)
+* [Paulo Flores - Coisas da Terra](https://www.youtube.com/watch?v=HwWLco6Ri4M)
+* [Ruca Van-Dunem - Manhã de Domingo](https://www.youtube.com/watch?v=VuVQ0nsSJZQ)
+* [Matias Damasio - Juro Por Tudo](https://www.youtube.com/watch?v=U0qhh4SApJk)
+* [Kyaku Kyadaff - Entre Sete Sete Rosa](https://www.youtube.com/watch?v=i2rRxg6a1OY)
+* [Yola Semedo - Lá No Fundo](https://www.youtube.com/watch?v=RG-2liMTMwk)
 
 
 ## A GHETTOZOUK / CABO-LOVE / ZOUK-LOVE zene bemutatása
@@ -140,9 +146,10 @@ A ghetto zouk-ot a már Hollandiában született második generációs Cape Verd
 Általában teljesen elektronikus zene szintetikus hangszerekkel. Jellegzetessége a kemény basszus R&B stílusú énekkel párosítva.” Azt itt hozzátenném, hogy sok ghetto zouk énekes angolul is énekel, nemcsak portugálul.
 
 ### GHETTO-ZOUK mintadalok
-* [Nelson Freitas - Something Good](https://www.youtube.com/watch?v=l9XUIVFajF8){.underline}
-* [Johnny Ramos - Tu e Eu](https://www.youtube.com/watch?v=lDP5ij6N1t0){.underline}
-* [Djodje - Txukinha](https://www.youtube.com/watch?v=Hvu4Ff9kZgA){.underline}
+* [Nelson Freitas - Something Good](https://www.youtube.com/watch?v=l9XUIVFajF8)
+* [Johnny Ramos - Tu e Eu](https://www.youtube.com/watch?v=lDP5ij6N1t0)
+* [Djodje - Txukinha](https://www.youtube.com/watch?v=Hvu4Ff9kZgA)
+
 
 
 ## A TARRAXINHA / TARRAXO / TARRAXA zene bemutatása
@@ -166,9 +173,10 @@ Azonban napjainkban nagyon elterjedt az éneklés a tarraxinha dalokban.
 Mivel a tarraxinha és a ghetto zouk fejlődése szorosan kötődött az elektronikus mivoltukhoz és ahhoz a tényhez, hogy mindkét stílusból sok művész elkezdett közös projekteken dolgozni, így aztán rengeteg olyan szám van, ami valójában a két stílus keveréke. Ennek ellenére mégis észrevehető a tarraxinha dalok keményebb és sötétebb tónusa a ghetto zouk-hoz képest.
 
 ### TARRAXINHA mintadalok
-* [Dj Znobia - Madabaya](https://www.youtube.com/watch?v=9QYkBROVV1Y){.underline}
-* [Dj Massacres - Comboio](https://www.youtube.com/watch?v=KxSG3aFjih0){.underline}
-* [Dj Paparazzi - Me Tarraxa Assim](https://www.youtube.com/watch?v=LoqvpPWZ364){.underline}
+* [Dj Znobia - Madabaya](https://www.youtube.com/watch?v=9QYkBROVV1Y)
+* [Dj Massacres - Comboio](https://www.youtube.com/watch?v=KxSG3aFjih0)
+* [Dj Paparazzi - Me Tarraxa Assim](https://www.youtube.com/watch?v=LoqvpPWZ364)
+
 
 
 ## Függelék
@@ -176,27 +184,30 @@ Mivel a tarraxinha és a ghetto zouk fejlődése szorosan kötődött az elektro
 Eddy Vents még néhány további stílushoz is megadta a mintadalokat.
 
 ### COLA-ZOUK mintadalok (Cape Verde)
-* [Livity - Rosinha](https://www.youtube.com/watch?v=rc3upa32bSQ){.underline}
-* [Grace Evora - Lolita](https://www.youtube.com/watch?v=7tYDI98DDUk){.underline} 
-* [Nando Da Cruz - Celina](https://www.youtube.com/watch?v=l15E2yOm7dM){.underline}
+* [Livity - Rosinha](https://www.youtube.com/watch?v=rc3upa32bSQ)
+* [Grace Evora - Lolita](https://www.youtube.com/watch?v=7tYDI98DDUk)
+* [Nando Da Cruz - Celina](https://www.youtube.com/watch?v=l15E2yOm7dM)
+
 
 ### CABO-ZOUK mintadalok (Cape Verde)
 * Kino Cabral - sajnos már nem érhető el Youtube-on és nem tudom a szám címét :(
-* [Susanna Lubrano - Fofo](https://www.youtube.com/watch?v=AHMQThCeZWo){.underline}
-* [Beto Dias - Ki Vida](https://www.youtube.com/watch?v=MDaEg7TIp1E){.underline} 
+* [Susanna Lubrano - Fofo](https://www.youtube.com/watch?v=AHMQThCeZWo)
+* [Beto Dias - Ki Vida](https://www.youtube.com/watch?v=MDaEg7TIp1E)
 
 ### CABO-LOVE mintadalok (Cape Verde)
-* [Phillipe Monteiro - Alta Segurança](https://www.youtube.com/watch?v=SDrEnSBs5Zs){.underline} 
-* [Gama - Sai Cu Bo](https://www.youtube.com/watch?v=B1hTJwKUBg0){.underline} 
+* [Phillipe Monteiro - Alta Segurança](https://www.youtube.com/watch?v=SDrEnSBs5Zs)
+* [Gama - Sai Cu Bo](https://www.youtube.com/watch?v=B1hTJwKUBg0)
+
 
 ### AFRO-ZOUK - Minden zouk keverék, ami nem Angolához tartozik
-* [Tabanka Djaz - Foi Assim](https://www.youtube.com/watch?v=5wHXvtWPdxU){.underline} 
-* [Oliver N’Goma - Bane](https://www.youtube.com/watch?v=2msRi40IEG0){.underline}
-* [Monique Seka - Missounwa](https://www.youtube.com/watch?v=K5OV7dny6HE){.underline}
+* [Tabanka Djaz - Foi Assim](https://www.youtube.com/watch?v=5wHXvtWPdxU)
+* [Oliver N’Goma - Bane](https://www.youtube.com/watch?v=2msRi40IEG0)
+* [Monique Seka - Missounwa](https://www.youtube.com/watch?v=K5OV7dny6HE)
 
-## Felhasznált forrás{.medium}
 
-* Eddy Vents (2018). [INFO ABOUT AFROZOUK/KIZOMBA](https://www.facebook.com/notes/eddy-vents/info-about-afrozoukkizomba/1170332826442836/){.underline}.
+## Felhasznált forrás
+
+* Eddy Vents (2018). [INFO ABOUT AFROZOUK/KIZOMBA.](https://www.facebook.com/notes/eddy-vents/info-about-afrozoukkizomba/1170332826442836/)
 
 
 

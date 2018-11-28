@@ -1,93 +1,27 @@
-const domesticEventsData = require('./src/data/domestic_events.json')
-const eventsAbroadData = require('./src/data/events_abroad.json')
-
-let domesticEventsDateFormatted = []
-let eventsAbroadDateFormatted = []
-let dateParts = []
-
-dateFormatter(domesticEventsData, domesticEventsDateFormatted)
-dateFormatter(eventsAbroadData, eventsAbroadDateFormatted)
-
-function dateFormatter (data, dateFormatted) {
-  for (let i = 0; i < data.length; i++) {
-    // split date string by the '-' delimiter into an array
-    dateParts = data[i].datum.split('-')
-    // console.log(dateParts)
-
-    // replace month number with month name
-    let month = dateParts[1]
-    switch (month) {
-      case '01':
-        dateFormatted.push('jan.')
-        break
-
-      case '02':
-        dateFormatted.push('feb.')
-        break
-
-      case '03':
-        dateFormatted.push('márc.')
-        break
-
-      case '04':
-        dateFormatted.push('ápr.')
-        break
-
-      case '05':
-        dateFormatted.push('máj.')
-        break
-
-      case '06':
-        dateFormatted.push('jún.')
-        break
-
-      case '07':
-        dateFormatted.push('júl.')
-        break
-
-      case '08':
-        dateFormatted.push('aug.')
-        break
-
-      case '09':
-        dateFormatted.push('szept.')
-        break
-
-      case '10':
-        dateFormatted.push('okt.')
-        break
-
-      case '11':
-        dateFormatted.push('nov.')
-        break
-
-      case '12':
-        dateFormatted.push('dec.')
-        break
-
-      default: break
-    }
-  }
-}
-
 // I inserted some dummy text
 module.exports = {
   site: {
-    url: 'https://www.kizombavilag.com' /* 'https://www.kizombavilag.com' */,
-    shortTitle: `Kizombavilág`,
-    title: 'Kizombavilág Információs Portál',
-    image: 'https://d33wubrfki0l68.cloudfront.net/assets/images/0f63a4219f54d8f702b65de27ac7f0a48a94494a/dancers_sepia.jpg',
-    author: 'Gulácsi András',
-    quote: 'A kizomba sokkal több egy táncnál!',
+    url: 'https://www.kizombavilag.com/',
+    title: `Kizombavilág`,
+    image: 'https://d33wubrfki0l68.cloudfront.net/f2fa5a75dc79f3c1c5e872b7ce49e3257f2ac454/8e8bb/assets/images/profile.jpg',
+    defaultImage: 'https://www.gulacsiandras.blog/assets/images/maura_mazambi.jpg',
+    author: 'Kizombavilág Információs Portál',
+    quote: 'Kizombavilág - A magyar kizomba és semba magazin',
     description: 'A hazai információs portál a kizomba/semba iránt érdeklődők számára, hiteles, angolai forrásokból.',
-    email: 'guland@protonmail.com',
-    mobile: '+36/20/442-7225',
-    facebook: 'kizombavilag',
-    mailchimp: 'http://eepurl.com/dgDU-9',
-    currentYear: new Date().getFullYear(),
-    domesticEventsData,
-    domesticEventsDateFormatted: domesticEventsDateFormatted,
-    eventsAbroadData,
-    eventsAbroadDateFormatted: eventsAbroadDateFormatted
+    facebook: 'https://www.facebook.com/kizombavilag/',
+    youtube: 'https://www.youtube.com/channel/UC9HuNmL3okbisZU6sfRQDoA',
+    drkizomba: 'https://www.facebook.com/mds.drkizomba/',
+    fabricio_josy: 'https://www.facebook.com/dozangado/',
+    bonifacio_aurio: 'https://www.facebook.com/BonifacioAurioOfficial/',
+    eddy_vents: 'https://www.facebook.com/eddy.vents/',
+    dasmara_iolanda: 'https://www.facebook.com/dasmara.iolanda/',
+    liliana_acacio: 'https://www.facebook.com/labytheway/',
+    onclekani_blackcherry: 'https://www.facebook.com/BlackCherryAndOncleKani/',
+    bkc: 'https://www.facebook.com/BudapestKizombaConnection/',
+    mekuia: 'https://www.facebook.com/mekuia/',
+    drkizomba_classes: 'https://www.drkizomba.com/learn/',
+    malembe: 'https://www.facebook.com/malembeafrodancehungary/',
+    university_of_kizomba: 'https://www.facebook.com/University.of.Kizomba/',
+    currentYear: new Date().getFullYear()
   }
 }

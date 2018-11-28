@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://kizombavilag.netlify.com/* https://www.kizombavilag.com/:splat 301!

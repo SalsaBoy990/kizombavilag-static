@@ -1,8 +1,11 @@
 ---
-title: "KIZOMBA vs. URBANKIZ (University of Kizomba)"
-date: "2018-06-29"
-excerpt: "Nyugodtan táncold a kizombát, az urbankiz-t, vagy mindkettőt! De váljon szokásunkká, hogy külön kezeljük és nevén nevezzük mindkét táncot annak ami, és ne próbáljuk összemosni egyetlen egységként, vagy még rosszabb, ugyanazon tánccsaládból származó „rokonokként” kezelni. Mert nem azok. És nincsen probléma ezzel sem."
-topic: "kizomba vs. urbankiz"
+title: Kizomba vs. Urbankiz
+author: University of Kizomba
+date: '2018-06-29'
+excerpt: >-
+  Nyugodtan táncold a kizombát, az urbankiz-t, vagy mindkettőt! De váljon szokásunkká, hogy külön kezeljük és nevén nevezzük mindkét táncot annak ami, és ne próbáljuk összemosni egyetlen egységként, vagy még rosszabb, ugyanazon tánccsaládból származó „rokonokként” kezelni. Mert nem azok. És nincsen probléma ezzel sem.
+topic: tánc
+coverImage: kizomba_vs_urban.jpg
 ---
 
 A mi számít kizombának és mi urbankiz-nek kérdés vonatkozásában a Facebook-on lefolytatott számos heves vita fényében úgy döntöttünk, megosztunk 2 videót, ami remélhetőleg szemlélteti, hogy ezek különböző táncok. Mindegyiknek megvannak a maga különálló elemei a felsőtesttartás, az altestmozgás, a lábmunka, a zeneiség, a ginga (vagy annak hiánya), pongue (?), a végrehajtás precizitása és merevsége, a partnerrel való kötődés (vagy annak hiánya), vonalas vagy körkörös mozgásmintázat stb. tekintetében… sőt még a zene is teljesen másnak érződik.
@@ -15,16 +18,17 @@ Vitathatóan, az urbankiz létrehozóit – bizonyos mértékig – a kizomba ih
 
 Külön köszönet jár Eddie Hercules-nek (urbankiz) és Pablo Nzo Conzo-nak (kizomba), hogy voltak olyan kedvesek engedélyezni e videók megosztását az oldalunkon.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="center-align mx-auto mthalf shadow2" width="560" height="315" src="https://www.youtube.com/embed/9l9hjxtCoXA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-<figcaption>Ez KIZOMBA!</figcaption>
+## Ez kizomba!
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="center-align mx-auto mthalf shadow2" width="560" height="315" src="https://www.youtube.com/embed/jiQ6sKFvm_w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-<figcaption>Ez URBANKIZ!</figcaption>
+@[youtube](9l9hjxtCoXA)
 
-## Felhasznált forrás{.medium}
 
-* University of Kizomba (2017). [KIZOMBA vs URBANKIZ](https://www.facebook.com/University.of.Kizomba/videos/503576009984230/){.underline}.
+## Ez urbankiz!{.mt3}
+
+@[youtube](jiQ6sKFvm_w)
+
+
+
+## Felhasznált forrás
+
+* University of Kizomba (2017). [KIZOMBA vs URBANKIZ](https://www.facebook.com/University.of.Kizomba/videos/503576009984230/)
