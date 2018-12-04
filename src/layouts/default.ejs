@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html lang="hu">
-  <%- include partials/head %>
+  <%- include partials/head.ejs %>
 <body>
+  <%- include partials/header-post %>
   <main>
-    <div class="container mt3">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2 p0 align-left">
-      <%- body %>
-      </div>
-    </div>
+    <%- body %>
   </main>
-  <%- include partials/footer-post %>
+  <%- include partials/footer %>
   <%- include partials/bootstrap %>
   <%- include partials/tracking %>
 </body>
