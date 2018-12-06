@@ -14,7 +14,7 @@ Persze, a semba nem feltétlenül kell, hogy ennyire pörgős és akrobatikus le
 
 Reméljük hamarosan Európában is elcsíphetjük a „Tukinákat” és tanulhatunk tőlük/táncolhatunk velük! :) Nem a BKC csapatán fog múlni, ez egészen biztos… ;)
 
-@[youtube](cKrv6-gHCcA)
+@[youtube](P4tKzmiLkXI)
 
 
 ## Felhasznált forrás
