@@ -1,5 +1,5 @@
 <header>
-  <nav class="navbar navbar-inverse navbar-static-top bg-black border-none" role="navigation">
+  <nav id="mobile-nav" class="navbar navbar-inverse navbar-static-top bg-black border-none" role="navigation">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="sr-only">Toggle navigation</span>
@@ -15,10 +15,10 @@
     </div>
     
     <div class="navbar-collapse collapse">
-      <ul class="nav navbar-nav pull-right mr2 sans bold-500">
-        <li><a href="#cikkek" class="smallest uppercase">Cikkek</a></li>
-        <li><a href="#linkek" class="smallest uppercase">Hasznos linkek</a></li>
-        <li><a href="#kapcsolat" class="smallest uppercase">Kapcsolat</a></li>
+      <ul id="mobile-menu" class="nav navbar-nav pull-right mr2 sans bold-500">
+        <li><a href="#cikkek" class="uppercase">Cikkek</a></li>
+        <li><a href="#linkek" class="uppercase">Hasznos linkek</a></li>
+        <li><a href="#kapcsolat" class="uppercase">Kapcsolat</a></li>
       </ul>
     </div>
   </nav>
@@ -27,11 +27,11 @@
 <div class="intro header-whitespace">
   <div class="jumbotron">
     <div class="container">
-      <h1 class="black-900 white expanded-3 word-spacing lh11 tshadow-black mt0 mb1 unselectable"><%= site.quote %></h1>
+      <h1 id="site-title" class="black-900 white expanded-3 word-spacing lh11 tshadow-black mb1 unselectable"><%= site.quote %></h1>
       <div class="row">
         <div class="col-xs-12">
           <div class="modul unselectable mb1 mthalf border-shadow">
-            <ul class="italic bold-500 mb0 mt0 smallest sans pipa">
+            <ul class="italic bold-500 mb0 mt0 medium sans pipa">
               <li>Hiteles, angolai forrásból származó infók</li>
               <li>Színvonalas cikkek a kizomba kultúráról</li>
               <li>Autentikus táncosok inspiráló videói</li>

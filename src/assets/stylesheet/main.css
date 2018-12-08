@@ -25,7 +25,11 @@
     }
 }
 
-@media (min-width: 86rem) {
+@media (min-width: 60rem) {
+    .modul {
+        max-width: 450px !important;
+    }
+
     html, body {
         font-size: 22px
     }
@@ -951,7 +955,6 @@ article a:hover {
     text-decoration: none;
 }
 
-
 @media (max-width: 768px) {
     .title {
         font-size: 1.3rem;
@@ -967,6 +970,13 @@ article a:hover {
     .header-whitespace {
         margin-bottom: 0rem;
     }
+
+    #mobile-menu {
+        margin-left: 15px;
+        margin-right: 0;
+        float: none !important;
+        text-align: center
+    }
 }
 
 @media (min-width: 768px) {
@@ -976,14 +986,36 @@ article a:hover {
     #article {
         margin-top: 0px
     }
+}
 
-    .mobile-menu {
-        display: none;
-    }
+#mobile-menu {
+    font-size: 0.8rem !important;
 }
 
 
 @media (max-width: 500px) {
+    #site-title {
+        margin-top: 50px;
+    }
+
+    #mobile-menu {
+        margin-left: 15px;
+        margin-right: 0;
+        float: none !important;
+        text-align: center
+    }
+
+    #mobile-menu {
+        font-size: 1rem !important;
+    }
+
+    #mobile-nav {
+        position: fixed;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+
     .title {
         font-size: 1.2rem;
     }
@@ -1001,11 +1033,11 @@ article a:hover {
 
 .btn:hover, .btn:active, .btn:focus {
     color: #FFF;
-    background: #80312E;
+    background: #365899;
 }
 
 .btn:active, .btn:active {
-    background: #80312E;
+    background: #365899;
     box-shadow: none;
 }
 
@@ -1019,7 +1051,7 @@ article a:hover {
 
 .btn-primary {
     color: #FFF;
-    background: #117bb8;
+    background: #4267b2;
 }
 
 .logo {
@@ -1080,6 +1112,16 @@ textarea {
     filter: grayscale(0%);
 }
 
+.emoji {
+    display: inline;
+    margin-left: 0;
+    margin-right: 0.25rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 1rem;
+    height: 1rem;
+}
+
 
 .post-date {
     margin-bottom: 2rem;
@@ -1114,7 +1156,8 @@ textarea {
 }
 
 .modul {
-    max-width: 320px;
+    max-width: 360px;
+    min-width: 240px;
     border-radius: 5px;
     padding: 0.25rem;
     background-color: rgba(255, 255, 255, 0.85)  /*#fdfdad */

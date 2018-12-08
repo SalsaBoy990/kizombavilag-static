@@ -40,6 +40,7 @@
     "markdown-it-highlightjs": "^3.0.0",
     "markdown-it-implicit-figures": "^0.9.0",
     "markdown-it-multimd-table": "^3.1.2",
+    "markdown-it-podcast": "^0.2.3",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "markdown-it-video": "^0.6.3",
