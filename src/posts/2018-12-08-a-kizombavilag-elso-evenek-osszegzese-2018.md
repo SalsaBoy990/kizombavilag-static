@@ -51,6 +51,13 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 ## Igényes kizomba és semba zenék a Kizombavilág ajánlásával
 
+Igazi kizomba dalok, nem ghetto zouk!
+
+### 100% kizomba
+
+@[youtube](videoseries?list=PLFH6j6vN9B8Pk_YrRJzfyopmFkaz2CwtX)
+
+### Semba
 *Feltöltés alatt...*
 
 ## Kizombavilág a Budapest Kizomba Connection-ön (BKC8)
@@ -71,7 +78,7 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 ![Fabricio Do Zangado és Josy Semkiz társaságában.
 Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg)
-![<3](/assets/images/emoji/love.png){.emoji}
+
 
 @[youtube](eYmHu6Qk8yM)
 
