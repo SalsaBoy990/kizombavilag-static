@@ -51,9 +51,9 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 ## Igényes kizomba és semba zenék a Kizombavilág ajánlásával
 
-Igazi kizomba dalok, nem ghetto zouk!
+Igazi kizomba dalok, amelyek az esetek 99.9%-ában nem hallhatók a hazai úgynevezett "kizomba" bulikban. Amit játszanak az ghetto zouk, nem kizomba. Kyaku Kyadaff, Paulo Flores, Ruca Van-Dunem, Irmaos Almeira, Eduardo Paim, Matias Damasio, Yola Semedo stb. például híres kizomba zenészek (némelyikük sembát is készít). Míg Nelson Freitas, Mika Mendes, Johnny Ramos, Kaysha, Djodje stb. ghetto zouk énekesek, semmi közük nincs a kizombához.
 
-### 100% kizomba
+### Kizomba
 
 @[youtube](videoseries?list=PLFH6j6vN9B8Pk_YrRJzfyopmFkaz2CwtX)
 
@@ -77,7 +77,7 @@ Igazi kizomba dalok, nem ghetto zouk!
 ## Kizombavilág a Mekuia Kizomba Fesztiválon (MKF1), Pozsonyban
 
 ![Fabricio Do Zangado és Josy Semkiz társaságában.
-Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg)
+Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg){.medium-img}
 
 
 @[youtube](eYmHu6Qk8yM)
