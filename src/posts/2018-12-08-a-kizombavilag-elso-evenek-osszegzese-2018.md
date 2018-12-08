@@ -29,14 +29,21 @@ De nem is szaporítom tovább a szót. Jöjjön hát az évzáró!
 
 Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel bennük):
 
-* Kevesebb mozgást, több beleélést!
-* Lélegezd be a múltat és lélegezd ki a jövőt!
-* A kizomba zene lebontása
-* A kizomba zene története és hatása az angolai polgárháború és a luzofón afrikaiak Portugáliába való kivándorlása alatt
-* Semba – a Tukina csapat interpretálásában
-* Az esélytelen, aki elvitte a műsort
-* A munka különböztet meg téged
-* Az angolaiak számára sokat jelentő dalok
+* [Kevesebb mozgást, több beleélést!](https://www.kizombavilag.com/2018/04/30/kevesebb_mozgast_tobb_beleelest)
+
+* [Lélegezd be a múltat és lélegezd ki a jövőt!](https://www.kizombavilag.com/2018/04/29/lelegezd_be_a_multat_es_lelegezd_ki_a_jovot)
+
+* [A kizomba zene lebontása](https://www.kizombavilag.com/2018/04/28/a_kizomba_zene_lebontasa)
+
+* [A kizomba zene története és hatása az angolai polgárháború és a luzofón afrikaiak Portugáliába való kivándorlása alatt](https://www.kizombavilag.com/2018/05/24/a_kizomba_zene_tortenete_es_hatasa_a_polgarhaboru_es_az_emigracio_alatt)
+
+* [Semba – a Tukina csapat interpretálásában](https://www.kizombavilag.com/2018/06/03/semba_es_a_tukina_csapat)
+
+* [A munka különböztet meg téged](https://www.kizombavilag.com/2018/05/06/a_munka_kulonboztet_meg_teged)
+
+* [Az esélytelen, aki elvitte a műsort](https://www.kizombavilag.com/2018/05/14/az_eselytelen_aki_elvitte_a_musort)
+
+* [Az angolaiak számára sokat jelentő dalok](https://www.kizombavilag.com/2018/06/15/dalok_melyek_az_angolaiaknak_sokat_jelentenek)
 
 ## A legkitűnőbb táncos videók a Kizombavilág ajánlásával
 
@@ -44,11 +51,32 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 ## Igényes kizomba és semba zenék a Kizombavilág ajánlásával
 
+*Feltöltés alatt...*
+
+## Kizombavilág a Budapest Kizomba Connection-ön (BKC8)
+
+*Feltöltés alatt...*
+
+## Kizombavilág a Mekuia Kizomba Fesztiválon (MKF1), Pozsonyban
+
+*Feltöltés alatt...*
+
 ## Tervek a jövő évre
 
-Már összeállt a következő félév tematikája: 4-5 cikk lesz várható és tovább folytatódnak a kizomba kedd és semba szerda rovatok, a Kizomba Na Rua (kizomba az utcán) és egyéb videókkal egyetemben. :)
+Már összeállt a következő félév tematikája: 4-5 cikk lesz várható és tovább folytatódnak a kizomba kedd és semba szerda rovatok, a Kizomba Na Rua (kizomba az utcán) és más videókkal egyetemben.
+Made in ![Angola](/assets/images/emoji/angola.png){.emoji} anyagok, 100% kizomba és semba. ![:)](/assets/images/emoji/happy.png){.emoji}
 
-Ezzel az egy órás válogatással szeretnék Kellemes Ünnepeket és Boldog Új Évet kívánni a Kizombavilág összes követőjének!
+Ezzel az egy órás, régi és igényes angolai zenéket tartalmazó válogatással szeretnék Kellemes Ünnepeket és Boldog Új Évet kívánni a Kizombavilág összes követőjének, barátjának és támogatójának! ![christmas](/assets/images/emoji/pine.png){.emoji}
+
+@S[soundcloud](https://soundcloud.com/andras-gulacsi/pure-angola-mix-semba-and-other-styles)
+
+## Köszönetnyivánítás
+
+Köszönöm a segítséget Hamvas Nikolettnek, a [Budapest Kizomba Connection (BKC)](https://www.facebook.com/BudapestKizombaConnection/) főszervezőjének a segítségét és a mentorálását! ![:)](/assets/images/emoji/happy.png){.emoji}
+
+F. J.-nak köszönöm a jó kizomba és semba táncokat!  ![;)](/assets/images/emoji/wink.png){.emoji}
+
+
 
 
 
