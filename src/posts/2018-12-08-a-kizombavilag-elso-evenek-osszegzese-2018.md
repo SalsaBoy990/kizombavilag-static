@@ -68,7 +68,7 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 ## Kizombavilág a Mekuia Kizomba Fesztiválon (MKF1), Pozsonyban
 
 ![Fabricio Do Zangado és Josy Semkiz társaságában.
-Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/fabricio_josy.jpg)
+Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg)
 ![<3](/assets/images/emoji/love.png){.emoji}
 
 @[youtube](eYmHu6Qk8yM)
