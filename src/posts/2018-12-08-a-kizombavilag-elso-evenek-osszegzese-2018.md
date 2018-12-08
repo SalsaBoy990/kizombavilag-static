@@ -12,19 +12,19 @@ De nem is szaporítom tovább a szót. Jöjjön hát az évzáró! ![cool](/asse
 
 ## A legnépszerűbb Kizombavilág cikkek listája
 
-1. [A kizomba kultúra tiszteletben tartásának 10 módja](https://www.kizombavilag.com/2018/07/10/a_kizomba_kultura_tiszteletben_tartasanak_10_modja) **(59 kedvelés)**
+1. [A kizomba kultúra tiszteletben tartásának 10 módja](https://www.kizombavilag.com/2018/07/10/a_kizomba_kultura_tiszteletben_tartasanak_10_modja) *(59 kedvelés)*
 
-2. [Információ az afrozouk/kizomba zenéről](https://www.kizombavilag.com/2018/09/13/informacio_az_afrozouk_kizomba_zenerol) **(58 kedvelés)**
+2. [Információ az afrozouk/kizomba zenéről](https://www.kizombavilag.com/2018/09/13/informacio_az_afrozouk_kizomba_zenerol) *(58 kedvelés)*
 
-3. [Kizomba Evolúció](https://www.kizombavilag.com/2018/06/24/a_kizomba_es_a_semba_evolucioja) **(21 kedvelés)**
+3. [Kizomba Evolúció](https://www.kizombavilag.com/2018/06/24/a_kizomba_es_a_semba_evolucioja) *(21 kedvelés)*
 
-4. [Kizomba vs. Urbankiz](https://www.kizombavilag.com/2018/06/29/kizomba_vs_urbankiz) **(15 kedvelés)**
+4. [Kizomba vs. Urbankiz](https://www.kizombavilag.com/2018/06/29/kizomba_vs_urbankiz) *(15 kedvelés)*
 
-5. [A kizomba nem csak egy tánc, hanem valami sokkal erőteljesebb!](https://www.kizombavilag.com/2018/05/01/a_kizomba_tobb_egy_tancnal) **(13 kedvelés)**
+5. [A kizomba nem csak egy tánc, hanem valami sokkal erőteljesebb!](https://www.kizombavilag.com/2018/05/01/a_kizomba_tobb_egy_tancnal) *(13 kedvelés)*
 
-6. [Hogyan tegyél szert nagyszerű kizomba zeneiségre?](https://www.kizombavilag.com/2018/04/27/hogyan_tegyel_szert_nagyszeru_kizomba_zeneisegre) **(12 kedvelés)**
+6. [Hogyan tegyél szert nagyszerű kizomba zeneiségre?](https://www.kizombavilag.com/2018/04/27/hogyan_tegyel_szert_nagyszeru_kizomba_zeneisegre) *(12 kedvelés)*
 
-7. [Az igazság a sembáról és a kizombáról](https://www.kizombavilag.com/2018/06/23/az_igazsag_a_sembarol_es_a_kizombarol) **(9 kedvelés)**
+7. [Az igazság a sembáról és a kizombáról](https://www.kizombavilag.com/2018/06/23/az_igazsag_a_sembarol_es_a_kizombarol) *(9 kedvelés)*
 
 
 Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel bennük):
@@ -60,8 +60,10 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 [Liliana Moreno](https://www.facebook.com/labytheway/) válasza:
 > Thank you András Gulácsi for being in our wks, for your energy, your kind words and specially for sharing these incredible moments on your page! See you soon SAILOR! ![:D](/assets/images/emoji/laugh.png){.emoji} ![<3](/assets/images/emoji/love.png){.emoji}
 
+### Liliana Moreno & Acácio Reis
 @[youtube](kjYCQ4pL1Rs)
 
+### Bonifácio Aurio & Iolanda Rangel
 @[youtube](mVvABSgg7fY)
 
 
@@ -76,7 +78,7 @@ Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images
 ## Tervek a jövő évre
 
 Már összeállt a következő félév tematikája: 4-5 cikk lesz várható és tovább folytatódnak a kizomba kedd és semba szerda rovatok, a Kizomba Na Rua (kizomba az utcán) és más videókkal egyetemben.
-Made in ![Angola](/assets/images/emoji/angola.png){.emoji} anyagok, 100% kizomba és semba. ![:)](/assets/images/emoji/happy.png){.emoji}
+Made in ![Angola](/assets/images/emoji/angola.png){.emoji}, 100% kizomba és semba. ![:)](/assets/images/emoji/happy.png){.emoji}
 
 Ezzel az egy órás, régi és igényes angolai zenéket tartalmazó válogatással szeretnék Kellemes Ünnepeket és Boldog Új Évet kívánni a Kizombavilág összes követőjének, barátjának és támogatójának! ![christmas](/assets/images/emoji/pine.png){.emoji}
 
