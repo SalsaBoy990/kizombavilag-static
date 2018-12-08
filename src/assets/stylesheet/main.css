@@ -547,7 +547,7 @@ form {
 }
 
 .light-gray {
-    color: #9d9d9d
+    color: #9d9d9d !important
 }
 
 .medium-gray {
@@ -994,10 +994,6 @@ article a:hover {
 
 
 @media (max-width: 500px) {
-    #site-title {
-        margin-top: 50px;
-    }
-
     #mobile-menu {
         margin-left: 15px;
         margin-right: 0;
@@ -1009,10 +1005,11 @@ article a:hover {
         font-size: 1rem !important;
     }
 
-    #mobile-nav {
+    .mobile-nav {
         position: fixed;
         right: 0;
         left: 0;
+        bottom: 0;
         z-index: 1030;
     }
 

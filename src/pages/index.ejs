@@ -2,11 +2,35 @@
 <div width="100%">
   <div class="container-fluid m0">
     <div class="row">
+      <div class="col-xs-12 col-sm-10 pl2 pr1">
+        <h1 class="uppercase mb2"><a></a>Aktuális</h1>
+        <% if (postsDataForIndexPage[0].topic === 'zene') { %>
+        <h2 class="big uppercase gray mb2">Zeneismeret | Zeneiség</h2>
+        <% } else if (postsDataForIndexPage[0].topic === 'tánc') { %>
+        <h2 class="big uppercase gray mb2">Táncismeret | Táncosok</h2>
+        <% } else if (postsDataForIndexPage[0].topic === 'kultúra') { %>
+        <h2 class="big uppercase gray mb2">Kultúra | Történelem</h2>
+        <% } else { %>
+        <h2 class="big uppercase gray mb2">Évzáró</h2>
+        <% } %>
+        <div class="mb3">
+          <article>
+            <div class="prhalf mr1 mb2">
+              <a href="<%= postsDataForIndexPage[0].pathToPost %>" class="no-underline visited-link ">
+                <img class="darken m0 border-shadow" src="/assets/images/articles/<%= postsDataForIndexPage[0].coverImage %>" alt="<%= postsDataForIndexPage[0].title %>">
+                <h2 class="big no-underline expanded black-900 m0 pthalf"><%= postsDataForIndexPage[0].title %></h2>
+              </a> 
+              <p class="smallest bold-500 gray italic mb1 sans"><%= postsDataForIndexPage[0].author %> | <%= postsDataForIndexPage[0].dateFormatted %></p>
+            </div>
+          </article>
+        </div>
+      </div>
+
       <div class="col-xs-12 col-sm-6 pl2 pr1">
-        <h1 class="uppercase mb2"><a id="cikkek"></a>Cikkek</h1>
+        <h1 class="uppercase mb2"><a id="cikkek"></a>Korábbi cikkek</h1>
         <h2 class="big uppercase gray mb2">Zeneismeret | Zeneiség</h2>
         <div class="mb3">
-          <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+          <% for (var i = 1; i < postsDataForIndexPage.length; i++) { %>
           <% if (postsDataForIndexPage[i].topic === 'zene') { %>
           <article>
             <div class="prhalf mr1 mb2">
@@ -25,7 +49,7 @@
       <div class="col-xs-12 col-sm-6 pl2 pr1">
         <h2 class="whitespace big uppercase gray mb2">Táncismeret | Táncosok</h2>
         <div class="mb3">
-        <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+        <% for (var i = 1; i < postsDataForIndexPage.length; i++) { %>
         <% if (postsDataForIndexPage[i].topic === 'tánc') { %>
           <article>
             <div class="prhalf mr1 mb2">
@@ -47,7 +71,7 @@
       <div class="col-xs-12 col-sm-6 pl2 pr1">
         <h2 class="big uppercase gray mb2">Kultúra | Történelem</h2>
         <div class="mb3">
-          <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+          <% for (var i = 1; i < postsDataForIndexPage.length; i++) { %>
           <% if (postsDataForIndexPage[i].topic === 'kultúra') { %>
           <article>
             <div class="prhalf mr1 mb2">
