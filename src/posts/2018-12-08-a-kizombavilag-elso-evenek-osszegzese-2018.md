@@ -8,7 +8,7 @@ coverImage: ujev_2018.jpg
 ---
 Eljött a december, ezért ezzel a kis összefoglalással szeretnék visszatekinteni az elmúlt évre, hogy milyen emlékezetes pillanatok, történések voltak. Sok szakmai anyag került fel a honlapra, nagy gonddal gyűjtöttem az elérhető legjobb kizomba és semba táncos videókat, hogy követendő mintát nyújtson Nektek, és a legszebb és legigényesebb muzsikákból szemezgettem, hogy ihletet adjon a tánchoz.
 
-De nem is szaporítom tovább a szót. Jöjjön hát az évzáró!
+De nem is szaporítom tovább a szót. Jöjjön hát az évzáró! ![cool](/assets/images/emoji/cool.png){.emoji}
 
 ## A legnépszerűbb Kizombavilág cikkek listája
 
@@ -55,11 +55,23 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 ## Kizombavilág a Budapest Kizomba Connection-ön (BKC8)
 
-*Feltöltés alatt...*
+> Liliana Moreno és Acácio Reis semba óráin is részt vettem a #BKC8-on. Nagyon jó volt a hangulat az óráikon. Kitűnő tanárok, minden rendesen elmagyaráztak, és sokat tanultunk tőlük. Köszönöm Kapitányok! ![:D](/assets/images/emoji/laugh.png){.emoji} I also attended the semba classes of Liliana Moreno & Acácio Reis at BKC8. I really liked the great atmosphere of their classes. We were having a lot of fun. They are excellent teachers, explained things very well, and we learned a lot from them. Thank you, Captains! ![:D](/assets/images/emoji/laugh.png){.emoji}
+
+[Liliana Moreno](https://www.facebook.com/labytheway/) válasza:
+> Thank you András Gulácsi for being in our wks, for your energy, your kind words and specially for sharing these incredible moments on your page! See you soon SAILOR! ![:D](/assets/images/emoji/laugh.png){.emoji} ![<3](/assets/images/emoji/love.png){.emoji}
+
+@[youtube](kjYCQ4pL1Rs)
+
+@[youtube](mVvABSgg7fY)
+
 
 ## Kizombavilág a Mekuia Kizomba Fesztiválon (MKF1), Pozsonyban
 
-*Feltöltés alatt...*
+![Fabricio Do Zangado és Josy Semkiz társaságában.
+Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/x.jpg)
+![<3](/assets/images/emoji/love.png){.emoji}
+
+@[youtube](eYmHu6Qk8yM)
 
 ## Tervek a jövő évre
 
@@ -70,9 +82,9 @@ Ezzel az egy órás, régi és igényes angolai zenéket tartalmazó válogatás
 
 @S[soundcloud](https://soundcloud.com/andras-gulacsi/pure-angola-mix-semba-and-other-styles)
 
-## Köszönetnyivánítás
+## Köszönetnyilvánítás
 
-Köszönöm a segítséget Hamvas Nikolettnek, a [Budapest Kizomba Connection (BKC)](https://www.facebook.com/BudapestKizombaConnection/) főszervezőjének a segítségét és a mentorálását! ![:)](/assets/images/emoji/happy.png){.emoji}
+Köszönöm a segítséget és a mentorálásomat Hamvas Nikolettnek, a [Budapest Kizomba Connection (BKC)](https://www.facebook.com/BudapestKizombaConnection/) főszervezőjének! ![:)](/assets/images/emoji/happy.png){.emoji}
 
 F. J.-nak köszönöm a jó kizomba és semba táncokat!  ![;)](/assets/images/emoji/wink.png){.emoji}
 
