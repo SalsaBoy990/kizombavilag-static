@@ -1,9 +1,9 @@
 ---
 title: A Kizombavilág első évének összegzése (2018)
 author: Gulácsi András
-date: '2018-12-10'
+date: '2018-12-08'
 excerpt: A Kizombavilág magazin és információs portál első évének összegzése (2018)
-topic: aktualis
+topic: évzáró
 coverImage: ujev_2018.jpg
 ---
 Eljött a december, ezért ezzel a kis összefoglalással szeretnék visszatekinteni az elmúlt évre, hogy milyen emlékezetes pillanatok, történések voltak. Sok szakmai anyag került fel a honlapra, nagy gonddal gyűjtöttem az elérhető legjobb kizomba és semba táncos videókat, hogy követendő mintát nyújtson Nektek, és a legszebb és legigényesebb muzsikákból szemezgettem, hogy ihletet adjon a tánchoz.
