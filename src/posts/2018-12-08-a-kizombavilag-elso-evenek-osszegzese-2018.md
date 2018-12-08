@@ -51,16 +51,20 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 ## Igényes kizomba és semba zenék a Kizombavilág ajánlásával
 
-Igazi kizomba dalok, amelyek az esetek 99.9%-ában nem hallhatók a hazai úgynevezett "kizomba" bulikban. Amit játszanak az ghetto zouk, nem kizomba. Kyaku Kyadaff, Paulo Flores, Ruca Van-Dunem, Irmaos Almeira, Eduardo Paim, Matias Damasio, Yola Semedo stb. például híres kizomba zenészek (némelyikük sembát is készít). Míg Nelson Freitas, Mika Mendes, Johnny Ramos, Kaysha, Djodje stb. ghetto zouk énekesek, semmi közük nincs a kizombához.
+Igazi kizomba dalok, amelyek az esetek 99.9%-ában nem hallhatók a hazai úgynevezett "kizomba" bulikban. Amit játszanak az ghetto zouk, nem kizomba. Kyaku Kyadaff, Paulo Flores, Ruca Van-Dunem, Irmaos Almeira, Eduardo Paim, Matias Damasio, Yola Semedo stb. például híres kizomba zenész/énekes (némelyikük sembát is készít).
 
 ### Kizomba
 
 @[youtube](videoseries?list=PLFH6j6vN9B8Pk_YrRJzfyopmFkaz2CwtX)
 
 ### Semba
-*Feltöltés alatt...*
+
+@[youtube](videoseries?list=PLFH6j6vN9B8P2XVE3f9ugcfTO3oinP71J)
+
 
 ## Kizombavilág a Budapest Kizomba Connection-ön (BKC8)
+
+![Az Európa Rendezvényhajón, Budapest Kizomba Connection 2018](/assets/images/articles/me_at_bkc8.jpg){.medium-img}
 
 > Liliana Moreno és Acácio Reis semba óráin is részt vettem a #BKC8-on. Nagyon jó volt a hangulat az óráikon. Kitűnő tanárok, minden rendesen elmagyaráztak, és sokat tanultunk tőlük. Köszönöm Kapitányok! ![:D](/assets/images/emoji/laugh.png){.emoji} I also attended the semba classes of Liliana Moreno & Acácio Reis at BKC8. I really liked the great atmosphere of their classes. We were having a lot of fun. They are excellent teachers, explained things very well, and we learned a lot from them. Thank you, Captains! ![:D](/assets/images/emoji/laugh.png){.emoji}
 
