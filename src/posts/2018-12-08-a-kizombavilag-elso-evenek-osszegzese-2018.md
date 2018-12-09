@@ -6,7 +6,7 @@ excerpt: A Kizombavilág magazin és információs portál első évének össze
 topic: évzáró
 coverImage: ujev_2018.jpg
 ---
-Eljött a december, ezért ezzel a kis összefoglalással szeretnék visszatekinteni az elmúlt évre, hogy milyen emlékezetes pillanatok, történések voltak. Sok szakmai anyag került fel a honlapra, nagy gonddal gyűjtöttem az elérhető legjobb kizomba és semba táncos videókat, hogy követendő mintát nyújtson Nektek, és a legszebb és legigényesebb muzsikákból szemezgettem, hogy ihletet adjon a tánchoz.
+Eljött a december, ezért ezzel a kis összefoglalással szeretnék visszatekinteni az elmúlt év néhány emlékezetes pillanatára, történésére. Sok szakmai anyag került fel a honlapra, nagy gonddal gyűjtöttem az elérhető legjobb kizomba és semba táncos videókat, hogy követendő mintát nyújtson Nektek, és a legszebb és legigényesebb muzsikákból szemezgettem, hogy ihletet adjon a tánchoz.
 
 De nem is szaporítom tovább a szót. Jöjjön hát az évzáró! ![cool](/assets/images/emoji/cool.png){.emoji}
 
@@ -51,7 +51,7 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 ## Igényes kizomba és semba zenék a Kizombavilág ajánlásával
 
-Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgynevezett "kizomba" bulikban. Ismert kizomba énekesek és zenészek: Eduardo Paim, Paulo Flores, Irmãos Verdades, Ruca Van-Dunem, Irmaos Almeira, Kyaku Kyadaff, Matias Damasio, Yola Semedo stb.
+Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgynevezett „kizomba” bulikban. Ismert kizomba énekesek és zenészek: Eduardo Paim, Paulo Flores, Irmãos Verdades, Ruca Van-Dunem, Irmaos Almeira, Kyaku Kyadaff, Matias Damasio, Yola Semedo stb.
 
 ### Kizomba
 
@@ -93,6 +93,7 @@ A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam 
 ![Fabricio Do Zangado és Josy Semkiz társaságában.
 Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg)
 
+### Fabricio Do Zangado és Josy
 @[youtube](eYmHu6Qk8yM)
 
 Jövőre ismét megrendezésre kerül a Mekuia Kizomba Fesztivál, [itt a Facebook esemény](https://www.facebook.com/events/1986406804774934/).
