@@ -49,20 +49,20 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 @[youtube](videoseries?list=PLFH6j6vN9B8PgQdwovQPZUHbHKYnNMKpt)
 
-## Igényes kizomba és semba zenék a Kizombavilág ajánlásával{.mt3}
+## Igényes kizomba és semba zenék a Kizombavilág ajánlásával{.mt5}
 
 Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgynevezett „kizomba” bulikban. Ismert kizomba énekesek és zenészek: Eduardo Paim, Paulo Flores, Irmãos Verdades, Ruca Van-Dunem, Irmaos Almeira, Kyaku Kyadaff, Matias Damasio, Yola Semedo stb.
 
-### Kizomba{.mb0}
+### Kizomba{.mt3}
 
 @[youtube](videoseries?list=PLFH6j6vN9B8Pk_YrRJzfyopmFkaz2CwtX)
 
-### Semba{.mb0}
+### Semba{.mt3}
 
 @[youtube](videoseries?list=PLFH6j6vN9B8P2XVE3f9ugcfTO3oinP71J)
 
 
-## Kizombavilág a Budapest Kizomba Connection-ön (BKC8){.mt3}
+## Kizombavilág a Budapest Kizomba Connection-ön (BKC8){.mt5}
 
 ![Az Európa Rendezvényhajó, Budapest Kizomba Connection helyszíne](/assets/images/articles/europa_hajo_bkc8.jpg)
 
@@ -84,7 +84,7 @@ Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgyne
 Jövőre immár 9. alkalommal kerül megrendezésre a Budapest Kizomba Connection, [itt a Facebook esemény](https://www.facebook.com/events/978577658996669/).
 
 
-## Kizombavilág a Mekuia Kizomba Fesztiválon (Pozsony, november 16-19.){.mt3}
+## Kizombavilág a Mekuia Kizomba Fesztiválon (Pozsony, november 16-19.){.mt5}
 
 A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam szól a cikk, ezért inkább 1-2 képet és videót adok közre.
 
@@ -97,13 +97,13 @@ A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam 
 ![Fabricio Do Zangado és Josy Semkiz társaságában.
 Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg)
 
-### Fabricio Do Zangado és Josy{.mb0}
+### Fabricio Do Zangado és Josy{.mt2}
 
 @[youtube](eYmHu6Qk8yM)
 
 Jövőre ismét megrendezésre kerül a Mekuia Kizomba Fesztivál, [itt a Facebook esemény](https://www.facebook.com/events/1986406804774934/).
 
-## Tervek a jövő évre{.mt3}
+## Tervek a jövő évre{.mt4}
 
 Már összeállt a következő félév tematikája: 4-5 cikk lesz várható és tovább folytatódnak a kizomba kedd és semba szerda rovatok, a Kizomba Na Rua (kizomba az utcán) és más videókkal egyetemben.
 Made in ![Angola](/assets/images/emoji/angola.png){.emoji}, 100% kizomba és semba. ![:)](/assets/images/emoji/happy.png){.emoji}
@@ -112,7 +112,7 @@ Ezzel az egy órás, régi és igényes angolai zenéket tartalmazó válogatás
 
 @S[soundcloud](https://soundcloud.com/andras-gulacsi/pure-angola-mix-semba-and-other-styles)
 
-## Köszönetnyilvánítás{.mt3}
+## Köszönetnyilvánítás{.mt4}
 
 Köszönöm a segítséget és a mentorálást Hamvas Nikolettnek, a [Budapest Kizomba Connection (BKC)](https://www.facebook.com/BudapestKizombaConnection/) szervezőjének! ![:)](/assets/images/emoji/happy.png){.emoji}
 
