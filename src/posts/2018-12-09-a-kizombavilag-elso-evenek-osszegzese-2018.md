@@ -12,15 +12,20 @@ De nem is szaporítom tovább a szót. Jöjjön hát az évzáró! ![cool](/asse
 
 ## A legnépszerűbb Kizombavilág cikkek listája
 
-1. [A kizomba kultúra tiszteletben tartásának 10 módja](https://www.kizombavilag.com/2018/07/10/a_kizomba_kultura_tiszteletben_tartasanak_10_modja) *(59 kedvelés)*
+1. [A kizomba kultúra tiszteletben tartásának 10 módja
+](https://www.kizombavilag.com/2018/07/10/a_kizomba_kultura_tiszteletben_tartasanak_10_modja) *(59 kedvelés)*
 
-2. [Információ az afrozouk/kizomba zenéről](https://www.kizombavilag.com/2018/09/13/informacio_az_afrozouk_kizomba_zenerol) *(58 kedvelés)*
+2. [Információ az afrozouk/kizomba zenéről
+](https://www.kizombavilag.com/2018/09/13/informacio_az_afrozouk_kizomba_zenerol) *(58 kedvelés)*
 
-3. [Kizomba Evolúció](https://www.kizombavilag.com/2018/06/24/a_kizomba_es_a_semba_evolucioja) *(21 kedvelés)*
+3. [Kizomba Evolúció
+](https://www.kizombavilag.com/2018/06/24/a_kizomba_es_a_semba_evolucioja) *(21 kedvelés)*
 
-4. [Kizomba vs. Urbankiz](https://www.kizombavilag.com/2018/06/29/kizomba_vs_urbankiz) *(15 kedvelés)*
+4. [Kizomba vs. Urbankiz
+](https://www.kizombavilag.com/2018/06/29/kizomba_vs_urbankiz) *(15 kedvelés)*
 
-5. [A kizomba nem csak egy tánc, hanem valami sokkal erőteljesebb!](https://www.kizombavilag.com/2018/05/01/a_kizomba_tobb_egy_tancnal) *(13 kedvelés)*
+5. [A kizomba nem csak egy tánc, hanem valami sokkal erőteljesebb!
+](https://www.kizombavilag.com/2018/05/01/a_kizomba_tobb_egy_tancnal) *(13 kedvelés)*
 
 6. [Hogyan tegyél szert nagyszerű kizomba zeneiségre?](https://www.kizombavilag.com/2018/04/27/hogyan_tegyel_szert_nagyszeru_kizomba_zeneisegre) *(12 kedvelés)*
 
@@ -29,19 +34,26 @@ De nem is szaporítom tovább a szót. Jöjjön hát az évzáró! ![cool](/asse
 
 Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel bennük):
 
-* [Kevesebb mozgást, több beleélést!](https://www.kizombavilag.com/2018/04/30/kevesebb_mozgast_tobb_beleelest)
+* [Kevesebb mozgást, több beleélést!
+](https://www.kizombavilag.com/2018/04/30/kevesebb_mozgast_tobb_beleelest)
 
-* [Lélegezd be a múltat és lélegezd ki a jövőt!](https://www.kizombavilag.com/2018/04/29/lelegezd_be_a_multat_es_lelegezd_ki_a_jovot)
+* [Lélegezd be a múltat és lélegezd ki a jövőt!
+](https://www.kizombavilag.com/2018/04/29/lelegezd_be_a_multat_es_lelegezd_ki_a_jovot)
 
-* [A kizomba zene lebontása](https://www.kizombavilag.com/2018/04/28/a_kizomba_zene_lebontasa)
+* [A kizomba zene lebontása
+](https://www.kizombavilag.com/2018/04/28/a_kizomba_zene_lebontasa)
 
-* [A kizomba zene története és hatása az angolai polgárháború és a luzofón afrikaiak Portugáliába való kivándorlása alatt](https://www.kizombavilag.com/2018/05/24/a_kizomba_zene_tortenete_es_hatasa_a_polgarhaboru_es_az_emigracio_alatt)
+* [A kizomba zene története és hatása az angolai polgárháború és a luzofón afrikaiak Portugáliába való kivándorlása alatt
+](https://www.kizombavilag.com/2018/05/24/a_kizomba_zene_tortenete_es_hatasa_a_polgarhaboru_es_az_emigracio_alatt)
 
-* [Semba – a Tukina csapat interpretálásában](https://www.kizombavilag.com/2018/06/03/semba_es_a_tukina_csapat)
+* [Semba – a Tukina csapat interpretálásában
+](https://www.kizombavilag.com/2018/06/03/semba_es_a_tukina_csapat)
 
-* [A munka különböztet meg téged](https://www.kizombavilag.com/2018/05/06/a_munka_kulonboztet_meg_teged)
+* [A munka különböztet meg téged
+](https://www.kizombavilag.com/2018/05/06/a_munka_kulonboztet_meg_teged)
 
-* [Az esélytelen, aki elvitte a műsort](https://www.kizombavilag.com/2018/05/14/az_eselytelen_aki_elvitte_a_musort)
+* [Az esélytelen, aki elvitte a műsort
+](https://www.kizombavilag.com/2018/05/14/az_eselytelen_aki_elvitte_a_musort)
 
 * [Az angolaiak számára sokat jelentő dalok](https://www.kizombavilag.com/2018/06/15/dalok_melyek_az_angolaiaknak_sokat_jelentenek)
 
@@ -125,4 +137,4 @@ Ezzel az egy órás, régi és igényes angolai zenéket tartalmazó válogatás
 
 Köszönöm a segítséget és a mentorálást Hamvas Nikolettnek, a [Budapest Kizomba Connection (BKC)](https://www.facebook.com/BudapestKizombaConnection/) szervezőjének! ![:)](/assets/images/emoji/happy.png){.emoji}
 
-F. J.-nak köszönöm a jó kizomba és semba táncokat!  ![;)](/assets/images/emoji/wink.png){.emoji}
+Faragó Juditnak köszönöm a jó kizomba és semba táncokat!  ![;)](/assets/images/emoji/wink.png){.emoji}
