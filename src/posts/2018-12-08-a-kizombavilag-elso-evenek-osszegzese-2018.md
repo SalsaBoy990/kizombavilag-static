@@ -53,11 +53,11 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgynevezett „kizomba” bulikban. Ismert kizomba énekesek és zenészek: Eduardo Paim, Paulo Flores, Irmãos Verdades, Ruca Van-Dunem, Irmaos Almeira, Kyaku Kyadaff, Matias Damasio, Yola Semedo stb.
 
-### Kizomba{.mt3}
+### Kizomba{.mt3 .mb0}
 
 @[youtube](videoseries?list=PLFH6j6vN9B8Pk_YrRJzfyopmFkaz2CwtX)
 
-### Semba{.mt3}
+### Semba{.mt3 .mb0}
 
 @[youtube](videoseries?list=PLFH6j6vN9B8P2XVE3f9ugcfTO3oinP71J)
 
@@ -73,11 +73,11 @@ Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgyne
 [Liliana Moreno](https://www.facebook.com/labytheway/) válasza:
 > Thank you András Gulácsi for being in our wks, for your energy, your kind words and specially for sharing these incredible moments on your page! See you soon SAILOR! ![:D](/assets/images/emoji/laugh.png){.emoji} ![<3](/assets/images/emoji/love.png){.emoji}
 
-### Liliana Moreno & Acácio Reis{.mt2}
+### Liliana Moreno & Acácio Reis{.mt2 .mb0}
 
 @[youtube](kjYCQ4pL1Rs)
 
-### Bonifácio Aurio & Iolanda Rangel{.mt3}
+### Bonifácio Aurio & Iolanda Rangel{.mt3 .mb0}
 
 @[youtube](mVvABSgg7fY)
 
@@ -97,7 +97,7 @@ A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam 
 ![Fabricio Do Zangado és Josy Semkiz társaságában.
 Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg)
 
-### Fabricio Do Zangado és Josy{.mt3}
+### Fabricio Do Zangado és Josy{.mt3 .mb0}
 
 @[youtube](eYmHu6Qk8yM)
 
