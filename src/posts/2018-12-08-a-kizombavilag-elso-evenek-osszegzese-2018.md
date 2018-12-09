@@ -86,10 +86,11 @@ Jövőre immár 9. alkalommal kerül megrendezésre a Budapest Kizomba Connectio
 
 A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam szól a cikk, ezért inkább 1-2 képet és videót adok közre.
 
-[A helyszín egy ismert salsa szórakozóhely, a La Bomba volt.](/assets/images/articles/la_bomba_mekuia_2018.jpg)
+![A helyszín egy ismert salsa szórakozóhely, a La Bomba volt.](/assets/images/articles/la_bomba_mekuia_2018.jpg)
 
 
-[Farbicio Do Zangado és Josy Bevezetés a sembába workshopján](/assets/images/articles/fabricio_josy_semba_class_mekuia_2018.jpg)
+![Farbicio Do Zangado és Josy Bevezetés a sembába workshopján](/assets/images/articles/fabricio_josy_semba_class_mekuia_2018.jpg)
+
 
 ![Fabricio Do Zangado és Josy Semkiz társaságában.
 Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg)
