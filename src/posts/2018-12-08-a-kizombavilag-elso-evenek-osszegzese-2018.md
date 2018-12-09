@@ -108,6 +108,6 @@ Ezzel az egy órás, régi és igényes angolai zenéket tartalmazó válogatás
 
 ## Köszönetnyilvánítás
 
-Köszönöm a segítséget és a mentorálásomat Hamvas Nikolettnek, a [Budapest Kizomba Connection (BKC)](https://www.facebook.com/BudapestKizombaConnection/) főszervezőjének! ![:)](/assets/images/emoji/happy.png){.emoji}
+Köszönöm a segítséget és a mentorálást Hamvas Nikolettnek, a [Budapest Kizomba Connection (BKC)](https://www.facebook.com/BudapestKizombaConnection/) szervezőjének! ![:)](/assets/images/emoji/happy.png){.emoji}
 
 F. J.-nak köszönöm a jó kizomba és semba táncokat!  ![;)](/assets/images/emoji/wink.png){.emoji}
