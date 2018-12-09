@@ -45,24 +45,24 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 * [Az angolaiak számára sokat jelentő dalok](https://www.kizombavilag.com/2018/06/15/dalok_melyek_az_angolaiaknak_sokat_jelentenek)
 
-## A legkitűnőbb táncos videók a Kizombavilág ajánlásával
+## A legkitűnőbb táncos videók a Kizombavilág ajánlásával{.mt2}
 
 @[youtube](videoseries?list=PLFH6j6vN9B8PgQdwovQPZUHbHKYnNMKpt)
 
-## Igényes kizomba és semba zenék a Kizombavilág ajánlásával
+## Igényes kizomba és semba zenék a Kizombavilág ajánlásával{.mt2}
 
 Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgynevezett „kizomba” bulikban. Ismert kizomba énekesek és zenészek: Eduardo Paim, Paulo Flores, Irmãos Verdades, Ruca Van-Dunem, Irmaos Almeira, Kyaku Kyadaff, Matias Damasio, Yola Semedo stb.
 
-### Kizomba
+### Kizomba{.mbhalf}
 
 @[youtube](videoseries?list=PLFH6j6vN9B8Pk_YrRJzfyopmFkaz2CwtX)
 
-### Semba
+### Semba{.mbhalf}
 
 @[youtube](videoseries?list=PLFH6j6vN9B8P2XVE3f9ugcfTO3oinP71J)
 
 
-## Kizombavilág a Budapest Kizomba Connection-ön (BKC8)
+## Kizombavilág a Budapest Kizomba Connection-ön (BKC8){.mt2}
 
 ![Az Európa Rendezvényhajó, Budapest Kizomba Connection helyszíne](/assets/images/articles/europa_hajo_bkc8.jpg)
 
@@ -73,16 +73,18 @@ Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgyne
 [Liliana Moreno](https://www.facebook.com/labytheway/) válasza:
 > Thank you András Gulácsi for being in our wks, for your energy, your kind words and specially for sharing these incredible moments on your page! See you soon SAILOR! ![:D](/assets/images/emoji/laugh.png){.emoji} ![<3](/assets/images/emoji/love.png){.emoji}
 
-### Liliana Moreno & Acácio Reis
+### Liliana Moreno & Acácio Reis{.mbhalf}
+
 @[youtube](kjYCQ4pL1Rs)
 
-### Bonifácio Aurio & Iolanda Rangel
+### Bonifácio Aurio & Iolanda Rangel{.mbhalf}
+
 @[youtube](mVvABSgg7fY)
 
 Jövőre immár 9. alkalommal kerül megrendezésre a Budapest Kizomba Connection, [itt a Facebook esemény](https://www.facebook.com/events/978577658996669/).
 
 
-## Kizombavilág a Mekuia Kizomba Fesztiválon (Pozsony, november 16-19.)
+## Kizombavilág a Mekuia Kizomba Fesztiválon (Pozsony, november 16-19.){.mt2}
 
 A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam szól a cikk, ezért inkább 1-2 képet és videót adok közre.
 
@@ -95,12 +97,13 @@ A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam 
 ![Fabricio Do Zangado és Josy Semkiz társaságában.
 Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg)
 
-### Fabricio Do Zangado és Josy
+### Fabricio Do Zangado és Josy{.mbhalf}
+
 @[youtube](eYmHu6Qk8yM)
 
 Jövőre ismét megrendezésre kerül a Mekuia Kizomba Fesztivál, [itt a Facebook esemény](https://www.facebook.com/events/1986406804774934/).
 
-## Tervek a jövő évre
+## Tervek a jövő évre{.mt2}
 
 Már összeállt a következő félév tematikája: 4-5 cikk lesz várható és tovább folytatódnak a kizomba kedd és semba szerda rovatok, a Kizomba Na Rua (kizomba az utcán) és más videókkal egyetemben.
 Made in ![Angola](/assets/images/emoji/angola.png){.emoji}, 100% kizomba és semba. ![:)](/assets/images/emoji/happy.png){.emoji}
@@ -109,7 +112,7 @@ Ezzel az egy órás, régi és igényes angolai zenéket tartalmazó válogatás
 
 @S[soundcloud](https://soundcloud.com/andras-gulacsi/pure-angola-mix-semba-and-other-styles)
 
-## Köszönetnyilvánítás
+## Köszönetnyilvánítás{.mt2}
 
 Köszönöm a segítséget és a mentorálást Hamvas Nikolettnek, a [Budapest Kizomba Connection (BKC)](https://www.facebook.com/BudapestKizombaConnection/) szervezőjének! ![:)](/assets/images/emoji/happy.png){.emoji}
 
