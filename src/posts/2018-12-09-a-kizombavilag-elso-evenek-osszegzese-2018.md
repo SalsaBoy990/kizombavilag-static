@@ -102,7 +102,7 @@ Jövőre immár 9. alkalommal kerül megrendezésre a Budapest Kizomba Connectio
 
 ## Kizombavilág a Mekuia Kizomba Fesztiválon (Pozsony, november 16-19.){.mt5}
 
-A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam szól a cikk, ezért inkább 1-2 képet és videót adok közre.
+A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam szól ez a cikk, ezért inkább néhány képet és videót adok közre.
 
 ![A helyszín egy ismert salsa szórakozóhely, a La Bomba volt.](/assets/images/articles/la_bomba_mekuia_2018.jpg)
 
@@ -129,7 +129,7 @@ Jövőre ismét megrendezésre kerül a Mekuia Kizomba Fesztivál, [itt a Facebo
 Már összeállt a következő félév tematikája: 4-5 cikk lesz várható és tovább folytatódnak a kizomba kedd és semba szerda rovatok, a Kizomba Na Rua (kizomba az utcán) és más videókkal egyetemben.
 Made in ![Angola](/assets/images/emoji/angola.png){.emoji}, 100% kizomba és semba. ![:)](/assets/images/emoji/happy.png){.emoji}
 
-Ezzel az egy órás, régi és igényes angolai zenéket tartalmazó válogatással szeretnék Kellemes Ünnepeket és Boldog Új Évet kívánni a Kizombavilág összes követőjének, barátjának és támogatójának! ![christmas](/assets/images/emoji/pine.png){.emoji}
+Ezzel az egy órás, régi és igényes angolai zenéket tartalmazó válogatással szeretnék Kellemes Ünnepeket és Boldog Új Évet kívánni a Kizombavilág összes követőjének, barátjának és támogatójának! ![christmas tree](/assets/images/emoji/pine.png){.emoji}
 
 @S[soundcloud](https://soundcloud.com/andras-gulacsi/pure-angola-mix-semba-and-other-styles)
 
