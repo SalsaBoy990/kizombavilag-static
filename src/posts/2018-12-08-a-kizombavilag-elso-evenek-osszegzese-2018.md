@@ -62,7 +62,7 @@ Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgyne
 @[youtube](videoseries?list=PLFH6j6vN9B8P2XVE3f9ugcfTO3oinP71J)
 
 
-## Kizombavilág a Budapest Kizomba Connection-ön (BKC8, aug. 31. - szept. 3.){.mt5}
+## Kizombavilág a Budapest Kizomba Connection-ön (BKC8, augusztus 31. - szeptember 3.){.mt5}
 
 ![Az Európa Rendezvényhajó, a Budapest Kizomba Connection helyszíne](/assets/images/articles/europa_hajo_bkc8.jpg)
 
@@ -73,13 +73,17 @@ Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgyne
 [Liliana Moreno](https://www.facebook.com/labytheway/) válasza:
 > Thank you András Gulácsi for being in our wks, for your energy, your kind words and specially for sharing these incredible moments on your page! See you soon SAILOR! ![:D](/assets/images/emoji/laugh.png){.emoji} ![<3](/assets/images/emoji/love.png){.emoji}
 
-### Liliana Moreno & Acácio Reis{.mt2 .mb0}
+### Liliana Moreno & Acácio Reis{.mt3 .mb0}
 
 @[youtube](kjYCQ4pL1Rs)
 
 ### Bonifácio Aurio & Iolanda Rangel{.mt3 .mb0}
 
 @[youtube](mVvABSgg7fY)
+
+### Élő videó a buliból{.mt3 .mb0}
+
+@[youtube](c9ATe6sZ1ZQ)
 
 Jövőre immár 9. alkalommal kerül megrendezésre a Budapest Kizomba Connection, [itt a Facebook esemény](https://www.facebook.com/events/978577658996669/).
 
@@ -100,6 +104,11 @@ Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images
 ### Fabricio Do Zangado és Josy{.mt3 .mb0}
 
 @[youtube](eYmHu6Qk8yM)
+
+
+### Élő videó a buliból{.mt3 .mb0}
+
+@[youtube](6WJxKwH5SF4)
 
 Jövőre ismét megrendezésre kerül a Mekuia Kizomba Fesztivál, [itt a Facebook esemény](https://www.facebook.com/events/1986406804774934/).
 
