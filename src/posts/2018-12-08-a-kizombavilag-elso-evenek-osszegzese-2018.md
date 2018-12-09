@@ -1,7 +1,7 @@
 ---
 title: A Kizombavilág első évének összegzése (2018)
 author: Gulácsi András
-date: '2018-12-08'
+date: '2018-12-09'
 excerpt: A Kizombavilág magazin és információs portál első évének összegzése (2018)
 topic: évzáró
 coverImage: ujev_2018.jpg
@@ -51,7 +51,7 @@ Néhány régebbi cikkemet is erősen ajánlom (jó videókkal és zenékkel ben
 
 ## Igényes kizomba és semba zenék a Kizombavilág ajánlásával
 
-Igazi kizomba dalok, amelyek az esetek 99.9%-ában nem hallhatók a hazai úgynevezett "kizomba" bulikban. Amit játszanak az ghetto zouk, nem kizomba. Kyaku Kyadaff, Paulo Flores, Ruca Van-Dunem, Irmaos Almeira, Eduardo Paim, Matias Damasio, Yola Semedo stb. például híres kizomba zenész/énekes (némelyikük sembát is készít).
+Igazi kizomba dalok, amelyek az esetek 99,9%-ában nem hallhatók a hazai úgynevezett "kizomba" bulikban. Ismert kizomba énekesek és zenészek: Eduardo Paim, Paulo Flores, Irmãos Verdades, Ruca Van-Dunem, Irmaos Almeira, Kyaku Kyadaff, Matias Damasio, Yola Semedo stb.
 
 ### Kizomba
 
@@ -64,7 +64,9 @@ Igazi kizomba dalok, amelyek az esetek 99.9%-ában nem hallhatók a hazai úgyne
 
 ## Kizombavilág a Budapest Kizomba Connection-ön (BKC8)
 
-![Az Európa Rendezvényhajón, Budapest Kizomba Connection 2018](/assets/images/articles/me_at_bkc8.jpg){.medium-img}
+![Az Európa Rendezvényhajó, Budapest Kizomba Connection helyszíne](/assets/images/articles/europa_hajo_bkc8.jpg)
+
+![Lilana & Acácio semba órájának végén készült csoportkép](/assets/images/articles/lilana_acacio_semba_class_bkc8.jpg)
 
 > Liliana Moreno és Acácio Reis semba óráin is részt vettem a #BKC8-on. Nagyon jó volt a hangulat az óráikon. Kitűnő tanárok, minden rendesen elmagyaráztak, és sokat tanultunk tőlük. Köszönöm Kapitányok! ![:D](/assets/images/emoji/laugh.png){.emoji} I also attended the semba classes of Liliana Moreno & Acácio Reis at BKC8. I really liked the great atmosphere of their classes. We were having a lot of fun. They are excellent teachers, explained things very well, and we learned a lot from them. Thank you, Captains! ![:D](/assets/images/emoji/laugh.png){.emoji}
 
@@ -77,14 +79,23 @@ Igazi kizomba dalok, amelyek az esetek 99.9%-ában nem hallhatók a hazai úgyne
 ### Bonifácio Aurio & Iolanda Rangel
 @[youtube](mVvABSgg7fY)
 
+Jövőre immár 9. alkalommal kerül megrendezésre a Budapest Kizomba Connection, [itt a Facebook esemény](https://www.facebook.com/events/978577658996669/).
 
-## Kizombavilág a Mekuia Kizomba Fesztiválon (MKF1), Pozsonyban
+
+## Kizombavilág a Mekuia Kizomba Fesztiválon (Pozsony, november 16-19.)
+
+A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam szól a cikk, ezért inkább 1-2 képet és videót adok közre.
+
+[A helyszín egy ismert salsa szórakozóhely, a La Bomba volt.](/assets/images/articles/la_bomba_mekuia_2018.jpg)
+
+[Farbicio Do Zangado és Josy Bevezetés a sembába workshopján](/assets/images/articles/fabricio_jsoy_semba_class_mekuia_2018.jpg)
 
 ![Fabricio Do Zangado és Josy Semkiz társaságában.
-Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg){.medium-img}
-
+Mekuia Kizomba Fesztivál, La Bomba, Pozsony, 2018. november 18.](/assets/images/articles/fabricio_josy.jpg)
 
 @[youtube](eYmHu6Qk8yM)
+
+Jövőre ismét megrendezésre kerül a Mekuia Kizomba Fesztivál, [itt a Facebook esemény](https://www.facebook.com/events/1986406804774934/).
 
 ## Tervek a jövő évre
 
@@ -100,9 +111,3 @@ Ezzel az egy órás, régi és igényes angolai zenéket tartalmazó válogatás
 Köszönöm a segítséget és a mentorálásomat Hamvas Nikolettnek, a [Budapest Kizomba Connection (BKC)](https://www.facebook.com/BudapestKizombaConnection/) főszervezőjének! ![:)](/assets/images/emoji/happy.png){.emoji}
 
 F. J.-nak köszönöm a jó kizomba és semba táncokat!  ![;)](/assets/images/emoji/wink.png){.emoji}
-
-
-
-
-
-
