@@ -6,6 +6,7 @@ module.exports = {
     image: 'https://d33wubrfki0l68.cloudfront.net/assets/images/24f49d6b5c4202478167013941cfbecd2d2443a2/maura_mazambi.jpg',
     defaultImage: 'https://d33wubrfki0l68.cloudfront.net/assets/images/24f49d6b5c4202478167013941cfbecd2d2443a2/maura_mazambi.jpg',
     author: 'Kizombavilág Információs Portál',
+    creator: 'Gulácsi András',
     quote: 'Kizombavilág - A magyar kizomba és semba magazin',
     description: 'A hazai információs portál a kizomba/semba iránt érdeklődők számára, hiteles, angolai forrásokból.',
     facebook: 'https://www.facebook.com/kizombavilag/',
@@ -22,6 +23,8 @@ module.exports = {
     drkizomba_classes: 'https://www.drkizomba.com/learn/',
     malembe: 'https://www.facebook.com/malembeafrodancehungary/',
     university_of_kizomba: 'https://www.facebook.com/University.of.Kizomba/',
-    currentYear: new Date().getFullYear()
+    currentYear: new Date().getFullYear(),
+    google_analytics: 'UA-111942600-1',
+    facebook_app_id: '750411971984801'
   }
 }
