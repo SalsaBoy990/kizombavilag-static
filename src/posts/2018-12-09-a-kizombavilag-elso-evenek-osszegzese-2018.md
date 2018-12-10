@@ -102,7 +102,7 @@ Jövőre immár 9. alkalommal kerül megrendezésre a Budapest Kizomba Connectio
 
 ## Kizombavilág a Mekuia Kizomba Fesztiválon (Pozsony, november 16-19.){.mt5}
 
-A személyes beszámolómat az eseményről nem osztom meg itt, mert nem rólam szól ez a cikk, ezért inkább néhány képet és videót adok közre.
+A személyes beszámolómat az eseményről nem osztom meg, inkább néhány képet és videót adok közre helyette.
 
 ![A helyszín egy ismert salsa szórakozóhely, a La Bomba volt.](/assets/images/articles/la_bomba_mekuia_2018.jpg)
 
