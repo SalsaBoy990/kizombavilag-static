@@ -3,7 +3,7 @@
   <div class="container-fluid m0">
     <div class="row">
       <div class="col-xs-12 col-sm-10 pl2 pr1">
-        <h1 class="uppercase mb2"><a></a>Aktuális</h1>
+        <h1 class="uppercase mb2"><a id="cikkek"></a>Aktuális</h1>
         <% if (postsDataForIndexPage[0].topic === 'zene') { %>
         <h2 class="big uppercase gray mb2">Zeneismeret | Zeneiség</h2>
         <% } else if (postsDataForIndexPage[0].topic === 'tánc') { %>
@@ -11,7 +11,7 @@
         <% } else if (postsDataForIndexPage[0].topic === 'kultúra') { %>
         <h2 class="big uppercase gray mb2">Kultúra | Történelem</h2>
         <% } else { %>
-        <h2 class="big uppercase gray mb2">Évzáró</h2>
+        <h2 class="big uppercase gray mb1">Évzáró</h2>
         <% } %>
         <div class="mb3">
           <article>
@@ -27,7 +27,7 @@
       </div>
 
       <div class="col-xs-12 col-sm-6 pl2 pr1">
-        <h1 class="uppercase mb2"><a id="cikkek"></a>Korábbi cikkek</h1>
+        <h1 class="uppercase mb2">Korábbi cikkek</h1>
         <h2 class="big uppercase gray mb2">Zeneismeret | Zeneiség</h2>
         <div class="mb3">
           <% for (var i = 1; i < postsDataForIndexPage.length; i++) { %>
@@ -97,65 +97,65 @@
           <div class="col-xs-4 col-sm-3 align-center">
             <a href="<%= site.drkizomba %>">
               <figure>
-                <img class="profile-small align-center" src="/assets/images/drkizomba.jpg" alt="Dr. Kizomba (Manuel Dos Santos)"/>
+                <img id="drkizomba-img" class="profile-small align-center" src="/assets/images/drkizomba.jpg" alt="Dr. Kizomba (Manuel Dos Santos)"/>
               </figure>
-              <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Dr. Kizomba<br>(Manuel Dos Santos)</figcaption>
+              <figcaption id="drkizomba" class="lh13 ml0 mr0 medium bold-800 normal-font">Dr. Kizomba<br>(Manuel Dos Santos)</figcaption>
             </a>
           </div>
         
           <div class="col-xs-4 col-sm-3 align-center">
             <a href="<%= site.fabricio_josy %>">
               <figure>
-                <img class="profile-small align-center" src="/assets/images/fabriciojosy.jpg" alt="Fabricio & Josy"/>
+                <img id="fabricio-img" class="profile-small align-center" src="/assets/images/fabriciojosy.jpg" alt="Fabricio & Josy"/>
               </figure>
-              <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Fabricio & Josy</figcaption>
+              <figcaption id="fabricio" class="lh13 ml0 mr0 medium bold-800 normal-font">Fabricio & Josy</figcaption>
             </a>
           </div>
 
           <div class="col-xs-4 col-sm-3 align-center">
             <a href="<%= site.bonifacio_aurio %>">
               <figure>
-                <img class="profile-small align-center" src="/assets/images/bonifacio.jpg" alt="Bonifácio Aurio - Mr. Tuffas"/>
+                <img id="bonifacio-img" class="profile-small align-center" src="/assets/images/bonifacio.jpg" alt="Bonifácio Aurio - Mr. Tuffas"/>
               </figure>
-              <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Bonifácio Aurio - Mr. Tuffas</figcaption>
+              <figcaption id="bonifacio" class="lh13 ml0 mr0 medium bold-800 normal-font">Bonifácio Aurio - Mr. Tuffas</figcaption>
             </a>
           </div>
         </div>
 
         <div class="row mb3">
-            <div class="col-xs-4 col-sm-3 align-center">
-                <a href="<%= site.eddy_vents %>">
-                  <figure>
-                    <img class="profile-small align-center" src="/assets/images/eddyvents.jpg" alt="Eddy Vents"/>
-                  </figure>
-                  <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Eddy Vents</figcaption>
-                </a>
-              </div>
+          <div class="col-xs-4 col-sm-3 align-center">
+            <a href="<%= site.eddy_vents %>">
+              <figure>
+                <img id="vents-img" class="profile-small align-center" src="/assets/images/eddyvents.jpg" alt="Eddy Vents"/>
+              </figure>
+              <figcaption id="vents" class="lh13 ml0 mr0 medium bold-800 normal-font">Eddy Vents</figcaption>
+            </a>
+          </div>
 
           <div class="col-xs-4 col-sm-3 align-center">
             <a href="<%= site.dasmara_iolanda %>">
               <figure>
-                <img class="profile-small align-center" src="/assets/images/dasmara_jolanda.jpg" alt="Dasmara & Iolanda"/>
+                <img id="dasmara-img" class="profile-small align-center" src="/assets/images/dasmara_jolanda.jpg" alt="Dasmara & Iolanda"/>
               </figure>
-              <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Dasmara & Iolanda</figcaption>
+              <figcaption id="dasmara" class="lh13 ml0 mr0 medium bold-800 normal-font">Dasmara & Iolanda</figcaption>
             </a>
           </div>
           
             <div class="col-xs-4 col-sm-3 align-center">
               <a href="<%= site.liliana_acacio %>">
                 <figure>
-                  <img class="profile-small align-center" src="/assets/images/liliana_acacio.jpg" alt="Liliana & Acácio"/>
+                  <img id="liliana-img" class="profile-small align-center" src="/assets/images/liliana_acacio.jpg" alt="Liliana & Acácio"/>
                 </figure>
-                <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Liliana & Acácio</figcaption>
+                <figcaption id="liliana" class="lh13 ml0 mr0 medium bold-800 normal-font">Liliana & Acácio</figcaption>
               </a>
             </div>
   
             <div class="col-xs-4 col-sm-3 align-center">
               <a href="<%= site.onclekani_blackcherry %>">
                 <figure>
-                  <img class="profile-small align-center" src="/assets/images/onclekani_blackcherry.jpg" alt="Oncle Kani & Blackcherry"/>
+                  <img id="kani-img" class="profile-small align-center" src="/assets/images/onclekani_blackcherry.jpg" alt="Oncle Kani & Blackcherry"/>
                 </figure>
-                <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Oncle Kani & Blackcherry</figcaption>
+                <figcaption id="kani" class="lh13 ml0 mr0 medium bold-800 normal-font">Oncle Kani & Blackcherry</figcaption>
               </a>
             </div>
           </div>
@@ -167,18 +167,18 @@
           <div class="col-xs-4 col-sm-3 align-center">
             <a href="<%= site.bkc %>">
               <figure>
-                <img class="profile-small align-center" src="/assets/images/bkc.jpg" alt="Budapest Kizomba Connection (BKC)"/>
+                <img id="bkc-img" class="profile-small align-center" src="/assets/images/bkc.jpg" alt="Budapest Kizomba Connection (BKC)"/>
               </figure>
-              <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Budapest Kizomba Connection (BKC)</figcaption>
+              <figcaption id="bkc" class="lh13 ml0 mr0 medium bold-800 normal-font">Budapest Kizomba Connection (BKC)</figcaption>
             </a>
           </div>
           
           <div class="col-xs-4 col-sm-3 align-center">
             <a href="<%= site.mekuia %>">
               <figure>
-                <img class="profile-small align-center" src="/assets/images/mekuia.png" alt="Mekuia Kizomba Festival (Pozsony)"/>
+                <img id="mekuia-img" class="profile-small align-center" src="/assets/images/mekuia.png" alt="Mekuia Kizomba Festival (Pozsony)"/>
               </figure>
-              <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Mekuia Kizomba Festival (Pozsony)</figcaption>
+              <figcaption id="mekuia" class="lh13 ml0 mr0 medium bold-800 normal-font">Mekuia Kizomba Festival (Pozsony)</figcaption>
             </a>
           </div>
         </div>
@@ -189,27 +189,27 @@
           <div class="col-xs-4 col-sm-3 align-center">
             <a href="<%= site.drkizomba_classes %>">
               <figure>
-                <img class="profile-small align-center" src="/assets/images/drkizomba.jpg" alt="Dr. Kizomba órák online"/>
+                <img id="drkizclass-img" class="profile-small align-center" src="/assets/images/drkizomba.jpg" alt="Dr. Kizomba órák online"/>
               </figure>
-              <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Dr. Kizomba órák online</figcaption>
+              <figcaption id="drkizclass" class="lh13 ml0 mr0 medium bold-800 normal-font">Dr. Kizomba órák online</figcaption>
             </a>
           </div>
             
           <div class="col-xs-4 col-sm-3 align-center">
             <a href="<%= site.drkizomba_classes %>">
               <figure>
-                <img class="profile-small align-center" src="/assets/images/drkizomba.jpg" alt="Dr. Kizomba - 100 kizomba lépés"/>
+                <img id="drkiz100-img" class="profile-small align-center" src="/assets/images/drkizomba.jpg" alt="Dr. Kizomba - 100 kizomba lépés"/>
               </figure>
-              <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Dr. Kizomba - 100 kizomba lépés</figcaption>
+              <figcaption id="drkiz100" class="lh13 ml0 mr0 medium bold-800 normal-font">Dr. Kizomba - 100 kizomba lépés</figcaption>
             </a>
           </div>
     
           <div class="col-xs-4 col-sm-3 align-center">
             <a href="<%= site.malembe %>">
               <figure>
-                <img class="profile-small align-center" src="/assets/images/malembe.jpg" alt="Malembe Afro Dance Hungary"/>
+                <img id="malembe-img" class="profile-small align-center" src="/assets/images/malembe.jpg" alt="Malembe Afro Dance Hungary"/>
               </figure>
-              <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">Malembe Afro Dance Hungary</figcaption>
+              <figcaption id="malembe" class="lh13 ml0 mr0 medium bold-800 normal-font">Malembe Afro Dance Hungary</figcaption>
             </a>
           </div>
         </div>
@@ -221,9 +221,9 @@
           <div class="col-xs-4 col-sm-3 align-center">
             <a href="<%= site.university_of_kizomba %>">
               <figure>
-                <img class="profile-small align-center" src="/assets/images/university_of_kizomba.jpg" alt="University of Kizomba (Angola)"/>
+                <img id="unikiz-img" class="profile-small align-center" src="/assets/images/university_of_kizomba.jpg" alt="University of Kizomba (Angola)"/>
               </figure>
-              <figcaption class="lh13 ml0 mr0 medium bold-800 normal-font">University of Kizomba (Angola)</figcaption>
+              <figcaption id="unikiz" class="lh13 ml0 mr0 medium bold-800 normal-font">University of Kizomba (Angola)</figcaption>
             </a>
           </div>
         </div>
@@ -241,7 +241,7 @@
           <div class="form-group mb1">
             <label for="inputEmail" class="dark-gray medium">Az e-mail címed</label>
             <br>
-            <input type="email" name="name" id="inputEmail" class="border-round input-lg medium" required="required" />
+            <input type="email" name="name" id="inputEmail" class="border-round input-lg medium expanded" required="required" />
           </div>
 
           <div class="form-group">

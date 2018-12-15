@@ -28,7 +28,7 @@ Nem értik azok, akik hozzáadják a saját táncukat, hogy milyen önző ez? Va
 
 **A kizomba nem csak egy tánc, hanem valami sokkal erőteljesebb. A kizomba nem csak az érintkezésről szól, hanem a szüleiddel, a családoddal, a barátokkal való kötelékekről vagy egy másik emberi lénnyel való új kötelék létesítéséről.**
 
-![Egy férfi a lányával táncol a homokos tengerparton](/assets/images/articles/a_kizomba_sokkal_tobb_egy_tancnal.jpg)
+![Egy férfi a lányával táncol a homokos tengerparton](/assets/images/articles/a_kizomba_sokkal_tobb_egy_tancnal_full.jpg)
 
 
 ## Felhasznált forrás

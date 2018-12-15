@@ -349,12 +349,20 @@
     padding-right: 0.5rem
 }
 
+.prquarter {
+    padding-right: 0.25rem
+}
+
 .pbhalf {
     padding-bottom: 0.5rem
 }
 
 .plhalf {
     padding-left: 0.5rem
+}
+
+.plquarter {
+    padding-left: 0.25rem
 }
 
 
@@ -901,7 +909,8 @@ html {
 }
 
 hr {
-    border-color: #ccc;
+    border-style: dotted;
+    border-color: rgb(215,215,215);
     margin: 0.5rem 0;
 }
 
@@ -1069,13 +1078,13 @@ input {
     min-width: 100%;
 }
 
-input[type=text] {
+input {
     background-color: #f9f9f9;
     font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
     font-size: 1rem;
 }
 
-input[type=text]:focus, textarea:focus {
+input[type=text]:focus, input[type="email"]:focus, textarea:focus {
     background-color: #faffbd
 }
 
@@ -1150,6 +1159,11 @@ textarea {
 .grayscale {
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
+}
+
+.no-grayscale {
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
 }
 
 .modul {

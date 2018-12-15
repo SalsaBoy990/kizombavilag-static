@@ -17,7 +17,7 @@ Nem várható el attól, aki még sohasem járt Angolában – vagy nem tud semm
 
 Diana hercegnő legelhíresültebb képeinek egyike, amikor egy 13 éves angolai lány, Lizete, mellett ül, aki egy taposóakna miatt veszítette el a bal lábát, amikor a boltba igyekezett az édesanyjával az akkori háború sújtotta tartományban, a dél-angolai Huambo-ban. Amikor Lady Di 1997-ben Angolába látogatott, Lizete már 3 éve várt egy művégtagra.
 
-![Diana hercegnő és Lizete.](/assets/images/articles/lady_diana_es_lizete.jpg)
+![Diana hercegnő és Lizete.](/assets/images/articles/lady_diana_es_lizete_full.jpg)
 
 Addig a bizonyos pontig számítva, Angola gyakorlatilag ismeretlen volt az átlag nyugati ember számára; érhető módon, mivel a háború, az éhínség és halál egyedüli képeit párosították az országgal az 1970-es évek közepe óta.
 
