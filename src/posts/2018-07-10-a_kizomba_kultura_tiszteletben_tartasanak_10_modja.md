@@ -57,7 +57,7 @@ Bizonyos kizomba eseményeken tett megfigyeléseink szerint a listát tovább b�
 
 ## Mindegyikünknek van hatása
 
-**Számunkra a kizomba nem csak egy platform arra, hogy összegyűljünk a barátokkal és előrukkoljunk az új cipőnkkel/külső megjelenésünkkel, hanem mindezeken felül a társadalmi gyűlések egyik mozgatórugója, egy ürügy arra, hogy együnk és igyunk, s csupán néhány órára is, de megfeledkezzünk az életünk nehézségeiről és hányattatásairól. Ezért minden egyes alkalommal, amikor a táncparkettre lépsz, ragadd meg a tánc lényegét; neked megadatott a lehetőség, hogy tanúja légy és megbecsülj egy mély történelmet!**
+> Számunkra a kizomba nem csak egy platform arra, hogy összegyűljünk a barátokkal és előrukkoljunk az új cipőnkkel/külső megjelenésünkkel, hanem mindezeken felül a társadalmi gyűlések egyik mozgatórugója, egy ürügy arra, hogy együnk és igyunk, s csupán néhány órára is, de megfeledkezzünk az életünk nehézségeiről és hányattatásairól. Ezért minden egyes alkalommal, amikor a táncparkettre lépsz, ragadd meg a tánc lényegét; neked megadatott a lehetőség, hogy tanúja légy és megbecsülj egy mély történelmet!
 
 Azt szokták mondani, hogy ha az élet citrommal kínál, csinálj limonádét! Nos, kezdj el a kizombára mint a limonádéban található barnacukorra tekinteni, és az élmény teljesen más lesz. Sokkal jobb!
 

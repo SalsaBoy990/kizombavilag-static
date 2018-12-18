@@ -486,7 +486,7 @@ ul {
 blockquote {
     background: #eee;
     font-style: italic;
-    font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #222;
     font-size: 1rem;
     margin: 2rem 1rem;
@@ -901,7 +901,7 @@ tr:nth-child(even) {
 
 body,
 html {
-    font-size: 20px;
+    font-size: 22px;
     font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
     line-height: 1.7;
     margin: 0;
@@ -924,7 +924,7 @@ header a:focus {
 
 a {
     text-decoration: none;
-    color: #bb361f;
+    color: #cb2020;
     transition: color 0.3s ease-in
 }
 a:focus, a:hover {
@@ -951,12 +951,12 @@ a:visited {
 
 ::-moz-selection {
     color: #fff;
-    background: #D9534F
+    background: #cb2020
 }
   
 ::selection {
     color: #fff;
-    background: #D9534F
+    background: #cb2020
 }
 
 
@@ -1223,10 +1223,10 @@ textarea {
 
  .custom-form .ws-invalid label,
  .custom-form .ws-invalid h3 {
-    color: #bb361f;
+    color: #cb2020;
 }
 .custom-form .ws-invalid input {
-    border-color: #bb361f;
+    border-color: #cb2020;
 }
 .custom-form .ws-success input {
     border-color: rgb(82, 184, 34);
@@ -1234,6 +1234,6 @@ textarea {
 
 .ws-errorbox {
     font-family: 'Alegreya Sans', Arial, Helvetica, sans-serif;
-    color: #bb361f;
+    color: #cb2020;
 }
 
