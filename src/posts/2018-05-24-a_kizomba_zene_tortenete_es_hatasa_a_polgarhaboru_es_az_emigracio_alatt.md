@@ -39,7 +39,7 @@ A házibulikban az angolaiak a családtagjaikkal is táncolni szoktak: a fiúk a
 
 ## Cesaria Evora & Bonga - Sodade
 
-@[youtube](d5tZBNPLE10)
+@[youtube](kJZo5StMawc)
 
 
 Luzofón = portugál nyelvű
