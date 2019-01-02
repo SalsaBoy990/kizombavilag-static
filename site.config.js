@@ -25,6 +25,7 @@ module.exports = {
     university_of_kizomba: 'https://www.facebook.com/University.of.Kizomba/',
     currentYear: new Date().getFullYear(),
     google_analytics: 'UA-111942600-1',
-    facebook_app_id: '750411971984801'
+    facebook_app_id: '750411971984801',
+    snow_effect: false
   }
 }
