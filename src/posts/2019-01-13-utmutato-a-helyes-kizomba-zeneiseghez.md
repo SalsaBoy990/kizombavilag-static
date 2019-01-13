@@ -33,7 +33,7 @@ Mind a dominikai bachata, mind a kubai salsa, mind pedig a kizomba és a semba e
 
 A fentiek főként a kizomba és a semba számokhoz való tanácsok. A ghetto zouk esetén az angolaiak a lassú, „álló” részeken tarraxinha üzemmódban táncolnak, míg amikor „elindul” a zene, kizomba módba váltanak vissza.
 
-A zeneiség gyakorlására két különleges számot ajánlok. Az egyik egy kizomba, a másik pedig egy coladeira-ghetto zouk keverék szám. Szintén nézzétek meg [Eddy Vents]() mester új tutoriál videóját.
+A zeneiség gyakorlására két különleges számot ajánlok. Az egyik egy kizomba, a másik pedig egy coladeira-ghetto zouk keverék szám. Szintén nézzétek meg [Eddy Vents](https://www.facebook.com/eddy.vents/) mester új tutoriál videóját.
 
 ## Jack Lefel - Ar Que Respiro (kizomba) 
 @[youtube](VIGUYRRHBxA)
@@ -41,4 +41,6 @@ A zeneiség gyakorlására két különleges számot ajánlok. Az egyik egy kizo
 ## Elji Beatzkilla - Nha Bubista (coladeira-ghettozouk)
 @[youtube](USOWVQTer1M)
 
+## Eddy Vents - Kizomba alapok alkalmazása zenére
+@[youtube](9I9sv1yAHTc)
 
