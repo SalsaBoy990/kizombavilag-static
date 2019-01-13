@@ -1,6 +1,6 @@
 $(document).ready(function () {
   function popUpEnglishVersion () {
-    alert('Thank you for interesting in the English version of this article. Unfortunately, this feature is not yet ready.')
+    alert('Thank you for your interest in the English version of this article. Unfortunately, this feature is not yet ready.')
   }
 
   $('#english-version').click(function () {

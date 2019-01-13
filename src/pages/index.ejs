@@ -1,262 +1,154 @@
-
-<div width="100%">
-  <div class="container-fluid m0">
+<div style="width: 100%" class="mb4">
+  <div class="container-fluid pl2 pr2 m0">
     <div class="row">
-      <div class="col-xs-12 col-sm-10 pl2 pr1">
-        <h1 class="uppercase mb2"><a id="cikkek"></a>Aktuális</h1>
-        <% if (postsDataForIndexPage[0].topic === 'zene') { %>
-        <h2 class="big uppercase gray mb2">Zeneismeret | Zeneiség</h2>
-        <% } else if (postsDataForIndexPage[0].topic === 'tánc') { %>
-        <h2 class="big uppercase gray mb2">Táncismeret | Táncosok</h2>
-        <% } else if (postsDataForIndexPage[0].topic === 'kultúra') { %>
-        <h2 class="big uppercase gray mb2">Kultúra | Történelem</h2>
-        <% } else { %>
-        <h2 class="big uppercase gray mb1">Évzáró</h2>
-        <% } %>
-        <div class="mb3">
-          <article>
-            <div class="prhalf mr1 mb2">
-              <a href="<%= postsDataForIndexPage[0].pathToPost %>" class="no-underline visited-link ">
-                <img class="darken m0 border-shadow" src="/assets/images/articles/<%= postsDataForIndexPage[0].coverImage %>" alt="<%= postsDataForIndexPage[0].title %>">
-                <h2 class="big no-underline expanded black-900 m0 pthalf"><%= postsDataForIndexPage[0].title %></h2>
-              </a> 
-              <p class="smallest bold-500 gray italic mb1 sans"><%= postsDataForIndexPage[0].author %> | <%= postsDataForIndexPage[0].dateFormatted %></p>
-            </div>
-          </article>
-        </div>
+      <div class="col-xs-12">
+        <h1 class="large uppercase mb1">Aktuális</h1>
       </div>
-
-      <div class="col-xs-12 col-sm-6 pl2 pr1">
-        <h1 class="uppercase mb2">Korábbi cikkek</h1>
-        <h2 class="big uppercase gray mb2">Zeneismeret | Zeneiség</h2>
-        <div class="mb3">
-          <% for (var i = 1; i < postsDataForIndexPage.length; i++) { %>
-          <% if (postsDataForIndexPage[i].topic === 'zene') { %>
-          <article>
-            <div class="prhalf mr1 mb2">
-              <a href="<%= postsDataForIndexPage[i].pathToPost %>" class="no-underline visited-link ">
-                <img class="darken m0 border-shadow" src="/assets/images/articles/<%= postsDataForIndexPage[i].coverImage %>" alt="<%= postsDataForIndexPage[i].title %>">
-                <h2 class="big no-underline expanded black-900 m0 pthalf"><%= postsDataForIndexPage[i].title %></h2>
-              </a> 
-              <p class="smallest bold-500 gray italic mb1 sans"><%= postsDataForIndexPage[i].author %> | <%= postsDataForIndexPage[i].dateFormatted %></p>
-            </div>
-          </article>
-          <% } %>
-          <% } %>
-        </div>
-      </div>
-
-      <div class="col-xs-12 col-sm-6 pl2 pr1">
-        <h2 class="whitespace big uppercase gray mb2">Táncismeret | Táncosok</h2>
-        <div class="mb3">
-        <% for (var i = 1; i < postsDataForIndexPage.length; i++) { %>
-        <% if (postsDataForIndexPage[i].topic === 'tánc') { %>
-          <article>
-            <div class="prhalf mr1 mb2">
-              <a href="<%= postsDataForIndexPage[i].pathToPost %>" class="no-underline">
-                <img class="darken m0 border-shadow" src="/assets/images/articles/<%= postsDataForIndexPage[i].coverImage %>" alt="<%= postsDataForIndexPage[i].title %>">
-                <h2 class="big no-underline expanded black-900 m0 pthalf"><%= postsDataForIndexPage[i].title %></h2>
-              </a> 
-              <p class="smallest bold-500 gray italic mb1 sans"><%= postsDataForIndexPage[i].author %> | <%= postsDataForIndexPage[i].dateFormatted %></p>
-            </div>
-          </article>
-        <% } %>
-        <% } %>
-        </div>
-      </div>
-    
     </div>
-
     <div class="row">
-      <div class="col-xs-12 col-sm-6 pl2 pr1">
-        <h2 class="big uppercase gray mb2">Kultúra | Történelem</h2>
-        <div class="mb3">
-          <% for (var i = 1; i < postsDataForIndexPage.length; i++) { %>
-          <% if (postsDataForIndexPage[i].topic === 'kultúra') { %>
-          <article>
-            <div class="prhalf mr1 mb2">
-              <a href="<%= postsDataForIndexPage[i].pathToPost %>" class="no-underline visited-link">
-                <img class="darken m0 border-shadow" src="/assets/images/articles/<%= postsDataForIndexPage[i].coverImage %>" alt="<%= postsDataForIndexPage[i].title %>">
-                <h2 class="big no-underline expanded black-900 m0 pthalf"><%= postsDataForIndexPage[i].title %></h2>
-              </a> 
-              <p class="smallest bold-500 gray italic mb1 sans"><%= postsDataForIndexPage[i].author %> | <%= postsDataForIndexPage[i].dateFormatted %></p>
+      <div id="main-article-mobile"  class="col-xs-12 col-sm-7 col-lg-5">
+        <article>
+          <a href="<%= postsDataForIndexPage[0].pathToPost %>" class="white-link">
+            <div class="bg-article-1 p1 border-full-white">
+              <h2 class="large black expanded black-900 m0 pt0"><span class="bg-white"><%= postsDataForIndexPage[0].title %></span></h2>
             </div>
-          </article>
-          <% } %>
-          <% } %>
-        </div>
+          </a> 
+        </article>
       </div>
-    </div>
-
-    <div class="row"> 
-      <div class="col-xs-12 pl2 pr1 mt3">
-        <h1 class="uppercase mb2"><a id="linkek"></a>Hasznos linkek</h4>
-        <h2 class="big uppercase gray mb1">Kizomba és semba instruktorok</h2>
-
-        <div class="row">
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.drkizomba %>">
-              <figure>
-                <img id="drkizomba-img" class="profile-small align-center" src="/assets/images/drkizomba.jpg" alt="Dr. Kizomba (Manuel Dos Santos)"/>
-              </figure>
-              <figcaption id="drkizomba" class="lh13 ml0 mr0 medium bold-800 normal-font">Dr. Kizomba<br>(Manuel Dos Santos)</figcaption>
-            </a>
-          </div>
-        
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.fabricio_josy %>">
-              <figure>
-                <img id="fabricio-img" class="profile-small align-center" src="/assets/images/fabriciojosy.jpg" alt="Fabricio & Josy"/>
-              </figure>
-              <figcaption id="fabricio" class="lh13 ml0 mr0 medium bold-800 normal-font">Fabricio & Josy</figcaption>
-            </a>
-          </div>
-
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.bonifacio_aurio %>">
-              <figure>
-                <img id="bonifacio-img" class="profile-small align-center" src="/assets/images/bonifacio.jpg" alt="Bonifácio Aurio - Mr. Tuffas"/>
-              </figure>
-              <figcaption id="bonifacio" class="lh13 ml0 mr0 medium bold-800 normal-font">Bonifácio Aurio - Mr. Tuffas</figcaption>
-            </a>
-          </div>
-        </div>
-
-        <div class="row mb3">
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.eddy_vents %>">
-              <figure>
-                <img id="vents-img" class="profile-small align-center" src="/assets/images/eddyvents.jpg" alt="Eddy Vents"/>
-              </figure>
-              <figcaption id="vents" class="lh13 ml0 mr0 medium bold-800 normal-font">Eddy Vents</figcaption>
-            </a>
-          </div>
-
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.dasmara_iolanda %>">
-              <figure>
-                <img id="dasmara-img" class="profile-small align-center" src="/assets/images/dasmara_jolanda.jpg" alt="Dasmara & Iolanda"/>
-              </figure>
-              <figcaption id="dasmara" class="lh13 ml0 mr0 medium bold-800 normal-font">Dasmara & Iolanda</figcaption>
-            </a>
-          </div>
-          
-            <div class="col-xs-4 col-sm-3 align-center">
-              <a href="<%= site.liliana_acacio %>">
-                <figure>
-                  <img id="liliana-img" class="profile-small align-center" src="/assets/images/liliana_acacio.jpg" alt="Liliana & Acácio"/>
-                </figure>
-                <figcaption id="liliana" class="lh13 ml0 mr0 medium bold-800 normal-font">Liliana & Acácio</figcaption>
+      <div class="col-xs-12 col-sm-5 col-lg-3">
+        <div class="row p0">
+          <div class="col-xs-12">
+            <article>
+              <a href="<%= postsDataForIndexPage[1].pathToPost %>" class="white-link">
+                <div class="bg-article-2 p1 border-full-white">
+                  <h2 class="mobile-title big black expanded black-900 m0 pt0"><span class="bg-white"><%= postsDataForIndexPage[1].title %></span></h2>
+                </div>
               </a>
-            </div>
-  
-            <div class="col-xs-4 col-sm-3 align-center">
-              <a href="<%= site.onclekani_blackcherry %>">
-                <figure>
-                  <img id="kani-img" class="profile-small align-center" src="/assets/images/onclekani_blackcherry.jpg" alt="Oncle Kani & Blackcherry"/>
-                </figure>
-                <figcaption id="kani" class="lh13 ml0 mr0 medium bold-800 normal-font">Oncle Kani & Blackcherry</figcaption>
+            </article>
+          </div>
+        </div>
+        <div class="row p0">
+          <div class="col-xs-12">
+            <article>
+              <a href="<%= postsDataForIndexPage[2].pathToPost %>" class="white-link">
+                <div class="bg-article-3 p1 border-full-white">
+                  <h2 class="mobile-title big black expanded black-900 m0 pt0"><span class="bg-white"><%= postsDataForIndexPage[2].title %></span></h2>
+                </div>
               </a>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>    
+  </div>
+</div>
+<div style="width: 100%" class="mb0">
+  <div class="container-fluid pl2 pr2 m0">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="large uppercase mb1">KATEGÓRIÁK SZERINT</h1>
+        <ul id="myArticles" class="nav nav-tabs">
+          <li class="active"><a class="small bigger-on-mobile" href="#zene" data-toggle="tab">Zene</a></li>
+          <li class=""><a class="small bigger-on-mobile" href="#tanc" data-toggle="tab">Tánc</a></li>
+          <li class=""><a class="small bigger-on-mobile" href="#kultura" data-toggle="tab">Kultúra</a></li>
+        </ul>
+        <div class="tab-content">
+          <div class="tab-pane fade in active" id="zene">
+            <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+            <% if (postsDataForIndexPage[i].topic === 'zene') { %>
+            <div class="col-xs-12 col-sm-5 col-lg-3">
+              <article class="mt2">
+                <div class="mb2">
+                  <a href="<%= postsDataForIndexPage[i].pathToPost %>">
+                    <img class="darken m0 border-shadow" src="/assets/images/articles/<%= postsDataForIndexPage[i].coverImage %>" alt="<%= postsDataForIndexPage[i].title %>">
+                    <h2 class="big expanded black-900 m0 pthalf"><%= postsDataForIndexPage[i].title %></h2>
+                  </a> 
+                  <p class="smallest bold-500 gray italic mb1"><%= postsDataForIndexPage[i].author %> | <%= postsDataForIndexPage[i].dateFormatted %></p>
+                </div>
+              </article>
             </div>
+            <% } %>
+            <% } %>
           </div>
-        
-
-        <h2 class="big uppercase gray mb1">Kizomba és semba fesztiválok a közelben</h2>
-
-        <div class="row mb3">
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.bkc %>">
-              <figure>
-                <img id="bkc-img" class="profile-small align-center" src="/assets/images/bkc.jpg" alt="Budapest Kizomba Connection (BKC)"/>
-              </figure>
-              <figcaption id="bkc" class="lh13 ml0 mr0 medium bold-800 normal-font">Budapest Kizomba Connection (BKC)</figcaption>
-            </a>
+          <div class="tab-pane fade in" id="tanc">
+            <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+            <% if (postsDataForIndexPage[i].topic === 'tánc') { %>
+            <div class="col-xs-12 col-sm-5 col-lg-3">
+              <article class="mt2">
+                <div class="mb2">
+                  <a href="<%= postsDataForIndexPage[i].pathToPost %>">
+                    <img class="darken m0 border-shadow" src="/assets/images/articles/<%= postsDataForIndexPage[i].coverImage %>" alt="<%= postsDataForIndexPage[i].title %>">
+                    <h2 class="big expanded black-900 m0 pthalf"><%= postsDataForIndexPage[i].title %></h2>
+                  </a> 
+                  <p class="smallest bold-500 gray italic mb1"><%= postsDataForIndexPage[i].author %> | <%= postsDataForIndexPage[i].dateFormatted %></p>
+                </div>
+              </article>
+            </div>
+            <% } %>
+            <% } %>
           </div>
-          
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.mekuia %>">
-              <figure>
-                <img id="mekuia-img" class="profile-small align-center" src="/assets/images/mekuia.png" alt="Mekuia Kizomba Festival (Pozsony)"/>
-              </figure>
-              <figcaption id="mekuia" class="lh13 ml0 mr0 medium bold-800 normal-font">Mekuia Kizomba Festival (Pozsony)</figcaption>
-            </a>
-          </div>
-        </div>
-
-        <h2 class="big uppercase gray mb1">Kizomba, afrohouse, kuduro, afrobeat táncoktatás</h2>
-
-        <div class="row mb2">
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.drkizomba_classes %>">
-              <figure>
-                <img id="drkizclass-img" class="profile-small align-center" src="/assets/images/drkizomba.jpg" alt="Dr. Kizomba órák online"/>
-              </figure>
-              <figcaption id="drkizclass" class="lh13 ml0 mr0 medium bold-800 normal-font">Dr. Kizomba órák online</figcaption>
-            </a>
-          </div>
-            
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.drkizomba_classes %>">
-              <figure>
-                <img id="drkiz100-img" class="profile-small align-center" src="/assets/images/drkizomba.jpg" alt="Dr. Kizomba - 100 kizomba lépés"/>
-              </figure>
-              <figcaption id="drkiz100" class="lh13 ml0 mr0 medium bold-800 normal-font">Dr. Kizomba - 100 kizomba lépés</figcaption>
-            </a>
-          </div>
-    
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.malembe %>">
-              <figure>
-                <img id="malembe-img" class="profile-small align-center" src="/assets/images/malembe.jpg" alt="Malembe Afro Dance Hungary"/>
-              </figure>
-              <figcaption id="malembe" class="lh13 ml0 mr0 medium bold-800 normal-font">Malembe Afro Dance Hungary</figcaption>
-            </a>
-          </div>
-        </div>
-
-
-        <h2 class="big uppercase gray mb1">Ismeretterjesztő oldal</h2>
-
-        <div class="row">
-          <div class="col-xs-4 col-sm-3 align-center">
-            <a href="<%= site.university_of_kizomba %>">
-              <figure>
-                <img id="unikiz-img" class="profile-small align-center" src="/assets/images/university_of_kizomba.jpg" alt="University of Kizomba (Angola)"/>
-              </figure>
-              <figcaption id="unikiz" class="lh13 ml0 mr0 medium bold-800 normal-font">University of Kizomba (Angola)</figcaption>
-            </a>
+          <div class="tab-pane fade in" id="kultura">
+            <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+            <% if (postsDataForIndexPage[i].topic === 'kultúra') { %>
+            <div class="col-xs-12 col-sm-5 col-lg-3">
+              <article class="mt2">
+                <div class="mb2">
+                  <a href="<%= postsDataForIndexPage[i].pathToPost %>">
+                    <img class="darken m0 border-shadow" src="/assets/images/articles/<%= postsDataForIndexPage[i].coverImage %>" alt="<%= postsDataForIndexPage[i].title %>">
+                    <h2 class="big expanded black-900 m0 pthalf"><%= postsDataForIndexPage[i].title %></h2>
+                  </a> 
+                  <p class="smallest bold-500 gray italic mb1"><%= postsDataForIndexPage[i].author %> | <%= postsDataForIndexPage[i].dateFormatted %></p>
+                </div>
+              </article>
+            </div>
+            <% } %>
+            <% } %>
           </div>
         </div>
       </div>
     </div>
-
-    <div class="row"> 
-      <div class="col-xs-12 col-sm-6 pl2 mt3">
-        <h1 class="uppercase mb2"><a id="kapcsolat"></a>Kapcsolat</h4>
-        <form name="contact" class="sans custom-form ws-validate" method="POST" action="/uzenet-elkuldve.html" netlify-honeypot="bot-field" netlify>
-          <p class="hidden">
-            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-          </p>
-
-          <div class="form-group mb1">
-            <label for="inputEmail" class="dark-gray medium">Az e-mail címed</label>
-            <br>
-            <input type="email" name="name" id="inputEmail" class="border-round input-lg medium expanded" required="required" />
-          </div>
-
-          <div class="form-group">
-            <label for="message" class="dark-gray medium">Az üzeneted</label>
-            <br>
-            <textarea name="message" id="message" required="required"></textarea>
-          </div>
-
-          <div class="text-right">
-            <button title="Tipikus válaszidő: egy-két napon belül" type="submit" class="btn btn-primary btn-large uppercase medium no-visited">Üzenet elküldése</button>
-          </div>
-        </form>
+  </div>
+</div>
+<div style="width: 100%" class="mt1 mb5">
+  <div class="container-fluid pl2 pr2 m0">
+    <div class="row">
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-lg-4 col-lg-offset-4">
+        <blockquote class="mb1 no-shadow rating">
+          <p class="normal-size plhalf">„Végre egy magyar kizomba oldal, ami hiteles információkat oszt meg, és alaposan utána is néz a dolgoknak... <img class="emoji" src="/assets/images/emoji/happy.png" alt=":)"> Bravo, így tovább!”</p>
+          <small class="align-right">Hamvas Nikolett, <cite class="source"><a href="https://www.facebook.com/BudapestKizombaConnection/">Budapest Kizomba Connection, BKC</a></cite></small>
+        </blockquote>
       </div>
     </div>
-
   </div>
 </div>
 
+<div class="bg-red mt2" style="width: 100%">
+  <div class="container-fluid pl2 pr2 pb3">
+    <div class="row"> 
+      <div class="col-xs-12 col-sm-5 col-lg-4">
+        <h2 class="mb2 black">Üzenj, ha kérdésed van!</h2>
+        <form name="contact" class="custom-form ws-validate" method="POST" action="/uzenet-elkuldve.html" netlify-honeypot="bot-field" netlify>
+          <p class="hidden">
+            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+          </p>
+          <div class="form-group mb1">
+            <label for="inputEmail" class="black sans">Az e-mail címed</label>
+            <br>
+            <input type="email" name="name" id="inputEmail" class="border-round input-lg medium expanded mobile-input" required="required" placeholder="pelda@gmail.com" />
+          </div>
+          <div class="form-group">
+            <label for="message" class="black sans">Az üzeneted</label>
+            <br>
+            <textarea class="mobile-input medium" name="message" id="message" required="required" placeholder="Ide írhatsz..."></textarea>
+          </div>
+          <div class="text-right">
+            <button title="Tipikus válaszidő: egy-két napon belül" type="submit" class="btn btn-primary btn-lg uppercase medium sans bold-700 expanded no-visited mobile-input">Üzenet elküldése</button>
+          </div>
+        </form>
+      </div>
+      <div class="col-xs-12 col-sm-offset-1 col-sm-6 col-lg-4 align-center mt2">
+        <div class="fb-page" data-href="https://www.facebook.com/kizombavilag/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/kizombavilag/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/kizombavilag/">Kizombavilág</a></blockquote></div>
+      </div>
+    </div>
+  </div>
+</div>

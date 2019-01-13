@@ -1,46 +1,34 @@
 <header>
-    <nav class="navbar navbar-inverse navbar-static-top bg-black border-none" role="navigation">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-              
-        <div class="inline">
-          <a href="\"><img class="logo unselectable ml2 mthalf mb0 pull-left" src="/assets/images/logo.gif"></a>
-          <a href="\" class="bold-800 medium-gray sans expanded navbar-brand navbar-brand-fix pl0"><%= site.title %></a>
+  <div class="mb3 bg-red" style="width: 100%">
+    <div class="container-fluid pl2 pr2 m0 pb3">
+      <div class="row mb1">
+        <div class="col-xs-12">
+          <a href="/" class="no-underline"><img class="pull-left logo" src="/assets/images/logo.png">
+            <h1 class="logo-text black">Kizombavilág</h1>
+          </a>
         </div>
       </div>
-        
-      <div class="navbar-collapse collapse">
-        <ul id="mobile-menu" class="nav navbar-nav pull-right mr2 sans bold-500">
-          <li><a href="\#cikkek" class="uppercase">Cikkek</a></li>
-          <li><a href="\#linkek" class="uppercase">Hasznos linkek</a></li>
-          <li><a href="\#kapcsolat" class="uppercase">Kapcsolat</a></li>
-        </ul>
+      <div class="row mb2">
+        <div class="col-xs-12 col-sm-10 col-md-9">
+          <h1 class="mt0 mb0 huge black-900 gold expanded-3 word-spacing lh11 tshadow-black unselectable"><%= site.quote %></h1>
+        </div>
       </div>
-    </nav>
-  </header>
-
-<div class="intro header-whitespace">
-  <div class="jumbotron">
-    <div class="container">
-      <h1 class="black-900 white expanded-3 word-spacing lh11 tshadow-black mb1 unselectable"><%= site.quote %></h1>
       <div class="row">
-        <div class="col-xs-12">
-          <div class="modul unselectable mb1 mthalf border-shadow">
-            <ul class="italic bold-500 mb0 mt0 medium sans pipa">
-              <li>Hiteles, angolai forrásból származó infók</li>
-              <li>Színvonalas cikkek a kizomba kultúráról</li>
-              <li>Autentikus táncosok inspiráló videói</li>
-              <li>Minőségi zenék, amiket Palop DJ-k játszanak</li>
+        <div class="col-xs-12 col-sm-6 col-lg-4">
+          <div class="unselectable mb2">
+            <ul class="bigger-on-mobile small black pl1 mb0 mt0 lh2 expanded pipa">
+              <li>Hiteles és angolai forrásokból</li>
+              <li>Színvonalas cikkek a kizombáról</li>
+              <li>Autentikus táncosok videói</li>
+              <li>Minőségi zenék Nyugat-Afrikából</li>
             </ul>
           </div>
-          <p><a title="Már több mint 400-an megtették" class="no-visited btn btn-primary btn-lg medium uppercase sans bold-700 expanded mb2" href="https://www.facebook.com/kizombavilag/" role="button">Kövess minket a Facebook-on!</a></p>
+          <a title="Facebook oldal" class="no-visited no-underline btn btn-primary btn-lg medium uppercase sans bold-700 expanded mb2" href="https://www.facebook.com/kizombavilag/" role="button">Tovább a Facebook oldalra</a>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-lg-4">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/PSq4z2d_au4?rel=0&controls=0&showinfo=0&loop=1&modestbranding=1&autohide=0&cc_load_policy=0&iv_load_policy=3&autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </div>
   </div>
-</div>
+</header>

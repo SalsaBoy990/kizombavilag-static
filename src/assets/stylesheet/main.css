@@ -6,6 +6,14 @@
         font-size: 14px !important
     }
 
+    .bigger-on-mobile {
+        font-size: 1.1rem !important;
+    }
+
+    .mobile-input {
+        font-size: 1.1rem !important;
+    }
+
     .profile-small {
         width: 60px !important;
     }
@@ -20,6 +28,22 @@
         font-size: 16px !important
     }
 
+    .mobile-input {
+        font-size: 1.1rem !important;
+    }
+
+    .mobile-title {
+        font-size: 1.7rem !important;
+    }
+
+    .bigger-on-mobile {
+        font-size: 1.1rem !important;
+    }
+
+    #main-article-mobile {
+        max-height: 180px !important;
+    }
+
     .profile-small {
         width: 70px;
     }
@@ -31,7 +55,7 @@
     }
 
     html, body {
-        font-size: 22px
+        font-size: 28px
     }
 }
 
@@ -216,6 +240,10 @@
 
 .mrhalf {
     margin-right: 0.5rem
+}
+
+.mrquarter {
+    margin-right: 0.25rem
 }
 
 .mbhalf {
@@ -425,7 +453,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    text-decoration: none;
+    text-decoration: underline;
     font-weight: 700
 }
 
@@ -486,7 +514,7 @@ ul {
 blockquote {
     background: #eee;
     font-style: italic;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
     color: #222;
     font-size: 1rem;
     margin: 2rem 1rem;
@@ -496,6 +524,21 @@ blockquote {
     box-shadow:         4px 4px 4px 0px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
     border: 1px solid #E1E3E4;
     border-radius: 3px;
+}
+
+.no-shadow {
+    -webkit-box-shadow: none;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    none;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         none;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+.rating {
+    color: #666;
+    border-left: 4px solid #ccc;
+    border-right: 0;
+    border-bottom: 0;
+    border-top: 0;
+    background: #fff;
 }
 
 form {
@@ -546,12 +589,20 @@ form {
     background-color: #000
 }
 
+.bg-red {
+    background-color: #C71321
+}
+
 .bg-gray {
     background-color: #eee
 }
 
 .white {
     color: #FFFFFF
+}
+
+.gold {
+    color: #f1ad00 /*#f5cf26 *//*#E1C5A3*/
 }
 
 .light-gray {
@@ -576,11 +627,11 @@ form {
 }
 
 .black {
-    color: #303030
+    color: #000
 }
 
 .red {
-    color: #880000;
+    color: #C71321;
 }
 
 .blue {
@@ -594,44 +645,6 @@ header a:hover {
 
 .header-whitespace {
     margin-bottom: 4rem;
-}
-
-.navbar-brand-fix,
-.navbar-nav-fix li a
-{
-  line-height:50px !important;
-  vertical-align:middle !important;
-  padding-top: 0.1rem !important;
-}
-
-.navbar-toggle .icon-bar {
-    background-color: #EFEFEF;
-}
-
-.navbar-inverse .navbar-brand {
-    color: #CCC;
-    text-decoration: none;
-}
-
-.navbar-inverse .navbar-nav > li > a {
-    color: #9d9d9d;
-    text-decoration: none;
-}
-.navbar-inverse .navbar-nav > li > a:hover {
-    color: #FFF;
-    text-decoration: underline;
-}
-
-.navbar-inverse .navbar-toggle {
-    border-color: #EFEFEF;
-}
-
-.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #D9534F;
-}
-
-.navbar {
-    margin-bottom: 0
 }
 
 .align-center {
@@ -744,7 +757,11 @@ header a:hover {
 }
 
 .large {
-    font-size: 1.4rem
+    font-size: 2rem
+}
+
+.huge {
+    font-size: 3rem;
 }
 
 .normal-size {
@@ -772,7 +789,7 @@ header a:hover {
 }
 
 table {
-    font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
     font-size: .75rem;
@@ -782,7 +799,7 @@ table {
 }
 
 figcaption {
-    font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
     margin-bottom: 1.5rem;
     font-size: .8rem;
     font-style: italic;
@@ -795,7 +812,7 @@ figcaption {
 }
 
 caption {
-    font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
     font-size: .8rem;
@@ -819,6 +836,11 @@ img {
 .medium-img {
     width: 50%;
 }
+
+.logo-img {
+    width: 20%;
+}
+
 
 .small-img {
     width: 30px;
@@ -874,7 +896,11 @@ tr:nth-child(even) {
 }
 
 .border-full-black {
-    border: 1px solid #6D7274
+    border: 1px solid #000
+}
+
+.border-full-white {
+    border: 1px solid #fff
 }
 
 .border-none {
@@ -901,7 +927,7 @@ tr:nth-child(even) {
 
 body,
 html {
-    font-size: 22px;
+    font-size: 24px;
     font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
     line-height: 1.7;
     margin: 0;
@@ -923,22 +949,31 @@ header a:focus {
 }
 
 a {
-    text-decoration: none;
-    color: #cb2020;
+    text-decoration: underline;
+    color: #C71321;
     transition: color 0.3s ease-in
 }
 a:focus, a:hover {
     color: #80312E;
+    text-decoration: none;
+}
+
+.white-link {
+    color: #000 !important;
     text-decoration: underline;
+}
+.white-link a:active, .white-link a:focus {
+    color: #ffe500 !important;
 }
 
 .no-visited:visited {
-    color: #fff
+    color: #000
 }
 
+/*
 a:visited {
     color: #80312E;
-}
+}*/
 
 .unselectable {
     user-drag: none; 
@@ -951,12 +986,12 @@ a:visited {
 
 ::-moz-selection {
     color: #fff;
-    background: #cb2020
+    background: #C71321
 }
   
 ::selection {
     color: #fff;
-    background: #cb2020
+    background: #C71321
 }
 
 
@@ -975,59 +1010,17 @@ article a:hover {
     .whitespace {
         margin-top: 2rem !important;
     }
-
-    .header-whitespace {
-        margin-bottom: 0rem;
-    }
-
-    #mobile-menu {
-        margin-left: 15px;
-        margin-right: 0;
-        float: none !important;
-        text-align: center
-    }
 }
 
 @media (min-width: 768px) {
     .title {
         font-size: 1.3rem;
     }
-    #article {
-        margin-top: 0px
-    }
 }
-
-#mobile-menu {
-    font-size: 0.8rem !important;
-}
-
 
 @media (max-width: 500px) {
-    #mobile-menu {
-        margin-left: 15px;
-        margin-right: 0;
-        float: none !important;
-        text-align: center
-    }
-
-    #mobile-menu {
-        font-size: 1rem !important;
-    }
-
-    .mobile-nav {
-        position: fixed;
-        right: 0;
-        left: 0;
-        bottom: 0;
-        z-index: 1030;
-    }
-
     .title {
         font-size: 1.2rem;
-    }
-    .article-height {
-        height: 180px;
-        max-height: 180px;
     }
 }
 
@@ -1038,34 +1031,52 @@ article a:hover {
 }
 
 .btn:hover, .btn:active, .btn:focus {
-    color: #FFF;
-    background: #365899;
+    color: #000;
+    background: #ffe500;
 }
 
 .btn:active, .btn:active {
-    background: #365899;
+    background: #ffe500;
     box-shadow: none;
 }
 
 .btn {
-    -webkit-box-shadow: 0px 1px 2px 2px #aaa;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
-    -moz-box-shadow:    0px 1px 2px 2px #aaa;  /* Firefox 3.5 - 3.6 */
-    box-shadow:         0px 1px 1px 1px #aaa;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
-    border: 0px solid #ccc;
-    color: #333;
+    -webkit-box-shadow: 2px 2px 4px 0px #333;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    2px 2px 4px 0px #333;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         2px 2px 4px 0px #333;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    border: 0px solid #333;
+    color: #000;
 }
 
 .btn-primary {
-    color: #FFF;
-    background: #4267b2;
+    color: #000;
+    background: #f1ad00;
 }
 
 .logo {
-    width: 34px;
-    height: 34px;
-    border-radius: 2px;
-    box-shadow: 1px 1px 1px 0 #333;
-    border-radius: 2px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0.25rem;
+    width: 75px;
+    height: 75px;
+}
+
+.logo-small {
+    width: 36px;
+    height: 36px;
+}
+
+.logo-text {
+    line-height: 75px;
+    font-size: 1.33333rem;
+    color: #000;
+}
+
+.logo-text-small {
+    padding-left: 0.25rem;
+    line-height: 36px;
+    font-size: 1rem;
+    color: #333;
 }
 
 .container {
@@ -1082,6 +1093,7 @@ input {
     background-color: #f9f9f9;
     font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
     font-size: 1rem;
+    color: #000
 }
 
 input[type=text]:focus, input[type="email"]:focus, textarea:focus {
@@ -1099,6 +1111,7 @@ textarea {
     border-bottom-color: #ddd;
     border-radius: 5px;
     background-color: #f9f9f9;
+    color: #000;
     min-width: 100%;
     min-height: 250px;
 }
@@ -1141,19 +1154,34 @@ textarea {
     line-height: 1.3;
 }
 
-.jumbotron {
-    background: #000 url(../images/maura_mazambi.jpg) no-repeat center center;
-    background-position:   30% 80%;
+.bg-article-1 {
+    background: url(../images/articles/ujev_2018.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 780px;
+    min-height: 360px;
+    border-radius: 4px;
 }
 
-.jumbotron h1 {
-    color: #eee;
-    /*font-size: 56px*/
+.bg-article-2 {
+    background: url(../images/articles/banda_maravilha.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 180px;
+    border-radius: 4px;
+}
+
+.bg-article-3 {
+    background: url(../images/articles/kizomba_vs_urban.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 180px;
+    border-radius: 4px;
 }
 
 .grayscale {
@@ -1166,13 +1194,6 @@ textarea {
     filter: grayscale(0%);
 }
 
-.modul {
-    max-width: 360px;
-    min-width: 240px;
-    border-radius: 5px;
-    padding: 0.25rem;
-    background-color: rgba(255, 255, 255, 0.85)  /*#fdfdad */
-}
 
 .icon {
     margin-top: 0;
@@ -1190,7 +1211,7 @@ textarea {
 }
 
 .pipa {
-    list-style-image: url(/assets/images/pipa.png)
+    list-style-image: url(/assets/images/pipa2.png);
 }
 
 .cover {
@@ -1223,17 +1244,23 @@ textarea {
 
  .custom-form .ws-invalid label,
  .custom-form .ws-invalid h3 {
-    color: #cb2020;
+    color: #fff;
 }
 .custom-form .ws-invalid input {
-    border-color: #cb2020;
+    border-color: #fff;
 }
 .custom-form .ws-success input {
-    border-color: rgb(82, 184, 34);
+    border-color: #52b822;
 }
 
 .ws-errorbox {
+    font-weight: 600;
     font-family: 'Alegreya Sans', Arial, Helvetica, sans-serif;
-    color: #cb2020;
 }
+
+.ws-errorbox p {
+    color: #f6a1a8;
+    font-size: 0.8rem;
+}
+
 
