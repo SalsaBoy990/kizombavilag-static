@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* Created by András Gulácsi (@andrasgulacsi / salsaboy990), 2018-03-07 */
+/* Created by András Gulácsi (@andrasgulacsi / salsaboy990) */
 
 @media (max-width: 400px) {
     body, html {
@@ -1152,36 +1152,6 @@ textarea {
     font-size: 1.8rem;
     font-family: 'Alegreya Sans', Arial, Helvetica, sans-serif;
     line-height: 1.3;
-}
-
-.bg-article-1 {
-    background: url(../images/articles/ujev_2018.jpg) no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    min-height: 360px;
-    border-radius: 4px;
-}
-
-.bg-article-2 {
-    background: url(../images/articles/banda_maravilha.jpg) no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    height: 180px;
-    border-radius: 4px;
-}
-
-.bg-article-3 {
-    background: url(../images/articles/lady_diana_es_lizete.jpg) no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    height: 180px;
-    border-radius: 4px;
 }
 
 .grayscale {
