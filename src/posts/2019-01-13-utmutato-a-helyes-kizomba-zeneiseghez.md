@@ -1,7 +1,7 @@
 ---
 title: Útmutató a helyes kizomba zeneiséghez
 author: Gulácsi András
-date: '2019-01-15'
+date: '2019-01-14'
 excerpt: >-
   Általános irányelvek: 1. helyben alap: csak az intró alatt szokás használni,
   2. oldalalap: amikor a dob bejön, 3. előre/hátraalap: amikor az ének bejön. A
