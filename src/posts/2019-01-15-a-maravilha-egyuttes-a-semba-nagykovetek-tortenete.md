@@ -32,13 +32,17 @@ De szerencsére fennmaradtak. Negyedszázaddal később és a fényes pályafut�
 > „Olyanok vagyunk, mint a kókuszpálmák – meg tudunk hajolni, de soha nem törünk el.”
 
 
-![A Banda Maravilha Angola Maravilha című albuma, 1997](/assets/images/articles/banda_maravilha3.jpg)
+![A Banda Maravilha Angola Maravilha (1997) című albumának borítója](/assets/images/articles/banda_maravilha3.jpg)
 
-![A Banda Maravilha Semba Luanda című albuma, 2001](/assets/images/articles/banda_maravilha2.jpg)
+![A Banda Maravilha Semba Luanda (2001) című albumának borítója](/assets/images/articles/banda_maravilha2.jpg)
 
-![A Banda Maravilha ‎Zungueira című albuma, 2005](/assets/images/articles/banda_maravilha1.jpg)
+![A Banda Maravilha ‎Zungueira (2005) című albumának borítója](/assets/images/articles/banda_maravilha1.jpg)
 
-![A Banda Maravilha As Nossas Palmas című albuma, 2010](/assets/images/articles/banda_maravilha4.jpg)
+![A Banda Maravilha As Nossas Palmas (2010) című albumának borítója](/assets/images/articles/banda_maravilha4.jpg)
+
+## Felhasznált forrás
+
+* University of Kizomba (2017). [Banda Maravilha.](https://www.facebook.com/University.of.Kizomba/posts/486384361703395)
 
 
 
