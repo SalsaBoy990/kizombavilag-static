@@ -54,7 +54,7 @@
         </ul>
         <div class="tab-content">
           <div class="tab-pane fade in active" id="zene">
-            <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+            <% for (var i = 0, j = 0; i < postsDataForIndexPage.length; i++) { %>
             <% if (postsDataForIndexPage[i].topic === 'zene') { %>
             <div class="col-xs-12 col-sm-5 col-lg-3">
               <article class="mt2">
@@ -67,11 +67,15 @@
                 </div>
               </article>
             </div>
+            <% if (j % 2 !== 0) { %>
+            <div class="clearfix"></div>
+            <% } %>
+            <% j = j + 1; %>
             <% } %>
             <% } %>
           </div>
           <div class="tab-pane fade in" id="tanc">
-            <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+            <% for (var i = 0, j = 0; i < postsDataForIndexPage.length; i++) { %>
             <% if (postsDataForIndexPage[i].topic === 'tánc') { %>
             <div class="col-xs-12 col-sm-5 col-lg-3">
               <article class="mt2">
@@ -84,11 +88,15 @@
                 </div>
               </article>
             </div>
+            <% if (j % 2 !== 0) { %>
+            <div class="clearfix"></div>
+            <% } %>
+            <% j = j + 1; %>
             <% } %>
             <% } %>
           </div>
           <div class="tab-pane fade in" id="kultura">
-            <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+            <% for (var i = 0, j = 0; i < postsDataForIndexPage.length; i++) { %>
             <% if (postsDataForIndexPage[i].topic === 'kultúra') { %>
             <div class="col-xs-12 col-sm-5 col-lg-3">
               <article class="mt2">
@@ -101,6 +109,10 @@
                 </div>
               </article>
             </div>
+            <% if (j % 2 !== 0) { %>
+            <div class="clearfix"></div>
+            <% } %>
+            <% j = j + 1; %>
             <% } %>
             <% } %>
           </div>
