@@ -35,12 +35,13 @@ A fentiek főként a kizomba és a semba számokhoz való tanácsok. A ghetto zo
 
 A zeneiség gyakorlására két különleges számot ajánlok. Az egyik egy kizomba, a másik pedig egy coladeira-ghetto zouk keverék szám. Szintén nézzétek meg [Eddy Vents](https://www.facebook.com/eddy.vents/) mester új tutoriál videóját.
 
+## Eddy Vents - Kizomba alapok alkalmazása zenére
+@[youtube](9I9sv1yAHTc)
+
 ## Jack Lefel - Ar Que Respiro (kizomba) 
 @[youtube](VIGUYRRHBxA)
 
 ## Elji Beatzkilla - Nha Bubista (coladeira-ghettozouk)
 @[youtube](USOWVQTer1M)
 
-## Eddy Vents - Kizomba alapok alkalmazása zenére
-@[youtube](9I9sv1yAHTc)
 
