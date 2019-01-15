@@ -31,6 +31,13 @@ De szerencsére fennmaradtak. Negyedszázaddal később és a fényes pályafut�
 
 > „Olyanok vagyunk, mint a kókuszpálmák – meg tudunk hajolni, de soha nem törünk el.”
 
+## Banda Maravilha élőben
+
+@[youtube](ikeS_xwX79o)
+
+@[youtube](Pk879s-SElg)
+
+
 
 ![A Banda Maravilha Angola Maravilha (1997) című albumának borítója](/assets/images/articles/banda_maravilha3.jpg)
 
