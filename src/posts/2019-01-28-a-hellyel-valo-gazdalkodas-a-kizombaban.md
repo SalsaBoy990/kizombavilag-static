@@ -9,7 +9,7 @@ excerpt: >-
 topic: tánc
 coverImage: eddyventschallenge.jpg
 ---
-A tánctér nagysága a legnagyobb luxus, amit ma a kizomba fesztiválok résztvevői világszerte megengedhetnek maguknak. A legtöbb bulit olyan helyszíneken tartják meg, ahol a tér bőségesen rendelkezésre áll a tánchoz és ez elegendő helyet biztosít nagyon nagy lépéseknek („passadas”), az akrobatikai elemeknek és harcművészet-szerű mozdulatoknak.
+A tánctér nagysága a legnagyobb luxus, amit ma a kizomba fesztiválok résztvevői világszerte megengedhetnek maguknak. A legtöbb bulit olyan helyszíneken tartják meg, ahol a tér bőségesen rendelkezésre áll a tánchoz és ez elegendő helyet biztosít nagyon nagy lépéseknek („passadas”), az akrobatikai elemeknek és a harcművészet-szerű mozdulatoknak.
 
 Azonban gyakran nem ez a helyzet Angolában. A hely a mi partijainkon a legnagyobb valószínűséggel csak egy bónusz. Szintén, ha megkérdezel bárkit, aki gyakori látogatója volt a PALOP éjszakai kluboknak az 1980-as és 90-es években, Portugáliában, akkor el fogják mesélni, hogy azok mennyire zsúfoltak voltak.
 
