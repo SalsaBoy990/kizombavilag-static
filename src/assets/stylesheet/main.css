@@ -407,7 +407,7 @@ html {
 body {
     color: #333;
     background: #FFF;
-    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Alegreya', Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     width: 100%;
     height: 100%;
@@ -514,7 +514,7 @@ ul {
 blockquote {
     background: #eee;
     font-style: italic;
-    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Alegreya', Georgia, 'Times New Roman', Times, serif;
     color: #222;
     font-size: 1rem;
     margin: 2rem 1rem;
@@ -789,7 +789,7 @@ header a:hover {
 }
 
 table {
-    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Alegreya', Georgia, 'Times New Roman', Times, serif;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
     font-size: .75rem;
@@ -799,7 +799,7 @@ table {
 }
 
 figcaption {
-    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Alegreya', Georgia, 'Times New Roman', Times, serif;
     margin-bottom: 1.5rem;
     font-size: .8rem;
     font-style: italic;
@@ -812,7 +812,7 @@ figcaption {
 }
 
 caption {
-    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Alegreya', Georgia, 'Times New Roman', Times, serif;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
     font-size: .8rem;
@@ -928,7 +928,7 @@ tr:nth-child(even) {
 body,
 html {
     font-size: 24px;
-    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Alegreya', Georgia, 'Times New Roman', Times, serif;
     line-height: 1.7;
     margin: 0;
     padding: 0;
@@ -1091,7 +1091,7 @@ input {
 
 input {
     background-color: #f9f9f9;
-    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Alegreya', Georgia, 'Times New Roman', Times, serif;
     font-size: 1rem;
     color: #000
 }
@@ -1101,7 +1101,7 @@ input[type=text]:focus, input[type="email"]:focus, textarea:focus {
 }
 
 textarea {
-    font-family: 'Tinos', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Alegreya', Georgia, 'Times New Roman', Times, serif;
     font-size: 1rem;
     border-width: 2px;
     border-style: solid;
