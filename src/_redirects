@@ -1,12 +1,1 @@
-# Redirect default Netlify subdomain to primary domain
-https://kizombavilag.netlify.com/* https://www.kizombavilag.com/:splat 301!
 
-https://kizombavilag.netlify.com/* https://kizombadanceszeged.com/:splat 301!
-https://www.kizombavilag.com/* https://kizombadanceszeged.com/:splat 301!
-
-# Redirects from what the browser requests to what we serve
-/zenek              /          301
-/az_osszes_cikk     /          301
-/oktato-videok      /          301
-/tancos-videok      /          301
-/cikkek             /          301
